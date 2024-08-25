@@ -2,4 +2,4 @@
 
 ## Languages
 
-[Español](./Docs/Esp/resumen.md)
+[Español](./Docs/Esp/indice.md)
