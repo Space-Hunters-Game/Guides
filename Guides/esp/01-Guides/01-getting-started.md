@@ -3,8 +3,18 @@
 ### [Guías de Usuario](#)
 
 # Resumen y primeros pasos.
-
-## ¿De qué trata esta comunidad?
+- [Resumen y primeros pasos.](#resumen-y-primeros-pasos)
+  - [¿Qué es Space Hunters?](#qué-es-space-hunters)
+  - [¿Cuál es el estado actual del proyecto?](#cuál-es-el-estado-actual-del-proyecto)
+  - [¿Hay actualmente algo en lo que pueda participar?](#hay-actualmente-algo-en-lo-que-pueda-participar)
+  - [¿Qué es es $HCREDIT y como se puede obtener?](#qué-es-es-hcredit-y-como-se-puede-obtener)
+  - [Los ítems del juego.](#los-ítems-del-juego)
+  - [¿Qué ventajas tengo hoy al formar parte de esta comunidad?](#qué-ventajas-tengo-hoy-al-formar-parte-de-esta-comunidad)
+  - [¿Cómo puedo comenzar a ''farmear'' los $HCREDIT?](#cómo-puedo-comenzar-a-farmear-los-hcredit)
+  - [¿Cómo puedo obtener los NFTs gratuitos?](#cómo-puedo-obtener-los-nfts-gratuitos)
+    - [Wallets](#wallets)
+  - [Nuestro Whitepaper](#nuestro-whitepaper)
+  - [Redes Sociales](#redes-sociales)
 
 Esta comunidad se centra en la presentación de un juego que ofrece entretenimiento, diversión y una economía sostenible y orientada a la comunidad; en la que los jugadores pueden disfrutar de una experiencia diversificada y obtener recompensas sin afectar la economía del juego. 
 
@@ -126,4 +136,4 @@ Síguenos en nuestras redes sociales
 
 ****
 
-### [Guías de Usuario](../00-index.md#)
+### [Guías de Usuario](../00-index.md)
