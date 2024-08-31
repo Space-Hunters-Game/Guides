@@ -1,6 +1,6 @@
 ![Space Hunters: Reborn](../../../static/img/01-main.png)
 
-### [Guías de Usuario](../00-index.md# "")
+### [Guías de Usuario](#)
 
 # Resumen y primeros pasos.
 
@@ -126,4 +126,4 @@ Síguenos en nuestras redes sociales
 
 ****
 
-### [Guías de Usuario](../00-index.md# "")
+### [Guías de Usuario](../00-index.md#)
