@@ -18,7 +18,7 @@ SH utiliza varios estilos económicos y modos de juego, que le dan al usuario la
 * Tareas diarias del juego
 * Misiones para construir y reparar activos y estructuras y 
 
-> [!NOTE] Y muchas otras maneras. Mantente al tanto!!
+> Y muchas otras maneras. Mantente al tanto!!
 
 ## ¿Cuál es el estado actual del proyecto?
 
@@ -53,7 +53,7 @@ Las mecánicas que involucran $HCREDIT han sido minuciosamente analizadas para q
 
 Puedes obtener más detalles en el [documento técnico](https://spaceheroes.gitbook.io/space-hunters), pero para resumirlo quédate con la siguiente idea: La contribución a los propietarios de generadores se llama “Contrato de ingenieros”, vence después de 24 horas para incentivar la participación diaria de la comunidad, lo que significa que si un usuario no permanece activo, no ganará $HCREDIT, que a su vez implica que no obtendrá más $HCASH y a medida que existan menos jugadores involucrados en la Generación habrán más $HCASH para dividir.
 
-> [!IMPORTANT] Algo parecido sucede con el $HCREDIT: cuanto más obtengas, más posibilidades tienes de adquirir $HCASH.
+> Algo parecido sucede con el $HCREDIT: cuanto más obtengas, más posibilidades tienes de adquirir $HCASH.
 
 Como propietario de un generador, puedes mejorar la capacidad del mismo para aumentar la cantidad de ingenieros (capacidad de ranuras) que pueden trabajar en él, ya que más ingenieros significan más potencia. Y solo es posible con $HCREDIT.
 
@@ -94,9 +94,9 @@ Formar parte de la comunidad de **Space Hunters: The Reborn** ofrece varias vent
 
 Lo primero es configurar tu billetera crypto.
 
-> [!WARNING] Asegúrate de que tu wallet sea compatible con WAX Blockchain. Hay varias opciones WaxCloud Wallet, Anchor y Wombat.
+> Asegúrate de que tu wallet sea compatible con WAX Blockchain. Hay varias opciones WaxCloud Wallet, Anchor y Wombat.
 
-> [!NOTE] Si eres latinoamericao, o te topas con restricciones debido a la región en la que te encuentras, prueba con Wombat.
+> Si eres latinoamericao, o te topas con restricciones debido a la región en la que te encuentras, prueba con Wombat.
 
 ### Wallets
 
