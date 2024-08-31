@@ -36,7 +36,9 @@
 <!-- Si deseas contribuir a la nuestra wiki, puedes crear una cuenta en GitHub y editar los archivos de la wiki. También puedes enviar sugerencias y correcciones a través del foro de discusión. -->
 
 ****
+
 > Este sitio web aún está en desarrollo. Pronto estarán disponibles más guías.
+
 ****
 
 [![Telegram](https://img.shields.io/badge/Telegram-BOT-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)
