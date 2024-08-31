@@ -1,6 +1,8 @@
 ![Space Hunters: Reborn](../../../static/img/01-main.png)
 
-# Space Hunters Reborn: Primeros pasos.
+### [Guías de Usuario](../00-index.md# "")
+
+# Resumen y primeros pasos.
 
 ## ¿De qué trata esta comunidad?
 
@@ -103,7 +105,7 @@ Lo primero es configurar tu billetera crypto.
 * [Wax Cloud Wallet](https://www.mycloudwallet.com/)
 * [Wombat](https://www.wombat.app/)
 
-Luego de obtener una billetera, solo debes estar pendiente al [Canal de Anuncios](https://t.me/spacehuntersnews) para participar en actividades donde podrás reclamar tus NFTs gratis y o usarlos para jugar **Space Hunters** despues de su lanzamiento.
+Luego de obtener una billetera, solo debes estar pendiente al [Canal de Anuncios](https://t.me/spacehuntersnews) para participar en actividades donde podrás reclamar tus NFTs gratis y usarlos para jugar **Space Hunters** despues de su lanzamiento.
 
 ## Nuestro Whitepaper
 Para más información detallada sobre todo el proyecto puedes leer nuestra [documentación](https://spaceheroes.gitbook.io/space-hunters).
@@ -121,3 +123,6 @@ Síguenos en nuestras redes sociales
 [![Zealy](https://img.shields.io/badge/Zealy-Space%20Hunters-FF69B4?style=plastic&logo=zealy)](https://zealy.io/cw/spacehuntersthereborn/invite/UroI4c6fhtB3SX65siHBX)
 [![PlayToEarn](https://img.shields.io/badge/PlayToEarn-Space%20Hunters-34C759?style=plastic&logo=playtoearn)](https://playtoearn.com/blockchaingame/space-hunters-the-reborn?rel=search)
 [![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-NFTSpaceHunters-03C9A9?style=plastic&logo=coinmarketcap)](https://coinmarketcap.com/community/profile/nftspacehunters/)
+
+****
+### [Guías de Usuario](../00-index.md# "")
