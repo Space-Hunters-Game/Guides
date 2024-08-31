@@ -8,7 +8,7 @@
 
 ## **Table of contents**
 
-654654
+
 ### [User guides](#)
 * #### [Getting started](/docs/eng/01-user-guides/01-getting-started.md)
 

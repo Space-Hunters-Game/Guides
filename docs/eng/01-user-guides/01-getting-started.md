@@ -1,5 +1,4 @@
-![Space Hunters: Reborn](../../../static/img/01-main.png)
-
+![Space Hunters: Reborn](../../../static/img/SH%20Banner.jpg)
 [User guides](../../../index.md)
 
 ****
