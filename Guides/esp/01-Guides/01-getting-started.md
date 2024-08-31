@@ -1,6 +1,8 @@
 ![Space Hunters: Reborn](../../../static/img/01-main.png)
 
-### [Guías de Usuario](#)
+[Guías de Usuario](#)
+
+****
 
 # Resumen y primeros pasos.
 - [Resumen y primeros pasos.](#resumen-y-primeros-pasos)
@@ -15,6 +17,8 @@
     - [Wallets](#wallets)
   - [Nuestro Whitepaper](#nuestro-whitepaper)
   - [Redes Sociales](#redes-sociales)
+
+****
 
 Esta comunidad se centra en la presentación de un juego que ofrece entretenimiento, diversión y una economía sostenible y orientada a la comunidad; en la que los jugadores pueden disfrutar de una experiencia diversificada y obtener recompensas sin afectar la economía del juego. 
 
@@ -136,4 +140,4 @@ Síguenos en nuestras redes sociales
 
 ****
 
-### [Guías de Usuario](../00-index.md)
+[Guías de Usuario](../00-index.md)
