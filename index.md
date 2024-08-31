@@ -8,7 +8,7 @@ Space Hunters Reborn is an action-adventure game where you must explore space, f
 
 * [Español](/Guides/esp/00-index.md)
 
-**Index**
+<!-- **Index**
 
 * [User Guides](Guides/User-Guide.md)
 	+ [Getting Started](Guides/Getting-Started.md)
@@ -32,4 +32,4 @@ Space Hunters Reborn is an action-adventure game where you must explore space, f
 
 **Contribute to the Wiki**
 
-If you'd like to contribute to the wiki, you can create a GitHub account and edit the wiki files. You can also submit suggestions and corrections through the discussion forum.
+If you'd like to contribute to the wiki, you can create a GitHub account and edit the wiki files. You can also submit suggestions and corrections through the discussion forum. -->
