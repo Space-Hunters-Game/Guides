@@ -1,3 +1,0 @@
-# Índice
-
-## [Resumen](resumen.md) 
