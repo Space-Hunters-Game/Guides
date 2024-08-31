@@ -10,6 +10,7 @@
   - [¿Cuál es el estado actual del proyecto?](#cuál-es-el-estado-actual-del-proyecto)
   - [¿Hay actualmente algo en lo que pueda participar?](#hay-actualmente-algo-en-lo-que-pueda-participar)
   - [¿Qué es es $HCREDIT y como se puede obtener?](#qué-es-es-hcredit-y-como-se-puede-obtener)
+  - [Propósitos y usos de $HCREDIT](#propósitos-y-usos-de-hcredit)
   - [Los ítems del juego.](#los-ítems-del-juego)
   - [¿Qué ventajas tengo hoy al formar parte de esta comunidad?](#qué-ventajas-tengo-hoy-al-formar-parte-de-esta-comunidad)
   - [¿Cómo puedo comenzar a ''farmear'' los $HCREDIT?](#cómo-puedo-comenzar-a-farmear-los-hcredit)
@@ -32,7 +33,7 @@ SH utiliza varios estilos económicos y modos de juego, que le dan al usuario la
 * Involucrar a personas para que jueguen juntas explorando, extrayendo recursos y elementos importantes que se requieren para la elaboración
 * Misiones secretas y de tiempo limitado
 * Tareas diarias del juego
-* Misiones para construir y reparar activos y estructuras y 
+* Misiones para construir y reparar activos y estructuras
 
 > Y muchas otras maneras. Mantente al tanto!!
 
@@ -50,10 +51,12 @@ $HCREDIT es un token de economía social dentro de **SH** que los puedes obtener
 
 Actualmente puedes obtener $HCREDIT de las siguientes maneras:
   * Haciendo Check-in diario en nuestro [BOT de Telegram](https://t.me/SpaceHuntersBot?start=NK1Y6ST3).
-  * Completando las tareas de Zealy.
+  * Completando las tareas de [Zealy](https://zealy.io/cw/spacehuntersthereborn/invite/UroI4c6fhtB3SX65siHBX).
   * Con nuestro sistema de referidos de 2 niveles.
 
 Cada vez que un amigo se registre en el proyecto usando tu enlace de referido obtienes *100 $HCREDIT*, recibes *4 $HCREDIT* si tus amigos hacen Check-in diariamente y *1 $HCREDIT* si tus amigos recomiendan a otras personas que también hacen Check-in.
+
+## Propósitos y usos de $HCREDIT
 
 Aquí encontrará una manera sencilla de comprender los propósitos y usos de $HCREDIT en uno de los modos de juego (gratuito).
 
@@ -89,7 +92,7 @@ Formar parte de la comunidad de **Space Hunters: The Reborn** ofrece varias vent
 * **Diversidad de Modos de Juego:** Disfruta de diferentes modos de juego que se adaptan a tu estilo y tiempo disponible. Aprobecha al máximo todo lo que puedas obtener antes del lanzamiento y comenzarás con ventaja sobre otros jugadores.
 * **Economía sostenible:** Benefíciate de una economía de juego diseñada para ser justa y equilibrada, evitando inflación y maximizando las recompensas.
 * **Participación en el Desarrollo:** Contribuye al crecimiento del juego y la comunidad a través de pruebas, feedback y actividades comunitarias.
-* **Aidrops gratis:** Obten ítems y hasta tokens de forma gratuita, solo tienes que seguir nuestro [Canal de Anuncios]() para no perder las oportunidades.
+* **Airdrops gratis:** Obten ítems y hasta tokens de forma gratuita, solo tienes que seguir nuestro [Canal de Anuncios]() para no perder las oportunidades.
 * **Oportunidades de Crecimiento:** Únete a una comunidad activa y en crecimiento, con planes para nuevos modos de juego, expansiones y características futuras.
 
 ## ¿Cómo puedo comenzar a ''farmear'' los $HCREDIT?
@@ -98,12 +101,10 @@ Formar parte de la comunidad de **Space Hunters: The Reborn** ofrece varias vent
 > Si llegaste hasta aqui por tu cuenta puedes usar nuestro [enlace de referido](https://t.me/SpaceHuntersBot?start=NK1Y6ST3) del cual no obtendremos beneficios y solo existe para ayudar a los nuevos usuarios a iniciar esta aventura.  
 2. Luego asegurate de haber dado click en ''DONE'' y entonces podrás comenzar a usar los comandos del BOT.
 3. Usa el comando `/start` para inicar el BOT o para ver tu propio enlace de referido e invitar a otros amigos.
-
 ![alt text](../../../static/img/02-start-referral-link.png)
-1. Usa el comando `/username` para registrar tu nombre de usuario tal como quieres llamarte luego en el juego. Ejemplo: `/username YankielDBC`
-2. Para comenzar tu check-in diario usa el comando `/check_in`, con lo cual obtendrás 20 $HCREDIT.
-3. Para ver tu balance actual en $HCREDIT usa el comando `/check_in`.
-
+4. Usa el comando `/username` para registrar tu nombre de usuario tal como quieres llamarte luego en el juego. Ejemplo: `/username YankielDBC`.
+5. Para comenzar tu check-in diario usa el comando `/check_in`, con lo cual obtendrás 20 $HCREDIT.
+6. Para ver tu balance actual en $HCREDIT usa el comando `/check_in`.
 ![alt text](../../../static/img/03-check-in.png)
 
 ## ¿Cómo puedo obtener los NFTs gratuitos?
@@ -121,6 +122,7 @@ Lo primero es configurar tu billetera crypto.
 
 Luego de obtener una billetera, solo debes estar pendiente al [Canal de Anuncios](https://t.me/spacehuntersnews) para participar en actividades donde podrás reclamar tus NFTs gratis y usarlos para jugar **Space Hunters** despues de su lanzamiento.
 
+<!-- TODO add change url when page is up-->
 ## Nuestro Whitepaper
 Para más información detallada sobre todo el proyecto puedes leer nuestra [documentación](https://spaceheroes.gitbook.io/space-hunters).
 

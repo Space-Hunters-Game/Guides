@@ -1,10 +1,16 @@
 # Index
 
-**Welcome to the Space Hunters Reborn Docs**
+**Welcome to the Space Hunters: The Reborn Docs**
 
 **Select Language**
 
 * [Español](docs/esp/00-index.md)
+
+## **Table of contents**
+
+
+### [User guides](#)
+* #### [Getting started](/docs/eng/01-user-guides/01-getting-started.md)
 
 ****
 

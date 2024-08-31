@@ -1,8 +1,8 @@
 # Índice
 
-**Bienvenido a la Documentación de Space Hunters Reborn**
+**Bienvenido a la Documentación de Space Hunters: The Reborn**
 
-<!-- Space Hunters Reborn es un juego de acción-aventura en el que debes explorar el espacio, luchar contra enemigos y descubrir nuevos mundos. En esta wiki, encontrarás información detallada sobre el juego, incluyendo guías de usuario, tutoriales, consejos y trucos. -->
+<!-- Space Hunters: The Reborn es un juego de acción-aventura en el que debes explorar el espacio, luchar contra enemigos y descubrir nuevos mundos. En esta wiki, encontrarás información detallada sobre el juego, incluyendo guías de usuario, tutoriales, consejos y trucos. -->
 
 **Seleccionar Idioma**
 

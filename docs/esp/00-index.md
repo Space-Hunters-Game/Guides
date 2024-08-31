@@ -1,6 +1,6 @@
 # Índice
 
-**Bienvenido a la Documentación de Space Hunters Reborn**
+**Bienvenido a la Documentación de Space Hunters: The Reborn**
 
 
 **Seleccionar Idioma**
