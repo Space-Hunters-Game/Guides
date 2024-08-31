@@ -125,4 +125,5 @@ Síguenos en nuestras redes sociales
 [![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-NFTSpaceHunters-03C9A9?style=plastic&logo=coinmarketcap)](https://coinmarketcap.com/community/profile/nftspacehunters/)
 
 ****
+
 ### [Guías de Usuario](../00-index.md# "")

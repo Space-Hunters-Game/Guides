@@ -36,7 +36,8 @@
 If you'd like to contribute to the wiki, you can create a GitHub account and edit the wiki files. You can also submit suggestions and corrections through the discussion forum. -->
 ****
 > This site is still under development. More docs and languages will be available soon.
-***
+****
+
 [![Telegram](https://img.shields.io/badge/Telegram-BOT-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)
 [![Telegram](https://img.shields.io/badge/Telegram-Announcements-26A5E4?style=plastic&logo=telegram)](https://t.me/spacehuntersnews)
 [![Telegram EN](https://img.shields.io/badge/Telegram-Chat%20ENG-2CA5E0?style=plastic&logo=telegram)](https://t.me/spacehunterss)
