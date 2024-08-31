@@ -117,7 +117,7 @@ Formar parte de la comunidad de **Space Hunters: The Reborn** ofrece varias vent
 2. Luego asegurate de haber dado click en ''DONE'' y entonces podrás comenzar a usar los comandos del BOT.
 3. Usa el comando `/start` para inicar el BOT o para ver tu propio enlace de referido e invitar a otros amigos.
 ![alt text](../../../static/img/02-start-referral-link.png)
-4. Usa el comando `/username` para registrar tu nombre de usuario tal como quieres llamarte luego en el juego. Ejemplo: `/username YankielDBC`.
+4. Usa el comando `/username` para registrar tu nombre de usuario (el cual debe ser único) tal como quieres llamarte luego en el juego. Ejemplo: `/username YankielDBC`.
 5. Para comenzar tu check-in diario usa el comando `/check_in`, con lo cual obtendrás 20 $HCREDIT.
 6. Para ver tu balance actual en $HCREDIT usa el comando `/check_in`.
 ![alt text](../../../static/img/03-check-in.png)
