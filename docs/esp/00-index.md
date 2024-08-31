@@ -11,7 +11,7 @@
 
 
 ### [Guías de Usuario](#)
-* #### [Resumen y primeros pasos](01-Guides/01-getting-started.md)
+* #### [Resumen y primeros pasos](01-guias-de-usuario/01-primeros-pasos.md)
 
 ****
 

@@ -12,7 +12,7 @@
 
 
 ### [Guías de Usuario](#)
-* #### [Resumen y primeros pasos](01-Guides/01-getting-started.md)
+* #### [Resumen y primeros pasos](01-guias-de-usuario/01-getting-started.md)
 <!-- * 
 + [Controles](Guías/Controles.md)
 + [Naves y Equipamiento](Guías/Naves-y-Equipamiento.md)
