@@ -6,14 +6,15 @@
 
 **Seleccionar Idioma**
 
-* [English](../../index.md "")
+* [English](../../index.md " ")
 
 ## **Tabla de contenido**
 
 
-### [Guías de Usuario](# "")
-* #### [Resumen y primeros pasos](01-Guides/01-getting-started.md "")
-<!-- + [Controles](Guías/Controles.md)
+### [Guías de Usuario](# " ")
+* #### [Resumen y primeros pasos](01-Guides/01-getting-started.md "Resumen y primeros pasos")
+<!-- * 
++ [Controles](Guías/Controles.md)
 + [Naves y Equipamiento](Guías/Naves-y-Equipamiento.md)
 * [Tutoriales](Tutoriales/Tutorial1.md)
 	+ [Tutorial 1: Exploración Básica](Tutoriales/Tutorial1.md)
@@ -29,11 +30,11 @@
 
 * [Sitio Web Oficial del Juego](https://www.spacehuntersreborn.com)
 * [Foro de Discusión](https://www.spacehuntersreborn.com/forum)
-* [Canal de YouTube](https://www.youtube.com/spacehuntersreborn) -->
+* [Canal de YouTube](https://www.youtube.com/spacehuntersreborn)
 
-<!-- **Contribuir a la Wiki** -->
+**Contribuir a la Wiki**
 
-<!-- Si deseas contribuir a la nuestra wiki, puedes crear una cuenta en GitHub y editar los archivos de la wiki. También puedes enviar sugerencias y correcciones a través del foro de discusión. -->
+Si deseas contribuir a la nuestra wiki, puedes crear una cuenta en GitHub y editar los archivos de la wiki. También puedes enviar sugerencias y correcciones a través del foro de discusión. -->
 
 ****
 
