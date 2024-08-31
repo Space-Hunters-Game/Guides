@@ -1,6 +1,6 @@
 ![Space Hunters: Reborn](../../../static/img/SH%20Banner.jpg)
 
-[User Guides](../00-index.md)
+[User Guides](../../../index.md)
 
 ****
 
@@ -11,10 +11,10 @@
   - [Is there anything I can participate in right now?](#is-there-anything-i-can-participate-in-right-now)
   - [What is $HCREDIT and how can it be obtained?](#what-is-hcredit-and-how-can-it-be-obtained)
   - [Purposes and Uses of $HCREDIT](#purposes-and-uses-of-hcredit)
-  - [Game Items.](#game-items)
-  - [What advantages do I have today by being part of this community?](#what-advantages-do-i-have-today-by-being-part-of-this-community)
-  - [How can I start farming $HCREDIT?](#how-can-i-start-farming-hcredit)
-  - [How can I get free NFTs?](#how-can-i-get-free-nfts)
+  - [Game Items](#game-items)
+  - [What Advantages Do I Have by Being Part of This Community?](#what-advantages-do-i-have-by-being-part-of-this-community)
+  - [How Can I Start "Farming" $HCREDIT?](#how-can-i-start-farming-hcredit)
+  - [How Can I Obtain Free NFTs?](#how-can-i-obtain-free-nfts)
     - [Wallets](#wallets)
   - [Our Whitepaper](#our-whitepaper)
   - [Social Media](#social-media)
@@ -160,4 +160,4 @@ Follow us on our social media
 
 ****
 
-[User Guides](../00-index.md)
+[User Guides](../../../index.md)
