@@ -1,6 +1,6 @@
 ![Space Hunters: Reborn](../../../static/img/01-main.png)
 
-[Guías de Usuario](#)
+[Guías de Usuario](../00-index.md)
 
 ****
 
