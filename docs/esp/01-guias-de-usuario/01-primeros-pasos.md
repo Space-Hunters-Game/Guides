@@ -1,6 +1,6 @@
 ![Space Hunters: Reborn](../../../static/img/SH%20Banner.jpg)
 
-[Guías de Usuario](../00-index.md)
+[Regresar al Índice](../00-index.md)
 
 ****
 
@@ -160,4 +160,4 @@ Síguenos en nuestras redes sociales
 
 ****
 
-[Guías de Usuario](../00-index.md)
+[Regresar al Índice](../00-index.md)

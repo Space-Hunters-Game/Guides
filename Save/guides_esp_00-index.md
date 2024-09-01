@@ -1,4 +1,4 @@
-# Índice
+![alt text](<../static/img/SH Banner.jpg>)
 
 **Bienvenido a la Documentación de Space Hunters**
 
@@ -8,7 +8,7 @@
 
 * [English](../../index.md)
 
-## **Tabla de contenido** 
+## **Índice** 
 
 
 ### [Guías de Usuario](#)
