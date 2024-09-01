@@ -119,8 +119,8 @@ Being part of the **Space Hunters: The Reborn** community offers several advanta
 3. Use the /start command to initiate the BOT or to see your own referral link and invite other friends.
 ![alt text](../../../static/img/02-start-referral-link.png)
 4. Use the /username command to register your username as you want to be called in the game later. Example: /username YankielDBC.
-5. To start your daily check-in, use the /check_in command, which will earn you 20 $HCREDIT.
-6. To view your current $HCREDIT balance, use the /check_in command.
+5. To start your daily check-in, press the 📇Check-in button, which will earn you 20 $HCREDIT.
+6. To view your current $HCREDIT balance, use the 📇Check-in button again.
 ![alt text](../../../static/img/03-check-in.png)
 
 ## How Can I Obtain Free NFTs?
