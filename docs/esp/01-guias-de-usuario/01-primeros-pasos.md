@@ -60,7 +60,7 @@ Actualmente puedes obtener $HCREDIT de las siguientes maneras:
 
 >Cada vez que un amigo se registre en el proyecto usando tu enlace de referido obtienes *100 $HCREDIT*, recibes *4 $HCREDIT* si tus amigos hacen Check-in diariamente y *1 $HCREDIT* si tus amigos recomiendan a otros amigos que también hacen Check-in diariamente.
 
->Si agregas SpaceHunter, Space Hunrter, SpaceHunters o Space Hunters a tu nombre en telegram nuestro algoritmo lo detectará y te recompensará diariamente tokens $HCREDIT directos a tu cuenta. Mientras más días consecutivos lo lleves mas aumenta la recompensa hasta 28 días por un total de 2500 $HCREDIT y luego comienza otra vez.
+>Si agregas SpaceHunter, Space Hunter, SpaceHunters o Space Hunters a tu nombre en telegram nuestro algoritmo lo detectará y te recompensará diariamente tokens $HCREDIT directos a tu cuenta. Mientras más días consecutivos lo lleves mas aumenta la recompensa hasta 28 días por un total de 2500 $HCREDIT y luego comienza otra vez.
 
 **Ejemplo:**
 
@@ -74,7 +74,7 @@ Imagina una tierra donde necesitas trabajadores, pero esta tierra solo se puede 
 
 Ahora, este modo de juego es GRATIS, proporciona a los jugadores activos y a sus seguidores los tokens $HCREDIT solo por ser participar y apoyar al proyecto en tareas sociales, check in, etc. Significa que cuanto más activo seas, más oportunidades tendrás.
 
-El paquete “Generador” será limitado y costoso en tokens $HCREDIT y solo estará disponible en esa moneda. Porque es el modo de juego que se centra en el apoyo social y el compromiso de la comunidad Space Hunters y las comunidades de nuestos asociados, ejemplo: si apoyas a uno de nuestros asociados en un Stream que está realizando podrias generar tokens $HCREDIT, o por ser activo en sus grupos etc.. pero eso no es todo, hay más por venir, $HCREDIT será masivo y llegará a todas las comunidades con muchos formatos y utilidades... pero regresando al tema de los ´´Generadores´´, cada hora recibirás el 35% le los tokens que haya acumulado tu Generador y el 65% será distribuido entre todos los contribuyentes que no poseen Generadores pero potencian los tuyos. 
+El paquete “Generador” será limitado y costoso en tokens $HCREDIT y solo estará disponible en esa moneda. Porque es el modo de juego que se centra en el apoyo social y el compromiso de la comunidad Space Hunters y las comunidades de nuestos asociados, ejemplo: si apoyas a uno de nuestros asociados en un Stream que está realizando podrias generar tokens $HCREDIT, o por ser activo en sus grupos etc.. pero eso no es todo, hay más por venir, $HCREDIT será masivo y llegará a todas las comunidades con muchos formatos y utilidades... pero regresando al tema de los ´´Generadores´´, cada hora recibirás el 35% de los tokens que haya acumulado tu Generador y el 65% será distribuido entre todos los contribuyentes que no poseen Generadores pero potencian los tuyos. 
 
 Los ´´Ingenieros´´ cuestan 100 $HCREDIT y expiran en 24H, puedes poner tantos como $HCREDIT tengas y generar el token principal del juego $HCASH cada 1H.
 Para poder generar sin detenerte debes formar una estrategia que te permita generar $HCREDIT todos los días teniendo en cuenta todas las vías que te damos disponible.
@@ -93,7 +93,7 @@ Como propietario de un generador, puedes mejorar la capacidad del mismo para aum
 **En resumen:** $HCREDIT es el 50% del sistema deflacionario para $HCASH y al mismo tiempo $HCASH tiene su propio sistema de asignación y economía que recompenza a los usuarios por jugar y mantenerse activos.
 enfócate en ganar, nosotros nos ocupamos del resto! 
 
-> La principal diferencia entre **$HCREDIT** y **$CASH** es que uno está dentro del juego y el otro es el objetivo final: Recibir un pago en tokens que permita monetizar el tiempo y esfuerzo invertido, lo que conocemos como **Play-To-Earn**.
+> La principal diferencia entre **$HCREDIT** y **$HCASH** es que uno está dentro del juego y el otro es el objetivo final: Recibir un pago en tokens que permita monetizar el tiempo y esfuerzo invertido, lo que conocemos como **Play-To-Earn**.
 
 ## Los ítems del juego.
 
@@ -104,9 +104,9 @@ El 90% son gratuitos y se pueden obtener jugando o comprándolos con tokens. Ade
 Formar parte de la comunidad de **Space Hunters: The Reborn** ofrece varias ventajas:
 * **Acceso Gratuito al Juego:** Puedes jugar sin costo inicial, con recursos y activos gratuitos para comenzar.
 * **Recompensas Diarias:** Gana $HCREDIT y otros premios participando en actividades diarias, nuestras redes sociales y eventos.
-* **Diversidad de Modos de Juego:** Disfruta de diferentes modos de juego que se adaptan a tu estilo y tiempo disponible. Aprobecha al máximo todo lo que puedas obtener antes del lanzamiento y comenzarás con ventaja sobre otros jugadores.
+* **Diversidad de Modos de Juego:** Disfruta de diferentes modos de juego que se adaptan a tu estilo y tiempo disponible. Aprovecha al máximo todo lo que puedas obtener antes del lanzamiento y comenzarás con ventaja sobre otros jugadores.
 * **Economía sostenible:** Benefíciate de una economía de juego diseñada para ser justa y equilibrada, evitando inflación y maximizando las recompensas.
-* **Participación en el Desarrollo:** Contribuye al crecimiento del juego y la comunidad a través de pruebas, feedback y actividades comunitarias, apoya tus creadores favoritos y gana tokens, invítalos a asociarse y gana tokens desde tus gruos favoritos.
+* **Participación en el Desarrollo:** Contribuye al crecimiento del juego y la comunidad a través de pruebas, feedback y actividades comunitarias, apoya tus creadores favoritos y gana tokens, invítalos a asociarse y gana tokens desde tus grupos favoritos.
 * **Airdrops gratis:** Obten ítems y hasta tokens de forma gratuita, solo tienes que seguir nuestro [Canal de Anuncios]() para no perder las oportunidades.
 * **Oportunidades de Crecimiento:** Únete a una comunidad activa y en crecimiento, con planes para nuevos modos de juego, expansiones y características futuras.
 * **Embajador de Space Hunters:** ¿Eres creador de contenido? Envíanos tu información a través de esta aplicación [Formulario de Embajador](https://docs.google.com/forms/d/e/1FAIpQLSc5_EEXHWroFhF_1MJRga4z2y8gW5xZ5pVT1RDDqMOIutqO6g/viewform?usp=sf_link) para disfrutar de los beneficios que te ofrecemos y a tu comunidad. Dales una razón adicional pra estar activos!
@@ -117,7 +117,7 @@ Formar parte de la comunidad de **Space Hunters: The Reborn** ofrece varias vent
 2. Luego asegurate de haber dado click en ''DONE'' y entonces podrás comenzar a usar los comandos del BOT.
 3. Usa el comando `/start` para inicar el BOT o para ver tu propio enlace de referido e invitar a otros amigos.
 ![alt text](../../../static/img/02-start-referral-link.png)
-4. Usa el comando `/username` para registrar tu nombre de usuario tal como quieres llamarte luego en el juego. Ejemplo: `/username YankielDBC`.
+4. Usa el comando `/username` para registrar tu nombre de usuario (el cual debe ser único) tal como quieres llamarte luego en el juego. Ejemplo: `/username YankielDBC`.
 5. Para comenzar tu check-in diario usa el comando `/check_in`, con lo cual obtendrás 20 $HCREDIT.
 6. Para ver tu balance actual en $HCREDIT usa el comando `/check_in`.
 ![alt text](../../../static/img/03-check-in.png)
