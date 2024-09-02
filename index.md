@@ -8,7 +8,9 @@
 
 ## **Table of contents**
 
-
+### [Announcements](#)
+* #### [Energy Box Drop](/docs/eng/announcements/energy-box-drop.md)
+  
 ### [User guides](#)
 * #### [Getting started](/docs/eng/01-user-guides/01-getting-started.md)
 
