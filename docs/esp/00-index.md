@@ -9,7 +9,9 @@
 
 ## **Tabla de contenido**
 
-
+### [Anuncios](#)
+* #### [Drop de caja de energía](anuncios/energy-box-drop.md)
+  
 ### [Guías de Usuario](#)
 * #### [Resumen y primeros pasos](01-guias-de-usuario/01-primeros-pasos.md)
 
