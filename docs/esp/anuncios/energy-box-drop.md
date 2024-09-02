@@ -8,7 +8,7 @@ Estamos emocionados de anunciar nuestro próximo drop que incluirá una caja esp
 **Requisitos:**
 
 - Debes referir al menos a 2 amigos antes del 15 de septiembre para ser elegible.
-- Agrega nuestro nombre de marca, *SpaceHunters*, a tu nombre de usuario en Telegram para ganar $HCREDITS adicionales. ([Lee sobre esto aquí](https://t.me/spacehuntersnews))
+- Agrega nuestro nombre de marca, *SpaceHunters*, a tu nombre de usuario en Telegram para ganar $HCREDITS adicionales. ([Guía para iniciados aquí](../01-guias-de-usuario/01-primeros-pasos.md))
 
 También tenemos 24 cajas NFT extra reservadas para nuestros embajadores, que se utilizarán para sorteos en sus comunidades y algunas whitelists aseguradas.
 
