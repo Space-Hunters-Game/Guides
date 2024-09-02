@@ -8,7 +8,7 @@ We're excited to announce our upcoming drop featuring a special box that allows 
 ## Requirements:
 
 - You must refer at least 2 friends by September 15th to be eligible.
-- Add our brand name, SpaceHunters, to your Telegram username to earn additional $HCREDITS. (Read about this [here](#))
+- Add our brand name, SpaceHunters, to your Telegram username to earn additional $HCREDITS. (Guide for newcomers [here](../01-user-guides/01-getting-started.md))
 
 We also have 24 extra NFT boxes reserved for our ambassadors, which will be used for community giveaways and a few secured whitelists.
 
