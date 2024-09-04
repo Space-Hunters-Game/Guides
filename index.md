@@ -10,10 +10,10 @@
 
 ### [Announcements](#)
 * #### [Energy Box Drop](/docs/eng/announcements/energy-box-drop.md)
+* #### [Sticker Pack](/docs/eng/announcements/sticker-pack.md)
   
 ### [User guides](#)
 * #### [Getting started](/docs/eng/01-user-guides/01-getting-started.md)
-* #### [Sticker Pack](/docs/eng/announcements/sticker-pack.md)
 ****
 
 > This site is still under development. More docs and languages will be available soon.
