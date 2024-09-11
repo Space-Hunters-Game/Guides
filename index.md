@@ -8,6 +8,9 @@
 
 ## **Table of contents**
 
+### [Blog](#)
+* ### [Our Space Hunters BOT](/docs/eng/blog/Our_Space_Hunters_BOT.md)
+
 ### [Announcements](#)
 * #### [Energy Box Drop](/docs/eng/announcements/energy-box-drop.md)
 * #### [Sticker Pack](/docs/eng/announcements/sticker-pack.md)

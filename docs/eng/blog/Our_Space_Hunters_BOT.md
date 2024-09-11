@@ -42,3 +42,6 @@ By incorporating strong burn mechanisms, community participation, and a balanced
 The Space Hunters ecosystem offers free benefits for communities by rewarding interaction and engagement through our $HCREDIT token. Designed for mass adoption, $HCREDIT's purpose is to unite web3 communities, rewarding active members while creating a shared experience. As players interact and engage within their own groups, they also connect with others, building a circle of interconnected communities that all converge in the Space Hunters universe. Communities can promote themselves through our platform, leveraging new features we're developing. After our release, this ecosystem will create a hub for collaboration, growth, and shared success
 
 See you soon hunters!
+
+[Back to Index](../../../index.md)
+
