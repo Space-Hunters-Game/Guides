@@ -1,27 +1,149 @@
-# Index
+<div style="background-color:#1F1F1F; padding:10px;">
 
-**Welcome to the Space Hunters: The Reborn Docs**
+![Banner](<static/img/Baanner top 2.jpg>)
 
-**Select Language**
+# <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Documentation </span> </div>
 
-* [Español](docs/esp/00-index.md)
+<span style="color:#00FFFF">*Welcome to the Space Hunters: The Reborn Docs*</span>
 
-## **Table of contents**
+**<span style="color:#C0C0C0">Select Language**</span>
+* [<span style="color:#39FF14">Español</span>](docs/esp/00-index.md)
 
-### [Blog](#)
-* ### [Our Space Hunters BOT](/docs/eng/blog/Our_Space_Hunters_BOT.md)
+## **<span style="color:#FF3D3D">Summary & News**</span>
 
-### [Announcements](#)
-* #### [Energy Box Drop](/docs/eng/announcements/energy-box-drop.md)
-* #### [Sticker Pack](/docs/eng/announcements/sticker-pack.md)
-  
-### [User guides](#)
-* #### [Getting started](/docs/eng/01-user-guides/01-getting-started.md)
+<details>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">📓Blog</summary>
+  <div>
+    <ul>
+      <li><a href="" style="color:#39FF14;">Our Space Hunters BOT</a></li>
+      <li><a href="/docs/eng/blog/Our_Space_Hunters_BOT.md" style="color:#39FF14;">Ambassador Program</a></li>
+      <li><a href="/docs/eng/blog/Another_Post.md" style="color:#39FF14;">Early Farming 2.0</a></li>
+      <li><a href="/docs/eng/blog/Another_Post.md" style="color:#39FF14;">App: Hunter Hub</a></li>
+      <!-- Add more items here -->
+    </ul>
+  </div>
+</details>
+
+
+<details>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">📣Announcements</summary>
+  <div>
+    <ul>
+      <li><a href="/docs/eng/announcements/energy-box-drop.md" style="color:#39FF14;">Energy Box Drop</a></li>
+      <li><a href="/docs/eng/announcements/sticker-pack.md" style="color:#39FF14;">Sticker Pack</a></li>
+      <!-- Add more items here -->
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🙍‍♂️User Guides</summary>
+  <div>
+    <ul>
+      <li><a href="/docs/eng/01-user-guides/01-getting-started.md" style="color:#39FF14;">Getting Started</a></li>
+    </ul>
+  </div>
+</details>
+
+## **<span style="color:#FF3D3D">Whitepaper**
+<details>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Introduction</summary>
+  <ul>
+    <li><a href="/docs/eng/Whitepaper/Storyline.md" style="color:#39FF14;">Game Storyline</a></li>
+    <li><a href="/docs/eng/Whitepaper/Overview.md" style="color:#39FF14;">Project Overview</a></li>
+    <li><a href="/docs/eng/Whitepaper/Core%20Philosophy.md" style="color:#39FF14;">Core Philosophy</a></li>
+    <li><a href="/docs/eng/Whitepaper/Project%20Features.md" style="color:#39FF14;">Project Features</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Game Setup & Getting Started</summary>
+  <div>
+    <ul>
+      <li><span style="color:#39FF14;">(Soon) Account Creation</span></li>
+      <li><a href="/docs/eng/Whitepaper/Game%20Interface.md" style="color:#39FF14;">Game Interface</a></li>
+      <li><a href="#basic-mechanics" style="color:#39FF14;">Basic Mechanics</a></li>
+      <li><a href="#tips-short-guide" style="color:#39FF14;">Tips & Short Guide</a></li>
+      <!-- Add more items here if needed -->
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Gameplay Overview</summary>
+  <div>
+    <ul>
+      <li><a href="#basic-missions" style="color:#39FF14;">Basic Missions</a></li>
+      <li><a href="#excavation" style="color:#39FF14;">Excavation</a></li>
+      <li><a href="#generators" style="color:#39FF14;">Generators</a></li>
+      <li><a href="#crafting" style="color:#39FF14;">Crafting</a></li>
+      <li><a href="#achievements" style="color:#39FF14;">Achievements</a></li>
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Game Mechanics</summary>
+  <div>
+    <ul>
+      <li><a href="#play-to-earn" style="color:#39FF14;">Play-to-Earn</a></li>
+      <li><a href="#free-to-play" style="color:#39FF14;">Free-to-Play</a></li>
+      <li><a href="#community-driven" style="color:#39FF14;">Community Driven</a></li>
+    </ul>
+  </div>
+</details>
+<details>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Economy and Tokenomics</summary>
+  <div>
+    <ul>
+      <li><a href="#tokens" style="color:#39FF14;">Tokens</a></li>
+      <li><a href="#ecosystem" style="color:#39FF14;">Ecosystem</a></li>
+      <li><a href="#marketplace" style="color:#39FF14;">Marketplace</a></li>
+      <li><a href="#memberships" style="color:#39FF14;">Memberships</a></li>
+      <li><a href="#withdraw-details" style="color:#39FF14;">Withdraw Details</a></li>
+    </ul>
+  </div>
+</details>
+<details>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Generators</summary>
+  <div>
+    <ul>
+      <li><a href="#summary" style="color:#39FF14;">Summary</a></li>
+      <li><a href="#for-owners" style="color:#39FF14;">For Owners</a></li>
+      <li><a href="#for-engineers" style="color:#39FF14;">For Engineers</a></li>
+    </ul>
+  </div>
+</details>
+<details>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Guilds</summary>
+  <div>
+    <ul>
+      <li><a href="#summary" style="color:#39FF14;">Summary</a></li>
+      <li><a href="#leaders" style="color:#39FF14;">Leaders</a></li>
+      <li><a href="#members" style="color:#39FF14;">Members</a></li>
+    </ul>
+  </div>
+</details>
+<hr>
+
+> <span style="color:#00FFFF"> 🔧This site is still under development. More docs and languages will be available soon.</span>
+<hr>
+<a href="https://spacehunters.online" style="text-decoration:none;">
+  <div style="display:inline-block; padding:4px 24px; background-color:#1F1F1F; color:#00FFFF; border: 2px solid #00FFFF; border-radius:8px; font-weight:bold; box-shadow: 0px 0px 15px #00FFFF; transition: background-color 0.3s, box-shadow 0.3s;">
+    🚀 Play Now!
+  </div>
+</a>
+
+<style>
+  a:hover div {
+    background-color: #00FFFF;
+    color: #1F1F1F;
+    box-shadow: 0px 0px 25px #00FFFF;
+  }
+</style>
 ****
 
-> This site is still under development. More docs and languages will be available soon.
-
-****
+### <span style="color:#FF3D3D"> Social Networks </span>
 
 [![Telegram](https://img.shields.io/badge/Telegram-BOT-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)
 [![Telegram](https://img.shields.io/badge/Telegram-Announcements-26A5E4?style=plastic&logo=telegram)](https://t.me/spacehuntersnews)

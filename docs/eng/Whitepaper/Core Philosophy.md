@@ -1,18 +1,14 @@
 <div style="background-color:#1F1F1F; padding:10px;">
 
-![alt text](../../../static/img/sticker-pack.png)
-# <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Telegram Stickers </span> </div>
-## <span style="color:#FF3D3D">Space MonStickers ⭐️
+![Space Hunters: Reborn](../../../static/img/Baanner%20top%203.jpg)
 
-Here is our first batch of funny stickers, identifying our colors, logo in his belt, a monster from the infinite space become our friend to make our chats more fun and friendly 🙌😍
+## <span style="color:#FF3D3D"> Core Philosophy: </span>
+### <span style="color:#00FFFF">Community-driven</span> sustainable economy with <span style="color:#00FFFF">free-to-play</span> and <span style="color:#00FFFF">play-to-earn</span> mechanics
 
-<span style="color:#00FFFF">Here the [link](https://t.me/addstickers/SpaceHunters) to direct add the stickers.
+Embracing the spirit of community-driven sustainability, Space Hunters pioneers a gaming ecosystem where players can engage freely without financial barriers. By offering a free-to-play model and play-to-earn mechanics, the game empowers individuals to explore, strategize, and reap rewards based on their dedication and skills. This approach fosters a dynamic economy where every player's contribution is valued, shaping a universe where fairness and opportunity reign supreme. 
 
-Enjoy 😊 
-
-[<span style="color:#FF3D3D">Back to Index](../../../index.md)
-
-<hr>
+ [<span style="color:#FF3D3D"> Back to Index</span>](../../../index.md)
+ <hr>
 
 ><span style="color:#00FFFF"> 🔧This site is still under development. More docs and languages will be available soon.</span>
 <hr>
