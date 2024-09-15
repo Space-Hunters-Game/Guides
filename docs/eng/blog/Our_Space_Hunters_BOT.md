@@ -2,7 +2,7 @@
 
 Hello hunters! we're excited to invite you to join our partnership program, where members of your Telegram group can earn passive $HCREDIT tokens by simply chatting as usual. Our BOT not only encourages active participation, but also re-engages inactive members, fostering a vibrant and active community.
 
-By integrating our BOT, your members will:
+By integrating our BOT, your members will: 
   * Earn $HCREDIT effortlessly through daily chats.
   * Enjoy exclusive giveaways and rewards to keep them motivated.
   * Gain access to special items for use in our free-to-play game, enhancing their overall experience.

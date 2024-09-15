@@ -9,6 +9,9 @@
 
 ## **Tabla de contenido**
 
+### [Blog](#)
+* ### [Nuestro BOT de Space Hunters](/docs/esp/Blog/Nuestro_BOT_de_Space_Hunters.md)
+
 ### [Anuncios](#)
 * #### [Drop de caja de energía](anuncios/energy-box-drop.md)
   
