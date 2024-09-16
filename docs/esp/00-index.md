@@ -16,10 +16,7 @@
   <div>
     <ul>
       <!-- Adjusting paths to be relative -->
-      <li><a href="docs/esp/blog/ESP_Space_Hunters_BOT.md" style="color:#39FF14;">Space Hunters BOT</a></li>
-      <li><a href="/docs/esp/anuncios/Programa_de_Embajadores.md" style="color:#39FF14;">Programa de Embajadores</a></li>
-      <li><a href="docs/esp/blog/Early_Farming_2_0.md" style="color:#39FF14;">Early Farming 2.0</a></li>
-      <li><a href="docs/eng/blog/Another_Post.md" style="color:#39FF14;">App: Hunter Hub</a></li>
+      <li><a href="docs/esp/blog/Embajadores.md" style="color:#39FF14;">Programa para Embajadores</a></li>
       <!-- Add more items here -->
     </ul>
   </div>
@@ -48,7 +45,7 @@
 
 ## **<span style="color:#FF3D3D">Whitepaper**
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Introducción</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">💠 Introducción</summary>
   <ul>
     <li><a href="/docs/eng/Whitepaper/Storyline.md" style="color:#39FF14;">Historia del Juego</a></li>
     <li><a href="/docs/eng/Whitepaper/Overview.md" style="color:#39FF14;">Visión General del Proyecto</a></li>
@@ -58,11 +55,11 @@
 </details>
 
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Configuración del Juego y Empezando</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🛠️ Configuración del Juego y Empezando</summary>
   <div>
     <ul>
       <li><span style="color:#39FF14;">(Pronto) Creación de Cuenta</span></li>
-      <li><a href="/docs/eng/Whitepaper/Game%20Interface.md" style="color:#39FF14;">Interfaz del Juego</a></li>
+      <li><a href="/docs/esp/ESP Whitepaper/ESP GameInterface.md" style="color:#39FF14;">Interfaz del Juego</a></li>
       <li><a href="#basic-mechanics" style="color:#39FF14;">Mecánicas Básicas</a></li>
       <li><a href="#tips-short-guide" style="color:#39FF14;">Consejos y Guía Rápida</a></li>
       <!-- Agrega más elementos aquí si es necesario -->
@@ -71,30 +68,30 @@
 </details>
 
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Resumen del Juego</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🕹️ Resumen del Juego</summary>
   <div>
     <ul>
-      <li><a href="#basic-missions" style="color:#39FF14;">Misiones Básicas</a></li>
-      <li><a href="#excavation" style="color:#39FF14;">Excavación</a></li>
-      <li><a href="#generators" style="color:#39FF14;">Generadores</a></li>
-      <li><a href="#crafting" style="color:#39FF14;">Fabricación</a></li>
-      <li><a href="#achievements" style="color:#39FF14;">Logros</a></li>
+      <li><a href="/docs/esp/ESP Whitepaper/MisionesBasicas.md" style="color:#39FF14;">🚀 Misiones Básicas</a></li>
+      <li><a href="/docs/esp/ESP Whitepaper/ESPExcavacion.md" style="color:#39FF14;">⛏️ Excavación</a></li>
+      <li><a href="/docs/esp/ESP Whitepaper/ESPGeneradores.md" style="color:#39FF14;">⚡ Generadores</a></li>
+      <li><a href="/docs/esp/ESP Whitepaper/ESPcrafting.md" style="color:#39FF14;">⚙️ Fabricación</a></li>
+      <li><a href="/docs/esp/ESP Whitepaper/ESPAchievements.md" style="color:#39FF14;">⭐ Logros</a></li>
     </ul>
   </div>
 </details>
 
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Mecánicas del Juego</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🧑‍💻 Mecánicas del Juego</summary>
   <div>
     <ul>
-      <li><a href="#play-to-earn" style="color:#39FF14;">Jugar para Ganar</a></li>
+      <li><a href="/docs/esp/ESP Whitepaper/ESPPlaytoEarn.md" style="color:#39FF14;">Jugar para Ganar</a></li>
       <li><a href="#free-to-play" style="color:#39FF14;">Gratis para Jugar</a></li>
       <li><a href="#community-driven" style="color:#39FF14;">Impulsado por la Comunidad</a></li>
     </ul>
   </div>
 </details>
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Economía y Tokenomics</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">💸 Economía y Tokenomics</summary>
   <div>
     <ul>
       <li><a href="#tokens" style="color:#39FF14;">Tokens</a></li>
@@ -106,7 +103,7 @@
   </div>
 </details>
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Generadores</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">⚡ Generadores</summary>
   <div>
     <ul>
       <li><a href="#summary" style="color:#39FF14;">Resumen</a></li>
@@ -116,7 +113,7 @@
   </div>
 </details>
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Guildas</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🧑‍🎤 Guilds</summary>
   <div>
     <ul>
       <li><a href="#summary" style="color:#39FF14;">Resumen</a></li>

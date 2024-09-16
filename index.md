@@ -15,15 +15,12 @@
   <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">📓Blog</summary>
   <div>
     <ul>
-      <li><a href="" style="color:#39FF14;">Our Space Hunters BOT</a></li>
-      <li><a href="/docs/eng/blog/Our_Space_Hunters_BOT.md" style="color:#39FF14;">Ambassador Program</a></li>
-      <li><a href="/docs/eng/blog/Another_Post.md" style="color:#39FF14;">Early Farming 2.0</a></li>
-      <li><a href="/docs/eng/blog/Another_Post.md" style="color:#39FF14;">App: Hunter Hub</a></li>
+      <!-- Adjusting paths to be relative -->
+      <li><a href="docs/eng/blog/Ambassador.md" style="color:#39FF14;">Ambassador Program</a></li>
       <!-- Add more items here -->
     </ul>
   </div>
 </details>
-
 
 <details>
   <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">📣Announcements</summary>
@@ -47,7 +44,7 @@
 
 ## **<span style="color:#FF3D3D">Whitepaper**
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Introduction</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">💠 Introduction</summary>
   <ul>
     <li><a href="/docs/eng/Whitepaper/Storyline.md" style="color:#39FF14;">Game Storyline</a></li>
     <li><a href="/docs/eng/Whitepaper/Overview.md" style="color:#39FF14;">Project Overview</a></li>
@@ -57,43 +54,41 @@
 </details>
 
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Game Setup & Getting Started</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🛠️ Game Setup & Getting Started</summary>
   <div>
     <ul>
       <li><span style="color:#39FF14;">(Soon) Account Creation</span></li>
-      <li><a href="/docs/eng/Whitepaper/Game%20Interface.md" style="color:#39FF14;">Game Interface</a></li>
-      <li><a href="#basic-mechanics" style="color:#39FF14;">Basic Mechanics</a></li>
-      <li><a href="#tips-short-guide" style="color:#39FF14;">Tips & Short Guide</a></li>
+      <li><a href="/docs/eng/Whitepaper/GameInterface.md" style="color:#39FF14;">Game Interface</a></li>
       <!-- Add more items here if needed -->
     </ul>
   </div>
 </details>
 
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Gameplay Overview</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🕹️ Gameplay Overview</summary>
   <div>
     <ul>
-      <li><a href="#basic-missions" style="color:#39FF14;">Basic Missions</a></li>
-      <li><a href="#excavation" style="color:#39FF14;">Excavation</a></li>
-      <li><a href="#generators" style="color:#39FF14;">Generators</a></li>
-      <li><a href="#crafting" style="color:#39FF14;">Crafting</a></li>
-      <li><a href="#achievements" style="color:#39FF14;">Achievements</a></li>
+      <li><a href="/docs/eng/Whitepaper/BasicMissions.md" style="color:#39FF14;">🚀 Basic Missions</a></li>
+      <li><a href="/docs/eng/Whitepaper/Excavation.md" style="color:#39FF14;">⛏️ Excavation</a></li>
+      <li><a href="/docs/eng/Whitepaper/GeneratorsMode.md" style="color:#39FF14;">⚡ Generators</a></li>
+      <li><a href="/docs/eng/Whitepaper/Crafting.md" style="color:#39FF14;">⚙️ Crafting</a></li>
+      <li><a href="/docs/eng/Whitepaper/Achievements.md" style="color:#39FF14;">⭐ Achievements</a></li>
     </ul>
   </div>
 </details>
 
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Game Mechanics</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🧑‍💻 Game Mechanics</summary>
   <div>
     <ul>
-      <li><a href="#play-to-earn" style="color:#39FF14;">Play-to-Earn</a></li>
+      <li><a href="/docs/eng/Whitepaper/PlaytoEarn.md" style="color:#39FF14;">Play-to-Earn</a></li>
       <li><a href="#free-to-play" style="color:#39FF14;">Free-to-Play</a></li>
       <li><a href="#community-driven" style="color:#39FF14;">Community Driven</a></li>
     </ul>
   </div>
 </details>
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Economy and Tokenomics</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">💸 Economy and Tokenomics</summary>
   <div>
     <ul>
       <li><a href="#tokens" style="color:#39FF14;">Tokens</a></li>
@@ -105,7 +100,7 @@
   </div>
 </details>
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Generators</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">⚡ Generators</summary>
   <div>
     <ul>
       <li><a href="#summary" style="color:#39FF14;">Summary</a></li>
@@ -115,7 +110,7 @@
   </div>
 </details>
 <details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">Guilds</summary>
+  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🧑‍🎤 Guilds</summary>
   <div>
     <ul>
       <li><a href="#summary" style="color:#39FF14;">Summary</a></li>
