@@ -103,26 +103,6 @@
     </ul>
   </div>
 </details>
-<details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">⚡ Generadores</summary>
-  <div>
-    <ul>
-      <li><a href="#summary" style="color:#39FF14;">Resumen</a></li>
-      <li><a href="#for-owners" style="color:#39FF14;">Para Propietarios</a></li>
-      <li><a href="#for-engineers" style="color:#39FF14;">Para Ingenieros</a></li>
-    </ul>
-  </div>
-</details>
-<details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🧑‍🎤 Guilds</summary>
-  <div>
-    <ul>
-      <li><a href="#summary" style="color:#39FF14;">Resumen</a></li>
-      <li><a href="#leaders" style="color:#39FF14;">Líderes</a></li>
-      <li><a href="#members" style="color:#39FF14;">Miembros</a></li>
-    </ul>
-  </div>
-</details>
 <hr>
 
 > <span style="color:#00FFFF"> 🔧Este sitio todavía está en desarrollo. Pronto estarán disponibles más documentos e idiomas.</span>

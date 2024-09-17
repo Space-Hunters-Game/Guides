@@ -100,16 +100,6 @@
     </ul>
   </div>
 </details>
-<details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🧑‍🎤 Guilds</summary>
-  <div>
-    <ul>
-      <li><a href="#summary" style="color:#39FF14;">Summary</a></li>
-      <li><a href="#leaders" style="color:#39FF14;">Leaders</a></li>
-      <li><a href="#members" style="color:#39FF14;">Members</a></li>
-    </ul>
-  </div>
-</details>
 <hr>
 
 > <span style="color:#00FFFF"> 🔧This site is still under development. More docs and languages will be available soon.</span>
