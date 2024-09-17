@@ -82,7 +82,7 @@
   <div>
     <ul>
       <li><a href="/docs/eng/Whitepaper/PlaytoEarn.md" style="color:#39FF14;">Play-to-Earn</a></li>
-      <li><a href="#free-to-play" style="color:#39FF14;">Free-to-Play</a></li>
+      <li><a href="/docs/eng/Whitepaper/Free-to-Play.md" style="color:#39FF14;">Free-to-Play</a></li>
       <li><a href="#community-driven" style="color:#39FF14;">Community Driven</a></li>
     </ul>
   </div>
@@ -96,16 +96,6 @@
       <li><a href="#marketplace" style="color:#39FF14;">Marketplace</a></li>
       <li><a href="#memberships" style="color:#39FF14;">Memberships</a></li>
       <li><a href="#withdraw-details" style="color:#39FF14;">Withdraw Details</a></li>
-    </ul>
-  </div>
-</details>
-<details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">⚡ Generators</summary>
-  <div>
-    <ul>
-      <li><a href="#summary" style="color:#39FF14;">Summary</a></li>
-      <li><a href="#for-owners" style="color:#39FF14;">For Owners</a></li>
-      <li><a href="#for-engineers" style="color:#39FF14;">For Engineers</a></li>
     </ul>
   </div>
 </details>

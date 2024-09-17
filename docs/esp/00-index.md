@@ -85,8 +85,8 @@
   <div>
     <ul>
       <li><a href="/docs/esp/ESP Whitepaper/ESPPlaytoEarn.md" style="color:#39FF14;">Jugar para Ganar</a></li>
-      <li><a href="#free-to-play" style="color:#39FF14;">Gratis para Jugar</a></li>
-      <li><a href="#community-driven" style="color:#39FF14;">Impulsado por la Comunidad</a></li>
+      <li><a href="/docs/esp/ESP Whitepaper/ESPFree-to-Play.md" style="color:#39FF14;">Jugar Gratis</a></li>
+      <li><a href="#community-driven" style="color:#39FF14;">Economía Comunitaria</a></li>
     </ul>
   </div>
 </details>
