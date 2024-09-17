@@ -57,7 +57,8 @@
   <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🛠️ Game Setup & Getting Started</summary>
   <div>
     <ul>
-      <li><span style="color:#39FF14;">(Soon) Account Creation</span></li>
+      <li>(Soon) Account Creation</li>
+      <li>(Soon) Hunter HUB App</li>
       <li><a href="/docs/eng/Whitepaper/GameInterface.md" style="color:#39FF14;">Game Interface</a></li>
       <!-- Add more items here if needed -->
     </ul>
@@ -83,7 +84,7 @@
     <ul>
       <li><a href="/docs/eng/Whitepaper/PlaytoEarn.md" style="color:#39FF14;">Play-to-Earn</a></li>
       <li><a href="/docs/eng/Whitepaper/Free-to-Play.md" style="color:#39FF14;">Free-to-Play</a></li>
-      <li><a href="#community-driven" style="color:#39FF14;">Community Driven</a></li>
+      <li><a href="/docs/eng/Whitepaper/CommunityDriven.md" style="color:#39FF14;">Community Driven</a></li>
     </ul>
   </div>
 </details>

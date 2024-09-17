@@ -58,10 +58,11 @@
   <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🛠️ Configuración del Juego y Empezando</summary>
   <div>
     <ul>
-      <li><span style="color:#39FF14;">(Pronto) Creación de Cuenta</span></li>
+      <li> Creación de Cuenta (Pronto)</li>
+      <li> Hunter HUB App (Pronto)</li>
       <li><a href="/docs/esp/ESP Whitepaper/ESP GameInterface.md" style="color:#39FF14;">Interfaz del Juego</a></li>
-      <li><a href="#basic-mechanics" style="color:#39FF14;">Mecánicas Básicas</a></li>
-      <li><a href="#tips-short-guide" style="color:#39FF14;">Consejos y Guía Rápida</a></li>
+      <li>Mecánicas Básicas (Pronto)</li>
+      <li>Consejos y Guía Rápida (Pronto)</li>
       <!-- Agrega más elementos aquí si es necesario -->
     </ul>
   </div>
@@ -86,7 +87,7 @@
     <ul>
       <li><a href="/docs/esp/ESP Whitepaper/ESPPlaytoEarn.md" style="color:#39FF14;">Jugar para Ganar</a></li>
       <li><a href="/docs/esp/ESP Whitepaper/ESPFree-to-Play.md" style="color:#39FF14;">Jugar Gratis</a></li>
-      <li><a href="#community-driven" style="color:#39FF14;">Economía Comunitaria</a></li>
+      <li><a href="/docs/esp/ESP Whitepaper/ESPCommunityDriven" style="color:#39FF14;">Economía Comunitaria</a></li>
     </ul>
   </div>
 </details>
