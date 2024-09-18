@@ -1,106 +1,149 @@
-<div style="background-color:#1F1F1F; padding:10px; color:#FFFFFF;">
-
 ![Space Hunters: Reborn](../../../static/img/SH%20Banner.jpg)
 
-# <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#C0C0C0">Guía de Bienvenida</span></div>
-**<span style="color:#00FFFF">Resumen y Primeros Pasos**
-  - [<span style="color:#39FF14">¿Qué es Space Hunters?](#what-is-space-hunters)
-  - [<span style="color:#39FF14">¿Cuál es el estado actual del proyecto?](#what-is-the-current-state-of-the-project)
-  - [<span style="color:#39FF14">¿Hay algo en lo que pueda participar ahora mismo?](#is-there-anything-i-can-participate-in-right-now)
-  - [<span style="color:#39FF14">¿Qué es $HCREDIT y cómo se puede obtener?](#what-is-hcredit-and-how-can-it-be-obtained)
-  - [<span style="color:#39FF14">Propósitos y Usos de $HCREDIT](#purposes-and-uses-of-hcredit)
-  - [<span style="color:#39FF14">Objetos del Juego](#game-items)
-  - [<span style="color:#39FF14">¿Qué Ventajas Tengo al Formar Parte de Esta Comunidad?](#what-advantages-do-i-have-by-being-part-of-this-community)
-  - [<span style="color:#39FF14">¿Cómo Puedo Empezar a "Farmear" $HCREDIT?](#how-can-i-start-farming-hcredit)
-  - [<span style="color:#39FF14">¿Cómo Puedo Obtener NFTs Gratis?](#how-can-i-obtain-free-nfts)
-    - [<span style="color:#39FF14">Carteras](#wallets)
-  - [<span style="color:#39FF14">Nuestro Whitepaper](#our-whitepaper)
-  - [<span style="color:#39FF14">Redes Sociales](#social-media)
+[Regresar al Índice](../00-index.md)
 
-<hr style="border-color:#C0C0C0;"/>
-
-Esta comunidad se centra en presentar un juego que ofrezca entretenimiento, diversión y una economía sostenible orientada a la comunidad, donde los jugadores puedan disfrutar de una experiencia diversa y ganar recompensas sin afectar la economía del juego.
-
-Este es un proyecto gratuito que promueve la participación activa y el crecimiento a largo plazo.
-
-## <span style="color:#FF3D3D">¿Qué es Space Hunters?
-
-**<span style="color:#00FFFF">Space Hunters (SH)** es un juego de estrategia imaginario para la comunidad de jugadores, ya estén interesados en el *mundo criptográfico* o no.
-
-SH utiliza varios estilos económicos y modos de juego, brindando a los usuarios la capacidad de elegir cómo jugar y crear sus propias estrategias basadas en la amplia variedad de posibilidades, tales como:
-* Invitar a personas a jugar juntas explorando, extrayendo recursos y elementos importantes necesarios para la fabricación.
-* Misiones básicas, secretas y de tiempo limitado.
-* Tareas diarias del juego, recompensas y logros que complementan la escalabilidad.
-* Modos Free-To-Play guiados por la comunidad y actividad social.
-* Un token social que recompensa constantemente la interacción de los jugadores y el compromiso con la comunidad.
-* Recursos (materiales) para crear, construir y reparar activos y estructuras.
-
-> Y muchas otras formas. ¡Estén atentos!
-
-## <span style="color:#FF3D3D">¿Cuál es el estado actual del proyecto?
-
-**<span style="color:#00FFFF">Space Hunters** aún está en desarrollo, pero puedes ser parte de nuestro progreso y comenzar a adquirir NFTs y tokens gratis participando y siendo activo en nuestras comunidades. Nuestro sistema económico-social siempre recompensa estratégicamente a todos los miembros; no te pierdas la oportunidad.
-
-## <span style="color:#FF3D3D">¿Hay algo en lo que pueda participar ahora mismo?
-
-Como parte de nuestra comunidad, puedes seguirnos en redes sociales, interactuar con otros miembros y compartir enlaces y actualizaciones del juego. Nuestro algoritmo te recompensará constantemente con tokens $HCREDIT. Puedes participar en las listas blancas de NFT gratuitas que ofrecemos cada mes, así como en otras actividades o eventos de tiempo limitado. Sigue nuestro canal de anuncios para no perderte ninguna oportunidad.
-
-## <span style="color:#FF3D3D">¿Qué es $HCREDIT y cómo se puede obtener?
-
-$HCREDIT es un token de economía social dentro de **SH** que puedes ganar participando en actividades del proyecto y con tus amigos. El sistema económico que utiliza es sorprendentemente eficaz, recompensando constantemente a la comunidad a través de diversas actividades.
-
-Actualmente, puedes obtener $HCREDIT de las siguientes formas:
-* Haciendo Check-ins diarios en nuestro [<span style="color:#00FFFF">BOT de Telegram](https://t.me/SpaceHuntersBot?start=NK1Y6ST3).
-* Completando tareas en [<span style="color:#00FFFF">Zealy](https://zealy.io/cw/spacehuntersthereborn/invite/UroI4c6fhtB3SX65siHBX).
-* Usando nuestro sistema de referidos de 2 niveles.
-* Añadiendo **<span style="color:#00FFFF">SpaceHunters** a tu nombre en Telegram.
-* Chateando en nuestros grupos o en Gremios asociados al proyecto.
-
-> Cada vez que un amigo se registre en el proyecto usando tu enlace de referido, ganarás *100 $HCREDIT*. Recibes *4 $HCREDIT* si tus amigos hacen Check-ins diarios, y *1 $HCREDIT* si tus amigos refieren a otros amigos que también hagan Check-ins diarios.
-
-> Si añades SpaceHunter, Space Hunrter, SpaceHunters o Space Hunters a tu nombre en Telegram, nuestro algoritmo lo detectará y te recompensará diariamente con tokens $HCREDIT directamente en tu cuenta. Cuantos más días consecutivos lo mantengas, mayor será la recompensa, hasta 28 días por un total de 2500 $HCREDIT, tras lo cual comienza de nuevo.
-
-**<span style="color:#FF3D3D">Ejemplo:**
-
-![alt text](../../../static/img/image.png)
-
-## <span style="color:#FF3D3D">Propósitos y Usos de $HCREDIT
-
-Aquí encontrarás una manera fácil de entender los propósitos y usos de $HCREDIT en uno de los modos de juego (free-to-play).
-
-Imagina una tierra donde necesitas trabajadores, pero esta tierra solo se puede comprar con $HCREDIT, y tus trabajadores solo pueden participar energizando la tierra con $HCREDIT. Cada hora, los propietarios de tierras y los trabajadores ganan recompensas en **<span style="color:#00FFFF">$HCASH** (el token principal del juego) por su participación.
-
-Ahora, este modo de juego es GRATIS, proporcionando a los jugadores activos y sus seguidores tokens $HCREDIT solo por participar y apoyar el proyecto en tareas sociales, Check-ins, etc. Esto significa que cuanto más activo seas, más oportunidades tendrás.
-
-El paquete de "Generador" será limitado y costoso en tokens $HCREDIT y solo estará disponible en esa moneda. Esto se debe a que es un modo de juego enfocado en el apoyo social y el compromiso de la comunidad dentro de Space Hunters y nuestras comunidades asociadas. Por ejemplo, si apoyas a uno de nuestros socios en un stream que están haciendo, podrías ganar tokens $HCREDIT, o siendo activo en sus grupos, etc. Pero eso no es todo, hay más por venir. $HCREDIT se expandirá y llegará a todas las comunidades con muchos formatos y utilidades. Pero volviendo al tema de los "Generadores": cada hora recibirás el 35% de los tokens que tu Generador haya acumulado, y el 65% se distribuirá entre todos los colaboradores que no posean Generadores pero ayuden a energizar los tuyos.
-
-Los "Ingenieros" cuestan 100 $HCREDIT y expiran en 24 horas. Puedes desplegar tantos como tu $HCREDIT permita y generar el token principal del juego, $HCASH, cada hora. Para seguir generando sin detenerte, necesitas desarrollar una estrategia que te permita generar $HCREDIT todos los días, considerando todas las vías que te proporcionamos.
-
-En este momento, estamos en la etapa de desarrollo, por lo que es el mejor momento para que acumules la mayor cantidad de tokens posible.
-
-Las mecánicas que involucran **<span style="color:#00FFFF">$HCREDIT** han sido cuidadosamente analizadas para garantizar que los jugadores puedan beneficiarse a largo plazo y que la economía del juego se mantenga sostenible sin verse afectada por la inflación.
-
-Puedes obtener más detalles en el [<span style="color:#00FFFF">documento técnico](https://spaceheroes.gitbook.io/space-hunters), pero para resumir, ten en cuenta esto: La contribución a los propietarios de generadores se llama “Contrato de Ingeniero”, que expira después de 24 horas para fomentar la participación diaria de la comunidad. Esto significa que si un usuario no se mantiene activo, no ganará $HCREDIT, lo que a su vez significa que no obtendrá más $HCASH, y a medida que menos jugadores participen en la Generación, habrá más $HCASH para dividir. La economía está respaldada por una constante quema de $HCREDIT y, por lo tanto, mantiene una dinámica sólida para todos los jugadores activos.
-
-[**<span style="color:#FF3D3D">Leer más sobre el Modo Free-To-Play y P2E aquí.**](https://spacehunters.gitbook.io/space-hunters)
-
-> <span style="color:#00FFFF"> 🔧Este sitio se encuentra en desarrollo, mas idiomas e información se agregaran pronto.</span>
-<hr>
-<a href="https://spacehunters.online" style="text-decoration:none;">
-  <div style="display:inline-block; padding:4px 24px; background-color:#1F1F1F; color:#00FFFF; border: 2px solid #00FFFF; border-radius:8px; font-weight:bold; box-shadow: 0px 0px 15px #00FFFF; transition: background-color 0.3s, box-shadow 0.3s;">
-    🚀 Play Now!
-  </div>
-</a>
-
-<style>
-  a:hover div {
-    background-color: #00FFFF;
-    color: #1F1F1F;
-    box-shadow: 0px 0px 25px #00FFFF;
-  }
-</style>
 ****
-## <span style="color:#FF3D3D">Redes Sociales
+
+# Resumen y primeros pasos.
+- [Resumen y primeros pasos.](#resumen-y-primeros-pasos)
+  - [¿Qué es Space Hunters?](#qué-es-space-hunters)
+  - [¿Cuál es el estado actual del proyecto?](#cuál-es-el-estado-actual-del-proyecto)
+  - [¿Hay actualmente algo en lo que pueda participar?](#hay-actualmente-algo-en-lo-que-pueda-participar)
+  - [¿Qué es es $HCREDIT y como se puede obtener?](#qué-es-es-hcredit-y-como-se-puede-obtener)
+  - [Propósitos y usos de $HCREDIT](#propósitos-y-usos-de-hcredit)
+  - [Los ítems del juego.](#los-ítems-del-juego)
+  - [¿Qué ventajas tengo hoy al formar parte de esta comunidad?](#qué-ventajas-tengo-hoy-al-formar-parte-de-esta-comunidad)
+  - [¿Cómo puedo comenzar a ''farmear'' los $HCREDIT?](#cómo-puedo-comenzar-a-farmear-los-hcredit)
+  - [¿Cómo puedo obtener los NFTs gratuitos?](#cómo-puedo-obtener-los-nfts-gratuitos)
+    - [Wallets](#wallets)
+  - [Nuestro Whitepaper](#nuestro-whitepaper)
+  - [Redes Sociales](#redes-sociales)
+
+****
+
+Esta comunidad se centra en la presentación de un juego que ofrece entretenimiento, diversión y una economía sostenible y orientada a la comunidad; en la que los jugadores pueden disfrutar de una experiencia diversificada y obtener recompensas sin afectar la economía del juego. 
+
+Este es un proyecto gratuito que promueve la participación activa, y el crecimiento a largo plazo.
+
+## ¿Qué es Space Hunters?
+
+**Space Hunters (SH)** es un juego estratégico imaginario, para la comunidad gamer, interesada o no en el *mundo criptográfico*.
+
+SH utiliza varios estilos económicos y modos de juego, que le dan al usuario la posibilidad de elegir cómo jugar y crear sus propias estrategias basadas en la amplia variedad de posibilidades, tales como: 
+* Involucrar a personas para que jueguen juntas explorando, extrayendo recursos y elementos importantes que se requieren para la elaboración (Crafting)
+* Misiones básicas, secretas y de tiempo limitado
+* Tareas diarias del juego, recompensas y logros que complementan la escalabilidad
+* Modos Free-To-Play guiados por la comunidad y su actividad social
+* Un token social que premia constantemente la interacción del jugador y la comunidad
+* Recursos(materiales) para crear, construir y reparar activos y estructuras
+
+> Y muchas otras maneras. Mantente al tanto!!
+
+## ¿Cuál es el estado actual del proyecto?
+
+**Space Hunters** aún está en desarrollo pero puedes ser parte de nuestros avances e ir adquiriendo NFTs y tokens gratis por participar y estar activo en nuestras comunidades. Nuestro sistema economico-social siempre esta recompensando estrategicamente a todos los miembros, no dejes pasar la oportunidad.
+
+## ¿Hay actualmente algo en lo que pueda participar?
+
+Como parte de nuestra comunidad puedes seguirnos en las redes, interactuar con otros miembros y compartir los enlaces y actualizaciones del juego en ellas y nuestro algoritmo te recompensara constantemente con tokens $HCREDIT. Puedes participar en los whitelist de NFTs gratis que damos todos los meses y otras actividades o eventos de tiempo limitado. Siguenos en nuestro canal de anuncios para que no te pierdas las oportunidades.
+
+## ¿Qué es es $HCREDIT y como se puede obtener? 
+
+$HCREDIT es un token de economía social dentro de **SH** que los puedes obtener al participar en actividades del proyecto y con tus amigos. El sistema económico que usa es sorprendentemente eficaz y recompensa constantemente a la comunidad mediante diferentes actividades.
+
+Actualmente puedes obtener $HCREDIT de las siguientes maneras:
+  * Haciendo Check-in diario en nuestro [BOT de Telegram](https://t.me/SpaceHuntersBot?start=NK1Y6ST3).
+  * Completando las tareas de [Zealy](https://zealy.io/cw/spacehuntersthereborn/invite/UroI4c6fhtB3SX65siHBX).
+  * Con nuestro sistema de referidos de 2 niveles.
+  * Agregando **SpaceHunters** a tu nombre en telegram
+  * Chateando en nuestros grupos o en las Guilds asociadas al proyecto.
+
+>Cada vez que un amigo se registre en el proyecto usando tu enlace de referido obtienes *100 $HCREDIT*, recibes *4 $HCREDIT* si tus amigos hacen Check-in diariamente y *1 $HCREDIT* si tus amigos recomiendan a otros amigos que también hacen Check-in diariamente.
+
+>Si agregas SpaceHunter, Space Hunter, SpaceHunters o Space Hunters a tu nombre en telegram nuestro algoritmo lo detectará y te recompensará diariamente tokens $HCREDIT directos a tu cuenta. Mientras más días consecutivos lo lleves mas aumenta la recompensa hasta 28 días por un total de 2500 $HCREDIT y luego comienza otra vez.
+
+**Ejemplo:**
+
+![alt text](../../../static/img/image.png) 
+
+## Propósitos y usos de $HCREDIT
+
+Aquí encontrará una manera sencilla de comprender los propósitos y usos de $HCREDIT en uno de los modos de juego (gratuito).
+
+Imagina una tierra donde necesitas trabajadores, pero esta tierra solo se puede comprar con $HCREDIT y tus trabajadores solo pueden participar potenciando una tierra con $HCREDIT. Cada hora los propietarios de tierras y trabajadores obtienen recompenzas en **$HCASH** (token principal del juego) por su participación.
+
+Ahora, este modo de juego es GRATIS, proporciona a los jugadores activos y a sus seguidores los tokens $HCREDIT solo por ser participar y apoyar al proyecto en tareas sociales, check in, etc. Significa que cuanto más activo seas, más oportunidades tendrás.
+
+El paquete “Generador” será limitado y costoso en tokens $HCREDIT y solo estará disponible en esa moneda. Porque es el modo de juego que se centra en el apoyo social y el compromiso de la comunidad Space Hunters y las comunidades de nuestos asociados, ejemplo: si apoyas a uno de nuestros asociados en un Stream que está realizando podrias generar tokens $HCREDIT, o por ser activo en sus grupos etc.. pero eso no es todo, hay más por venir, $HCREDIT será masivo y llegará a todas las comunidades con muchos formatos y utilidades... pero regresando al tema de los ´´Generadores´´, cada hora recibirás el 35% de los tokens que haya acumulado tu Generador y el 65% será distribuido entre todos los contribuyentes que no poseen Generadores pero potencian los tuyos. 
+
+Los ´´Ingenieros´´ cuestan 100 $HCREDIT y expiran en 24H, puedes poner tantos como $HCREDIT tengas y generar el token principal del juego $HCASH cada 1H.
+Para poder generar sin detenerte debes formar una estrategia que te permita generar $HCREDIT todos los días teniendo en cuenta todas las vías que te damos disponible.
+
+Ahora mismo, estamos en etapa de desarrollo, es tu mejor momento para acumular muchos tokens como te sea posible.
+
+Las mecánicas que involucran **$HCREDIT** han sido minuciosamente analizadas para que los jugadores puedan obtener beneficios a largo plazo y que la economía del juego sea sostenible y no se vea afectada por la inflación.
+
+Puedes obtener más detalles en el [documento técnico](https://spaceheroes.gitbook.io/space-hunters), pero para resumirlo quédate con la siguiente idea: La contribución a los propietarios de generadores se llama “Contrato de ingenieros”, vence después de 24 horas para incentivar la participación diaria de la comunidad, lo que significa que si un usuario no permanece activo, no ganará $HCREDIT, que a su vez implica que no obtendrá más $HCASH y a medida que existan menos jugadores involucrados en la Generación habrán más $HCASH para dividir.
+La economia es respaldada por el algoritmo, las utilidades y formatos de adquisición enfocados en los jugadores.
+
+> Algo parecido sucede con el **$HCREDIT**: cuanto más obtengas, más posibilidades tienes de adquirir **$HCASH**, apoyamos a los creadores de contenido, gamers y miembros de la comunidad.
+
+Como propietario de un generador, puedes mejorar la capacidad del mismo para aumentar la cantidad de ingenieros (capacidad de ranuras) que pueden trabajar en él, ya que más ingenieros significan más potencia. Y solo es posible con **$HCREDIT**.
+
+**En resumen:** $HCREDIT es el 50% del sistema deflacionario para $HCASH y al mismo tiempo $HCASH tiene su propio sistema de asignación y economía que recompenza a los usuarios por jugar y mantenerse activos.
+enfócate en ganar, nosotros nos ocupamos del resto! 
+
+> La principal diferencia entre **$HCREDIT** y **$HCASH** es que uno está dentro del juego y el otro es el objetivo final: Recibir un pago en tokens que permita monetizar el tiempo y esfuerzo invertido, lo que conocemos como **Play-To-Earn**.
+
+## Los ítems del juego.
+
+El 90% son gratuitos y se pueden obtener jugando o comprándolos con tokens. Además, cada ítem tiene sus propios cálculos de probabilidad y asignación, garantizando así que los montos circulantes y la demanda del propio ítem esté acorde a su importancia para el usuario y su uso dentro del juego.
+
+
+## ¿Qué ventajas tengo al formar parte de esta comunidad?
+Formar parte de la comunidad de **Space Hunters: The Reborn** ofrece varias ventajas:
+* **Acceso Gratuito al Juego:** Puedes jugar sin costo inicial, con recursos y activos gratuitos para comenzar.
+* **Recompensas Diarias:** Gana $HCREDIT y otros premios participando en actividades diarias, nuestras redes sociales y eventos.
+* **Diversidad de Modos de Juego:** Disfruta de diferentes modos de juego que se adaptan a tu estilo y tiempo disponible. Aprovecha al máximo todo lo que puedas obtener antes del lanzamiento y comenzarás con ventaja sobre otros jugadores.
+* **Economía sostenible:** Benefíciate de una economía de juego diseñada para ser justa y equilibrada, evitando inflación y maximizando las recompensas.
+* **Participación en el Desarrollo:** Contribuye al crecimiento del juego y la comunidad a través de pruebas, feedback y actividades comunitarias, apoya tus creadores favoritos y gana tokens, invítalos a asociarse y gana tokens desde tus grupos favoritos.
+* **Airdrops gratis:** Obten ítems y hasta tokens de forma gratuita, solo tienes que seguir nuestro [Canal de Anuncios]() para no perder las oportunidades.
+* **Oportunidades de Crecimiento:** Únete a una comunidad activa y en crecimiento, con planes para nuevos modos de juego, expansiones y características futuras.
+* **Embajador de Space Hunters:** ¿Eres creador de contenido? Envíanos tu información a través de esta aplicación [Formulario de Embajador](https://docs.google.com/forms/d/e/1FAIpQLSc5_EEXHWroFhF_1MJRga4z2y8gW5xZ5pVT1RDDqMOIutqO6g/viewform?usp=sf_link) para disfrutar de los beneficios que te ofrecemos y a tu comunidad. Dales una razón adicional pra estar activos!
+## ¿Cómo puedo comenzar a ''farmear'' los $HCREDIT?
+
+1. Para comenzar primero pídele a un amigo su link de referido o contacta con cualquier miembro de nuestra comunidad para que te facilite el suyo, necesitas un ´´patrocinador´´, debes ser invitado para poder activar tu cuenta en nuestro BOT.
+> Si llegaste hasta aqui por tu cuenta puedes usar nuestro [enlace de referido](https://t.me/SpaceHuntersBot?start=NK1Y6ST3) del cual no obtendremos beneficios y solo existe para ayudar a los nuevos usuarios a iniciar esta aventura.  
+2. Luego asegurate de haber dado click en ''DONE'' y entonces podrás comenzar a usar los comandos del BOT.
+3. Usa el comando `/start` para inicar el BOT o para ver tu propio enlace de referido e invitar a otros amigos.
+![alt text](../../../static/img/02-start-referral-link.png)
+4. Usa el comando `/username` para registrar tu nombre de usuario (el cual debe ser único) tal como quieres llamarte luego en el juego. Ejemplo: `/username YankielDBC`.
+5. Para comenzar tu check-in diario pulsa el botón con el texto `📇Check-in`, con lo cual obtendrás 20 $HCREDIT.
+6. Para ver tu balance actual en $HCREDIT pulsa el botón `📇Check-in` nuevamente.
+![alt text](../../../static/img/03-check-in.png)
+
+## ¿Cómo puedo obtener los NFTs gratuitos?
+
+Space Hunters lanzará NFTs en varias Blockchains, pero inicialmente comenzamos con WAX Blockchain por sus transacciones gratuitas y ecosistema enfocado en gamers.
+
+Lo primero es configurar tu billetera crypto.
+
+> Asegúrate de que tu wallet sea compatible con WAX Blockchain. Hay varias opciones WaxCloud Wallet, Anchor y Wombat.
+
+> Si eres latinoamericao, o te topas con restricciones debido a la región en la que te encuentras, prueba con Wombat.
+
+### Wallets
+
+* [Wax Cloud Wallet](https://www.mycloudwallet.com/)
+* [Wombat](https://www.wombat.app/)
+
+Luego de obtener una billetera, solo debes estar pendiente al [Canal de Anuncios](https://t.me/spacehuntersnews) para participar en actividades donde podrás reclamar tus NFTs gratis y usarlos para jugar **Space Hunters** despues de su lanzamiento.
+
+<!-- TODO add change url when page is up-->
+## Nuestro Whitepaper
+Para más información detallada sobre todo el proyecto puedes leer nuestra [documentación](https://spaceheroes.gitbook.io/space-hunters).
+
+## Redes Sociales
 Síguenos en nuestras redes sociales
 
 [![Telegram](https://img.shields.io/badge/Telegram-BOT-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)

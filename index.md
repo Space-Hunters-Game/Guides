@@ -1,125 +1,27 @@
-<div style="background-color:#1F1F1F; padding:10px;">
+# Index
 
-![Banner](<static/img/Baanner top 2.jpg>)
+**Welcome to the Space Hunters: The Reborn Docs**
 
-# <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Documentation </span> </div>
+**Select Language**
 
-<span style="color:#00FFFF">*Welcome to the Space Hunters: The Reborn Docs*</span>
+* [Español](docs/esp/00-index.md)
 
-**<span style="color:#C0C0C0">Select Language**</span>
-* [<span style="color:#39FF14">Español</span>](docs/esp/00-index.md)
+## **Table of contents**
 
-## **<span style="color:#FF3D3D">Summary & News**</span>
+### [Blog](#)
+* ### [Our Space Hunters BOT](/docs/eng/blog/Our_Space_Hunters_BOT.md)
 
-<details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">📓Blog</summary>
-  <div>
-    <ul>
-      <!-- Adjusting paths to be relative -->
-      <li><a href="docs/eng/blog/Ambassador.md" style="color:#39FF14;">Ambassador Program</a></li>
-      <!-- Add more items here -->
-    </ul>
-  </div>
-</details>
-
-<details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">📣Announcements</summary>
-  <div>
-    <ul>
-      <li><a href="/docs/eng/announcements/energy-box-drop.md" style="color:#39FF14;">Energy Box Drop</a></li>
-      <li><a href="/docs/eng/announcements/sticker-pack.md" style="color:#39FF14;">Sticker Pack</a></li>
-      <!-- Add more items here -->
-    </ul>
-  </div>
-</details>
-
-<details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🙍‍♂️User Guides</summary>
-  <div>
-    <ul>
-      <li><a href="/docs/eng/01-user-guides/01-getting-started.md" style="color:#39FF14;">Getting Started</a></li>
-    </ul>
-  </div>
-</details>
-
-## **<span style="color:#FF3D3D">Whitepaper**
-<details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">💠 Introduction</summary>
-  <ul>
-    <li><a href="/docs/eng/Whitepaper/Storyline.md" style="color:#39FF14;">Game Storyline</a></li>
-    <li><a href="/docs/eng/Whitepaper/Overview.md" style="color:#39FF14;">Project Overview</a></li>
-    <li><a href="/docs/eng/Whitepaper/Core%20Philosophy.md" style="color:#39FF14;">Core Philosophy</a></li>
-    <li><a href="/docs/eng/Whitepaper/Project%20Features.md" style="color:#39FF14;">Project Features</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🛠️ Game Setup & Getting Started</summary>
-  <div>
-    <ul>
-      <li>(Soon) Account Creation</li>
-      <li>(Soon) Hunter HUB App</li>
-      <li><a href="/docs/eng/Whitepaper/GameInterface.md" style="color:#39FF14;">Game Interface</a></li>
-      <!-- Add more items here if needed -->
-    </ul>
-  </div>
-</details>
-
-<details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🕹️ Gameplay Overview</summary>
-  <div>
-    <ul>
-      <li><a href="/docs/eng/Whitepaper/BasicMissions.md" style="color:#39FF14;">🚀 Basic Missions</a></li>
-      <li><a href="/docs/eng/Whitepaper/Excavation.md" style="color:#39FF14;">⛏️ Excavation</a></li>
-      <li><a href="/docs/eng/Whitepaper/GeneratorsMode.md" style="color:#39FF14;">⚡ Generators</a></li>
-      <li><a href="/docs/eng/Whitepaper/Crafting.md" style="color:#39FF14;">⚙️ Crafting</a></li>
-      <li><a href="/docs/eng/Whitepaper/Achievements.md" style="color:#39FF14;">⭐ Achievements</a></li>
-    </ul>
-  </div>
-</details>
-
-<details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">🧑‍💻 Game Mechanics</summary>
-  <div>
-    <ul>
-      <li><a href="/docs/eng/Whitepaper/PlaytoEarn.md" style="color:#39FF14;">Play-to-Earn</a></li>
-      <li><a href="/docs/eng/Whitepaper/Free-to-Play.md" style="color:#39FF14;">Free-to-Play</a></li>
-      <li><a href="/docs/eng/Whitepaper/CommunityDriven.md" style="color:#39FF14;">Community Driven</a></li>
-    </ul>
-  </div>
-</details>
-<details>
-  <summary style="color:#C0C0C0; font-weight:bold; cursor:pointer;">💸 Economy and Tokenomics</summary>
-  <div>
-    <ul>
-      <li><a href="#tokens" style="color:#39FF14;">Tokens</a></li>
-      <li><a href="#ecosystem" style="color:#39FF14;">Ecosystem</a></li>
-      <li><a href="#marketplace" style="color:#39FF14;">Marketplace</a></li>
-      <li><a href="#memberships" style="color:#39FF14;">Memberships</a></li>
-      <li><a href="#withdraw-details" style="color:#39FF14;">Withdraw Details</a></li>
-    </ul>
-  </div>
-</details>
-<hr>
-
-> <span style="color:#00FFFF"> 🔧This site is still under development. More docs and languages will be available soon.</span>
-<hr>
-<a href="https://spacehunters.online" style="text-decoration:none;">
-  <div style="display:inline-block; padding:4px 24px; background-color:#1F1F1F; color:#00FFFF; border: 2px solid #00FFFF; border-radius:8px; font-weight:bold; box-shadow: 0px 0px 15px #00FFFF; transition: background-color 0.3s, box-shadow 0.3s;">
-    🚀 Play Now!
-  </div>
-</a>
-
-<style>
-  a:hover div {
-    background-color: #00FFFF;
-    color: #1F1F1F;
-    box-shadow: 0px 0px 25px #00FFFF;
-  }
-</style>
+### [Announcements](#)
+* #### [Energy Box Drop](/docs/eng/announcements/energy-box-drop.md)
+* #### [Sticker Pack](/docs/eng/announcements/sticker-pack.md)
+  
+### [User guides](#)
+* #### [Getting started](/docs/eng/01-user-guides/01-getting-started.md)
 ****
 
-### <span style="color:#FF3D3D"> Social Networks </span>
+> This site is still under development. More docs and languages will be available soon.
+
+****
 
 [![Telegram](https://img.shields.io/badge/Telegram-BOT-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)
 [![Telegram](https://img.shields.io/badge/Telegram-Announcements-26A5E4?style=plastic&logo=telegram)](https://t.me/spacehuntersnews)
