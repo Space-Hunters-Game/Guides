@@ -39,7 +39,7 @@ The recipes for various **<span style="color:#00FFFF">Robot Troops** offer uniqu
 
 Use the Crafting Room wisely to gain the upper hand in **<span style="color:#00FFFF">Space Hunters: The Reborn**. Stay tuned for more recipes and updates as the game expands!
 
-![Engcraft](<../../../static/img/image (2).png>)
+![Engcraft](<../../../static/img/image_2.png>)
 
 [<span style="color:#FF3D3D">Back to Index</span>](../../../index.md)
 <hr>

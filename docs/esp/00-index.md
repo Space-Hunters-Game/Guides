@@ -1,6 +1,6 @@
 <div style="background-color:#1F1F1F; padding:10px;">
 
-![banneresp](<../../static/img/Baanner top 2.jpg>)
+![banneresp](<../../static/img/Baanner_top_2.jpg>)
 
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Documentación </span> </div>
 
@@ -49,8 +49,8 @@
   <ul>
     <li><a href="/docs/eng/Whitepaper/Storyline.md" style="color:#39FF14;">Historia del Juego</a></li>
     <li><a href="/docs/eng/Whitepaper/Overview.md" style="color:#39FF14;">Visión General del Proyecto</a></li>
-    <li><a href="/docs/eng/Whitepaper/Core%20Philosophy.md" style="color:#39FF14;">Filosofía Central</a></li>
-    <li><a href="/docs/eng/Whitepaper/Project%20Features.md" style="color:#39FF14;">Características del Proyecto</a></li>
+    <li><a href="/docs/eng/Whitepaper/Core_Philosophy.md" style="color:#39FF14;">Filosofía Central</a></li>
+    <li><a href="/docs/eng/Whitepaper/Project_Features.md" style="color:#39FF14;">Características del Proyecto</a></li>
   </ul>
 </details>
 
@@ -60,7 +60,7 @@
     <ul>
       <li> Creación de Cuenta (Pronto)</li>
       <li> Hunter HUB App (Pronto)</li>
-      <li><a href="/docs/esp/ESP Whitepaper/ESP GameInterface.md" style="color:#39FF14;">Interfaz del Juego</a></li>
+      <li><a href="/docs/esp/ESP Whitepaper/ESP_GameInterface.md" style="color:#39FF14;">Interfaz del Juego</a></li>
       <li>Mecánicas Básicas (Pronto)</li>
       <li>Consejos y Guía Rápida (Pronto)</li>
       <!-- Agrega más elementos aquí si es necesario -->
@@ -87,7 +87,7 @@
     <ul>
       <li><a href="/docs/esp/ESP Whitepaper/ESPPlaytoEarn.md" style="color:#39FF14;">Jugar para Ganar</a></li>
       <li><a href="/docs/esp/ESP Whitepaper/ESPFree-to-Play.md" style="color:#39FF14;">Jugar Gratis</a></li>
-      <li><a href="/docs/esp/ESP Whitepaper/ESPCommunityDriven" style="color:#39FF14;">Economía Comunitaria</a></li>
+      <li><a href="/docs/esp/ESP Whitepaper/ESPCommunityDriven.md" style="color:#39FF14;">Economía Comunitaria</a></li>
     </ul>
   </div>
 </details>

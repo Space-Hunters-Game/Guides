@@ -39,7 +39,7 @@ Las recetas para las diversas **<span style="color:#00FFFF">Tropas Robot** ofrec
 
 Utiliza la Sala de Creación sabiamente para obtener la ventaja en **<span style="color:#00FFFF">Space Hunters: The Reborn**. ¡Mantente atento a más recetas y actualizaciones a medida que el juego se expande!
 
-![Craftesp](<../../../static/img/image (2).png>)
+![Craftesp](<../../../static/img/image_2.png>)
 
 [<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
 <hr>

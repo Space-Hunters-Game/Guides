@@ -1,6 +1,6 @@
 <div style="background-color:#1F1F1F; padding:10px;">
 
-![Space Hunters: Reborn](../../../static/img/Baanner%20top%203.jpg)
+![Space Hunters: Reborn](../../../static/img/Baanner_top_3.jpg)
 
 ## <span style="color:#FF3D3D"> Core Philosophy: </span>
 ### <span style="color:#00FFFF">Community-driven</span> sustainable economy with <span style="color:#00FFFF">free-to-play</span> and <span style="color:#00FFFF">play-to-earn</span> mechanics

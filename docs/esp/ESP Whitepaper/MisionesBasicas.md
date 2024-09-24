@@ -4,7 +4,7 @@
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Misiones Básicas - Gameplay
 [<span style="color:#00FFFF">Volver al Índice</span>](../../../index.md)
 ## **<span style="color:#FF3D3D">Modo de Misiones Básicas</span>**
-![Missionspic](<../../../static/img/image (1).png>)
+![Missionspic](<../../../static/img/image_1.png>)
 ## **<span style="color:#FF3D3D">Propósito:</span>**
 
 - <span style="color:#00FFFF">Ayuda a los nuevos jugadores a probar el juego y ganar experiencia y objetos para progresar a otros modos de juego.</span>

@@ -27,7 +27,7 @@ When excavating, players have a chance to find the following resources, each wit
 - **Phasium**
 - **Aetherium**
 
-![aresources](<../../../static/img/resources and scrap.png>)
+![aresources](<../../../static/img/resources_and_scrap.png>)
 ---
 
 ### **<span style="color:#FF3D3D">Usage of Resources**
@@ -72,7 +72,7 @@ Avatars complement the tools by providing **multipliers** that boost specific st
 
 By mastering the excavation game mode, you can accumulate rare resources, craft powerful items, and get an edge over other players in the Space Hunters universe. Happy hunting!
 
-![Excavationscreen](<../../../static/img/SH Excavation.png>)
+![Excavationscreen](<../../../static/img/SH_Excavation.png>)
 
 [<span style="color:#FF3D3D">Back to Index</span>](../../../index.md)
 <hr>

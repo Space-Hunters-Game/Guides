@@ -1,6 +1,6 @@
 <div style="background-color:#1F1F1F; padding:10px; color:#FFFFFF;">
 
-![Space Hunters: Reborn](../../../static/img/SH%20Banner.jpg)
+![Space Hunters: Reborn](../../../static/img/SH_Banner.jpg)
 
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#C0C0C0">Guía de Bienvenida</span></div>
 **<span style="color:#00FFFF">Resumen y Primeros Pasos**

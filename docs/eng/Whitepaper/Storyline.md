@@ -1,5 +1,5 @@
 
-![Space Hunters: Reborn](../../../static/img/Baanner%20top%203.jpg)
+![Space Hunters: Reborn](../../../static/img/Baanner_top_3.jpg)
 # Game Lore: “The Beginning”
 [<span style="color:#FF3D3D">Back to Index</span>](../../../index.md)
 ## <span style="color:red">The Fall of Earth and the Birth of the Hunters

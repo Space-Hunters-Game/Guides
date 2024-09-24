@@ -5,7 +5,7 @@
 [<span style="color:#00FFFF">Back to Index</span>](../../../index.md)
 
 ## **<span style="color:#FF3D3D">Basic Missions Game Mode</span>**
-![Missionspic](<../../../static/img/image (1).png>)
+![Missionspic](<../../../static/img/image_1.png>)
 ### **<span style="color:#C0C0C0">Purpose:</span>**
 
 - <span style="color:#00FFFF">Helps new players test the game and earn experience and items to progress to other game modes.

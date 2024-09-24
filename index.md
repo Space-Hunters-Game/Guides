@@ -1,6 +1,6 @@
 <div style="background-color:#1F1F1F; padding:10px;">
 
-![Banner](<static/img/Baanner top 2.jpg>)
+![Banner](<static/img/Baanner_top_2.jpg>)
 
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Documentation </span> </div>
 
@@ -48,8 +48,8 @@
   <ul>
     <li><a href="/docs/eng/Whitepaper/Storyline.md" style="color:#39FF14;">Game Storyline</a></li>
     <li><a href="/docs/eng/Whitepaper/Overview.md" style="color:#39FF14;">Project Overview</a></li>
-    <li><a href="/docs/eng/Whitepaper/Core%20Philosophy.md" style="color:#39FF14;">Core Philosophy</a></li>
-    <li><a href="/docs/eng/Whitepaper/Project%20Features.md" style="color:#39FF14;">Project Features</a></li>
+    <li><a href="/docs/eng/Whitepaper/Core_Philosophy.md" style="color:#39FF14;">Core Philosophy</a></li>
+    <li><a href="/docs/eng/Whitepaper/Project_Features.md" style="color:#39FF14;">Project Features</a></li>
   </ul>
 </details>
 

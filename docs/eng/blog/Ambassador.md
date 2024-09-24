@@ -1,6 +1,6 @@
 <div style="background-color:#1F1F1F; padding:10px;">
 
-![blogbanner](<../../../static/img/banner stickers.jpg>)
+![blogbanner](<../../../static/img/banner_stickers.jpg>)
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Chat-to-Earn </span> </div>
 
 <span style="color:#00FFFF">*Boost Your Community Engagement with Our Space Hunters BOT!*</span>

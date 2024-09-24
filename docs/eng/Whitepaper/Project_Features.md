@@ -1,26 +1,24 @@
-<div style="background-color:#1F1F1F; padding:10px;">
 
-![Space Hunters: Reborn](../../../static/img/Banner%20doble.jpg)
-# <span style="color:#FF3D3D">Puntos Clave del Juego</span>
+![Space Hunters: Reborn](../../../static/img/Baanner_top_3.jpg)
 
-**<span style="color:#00FFFF">Variedad de Jugabilidad</span>**: *Space Hunters* (SH) ofrece diversos estilos económicos y modos de juego, permitiendo a los jugadores crear sus propias estrategias.
+# <span style="color:#FF3D3D">Project Features</span>
 
-**<span style="color:#00FFFF">Economía Centrada en la Comunidad</span>**: Promueve un juego sostenible y orientado a la comunidad donde los jugadores pueden explorar, minar recursos y fabricar objetos sin afectar la economía del juego.
+<span style="color:#00FFFF">Balanced Token Economy: </span>
+Space Hunters excels in maintaining a balanced token economy, ensuring **long-term stability** and fair rewards for committed players. The combination of **inflationary** and **deflationary** systems keeps the economy in check, providing a sustainable foundation for the game's ecosystem.
 
-**<span style="color:#00FFFF">Modelo de Economía Dual</span>**: Combina el Free-to-Play (F2P) con el Play-to-Earn (P2E) utilizando dos tokens (on-chain y off-chain) y estrategias de asignación estratégica.
+<span style="color:#00FFFF"> Daily Social & Guild Missions:</span> Engage in daily guild missions to collaborate with fellow players, strategize together, and earn valuable rewards. These missions foster teamwork, camaraderie, and a sense of community within the game, enhancing the overall gaming experience.  Complete social and special tasks to support the proyect and in exchange you will earn more items and tokens which can be obtained only from this kind of unique tasks  and also gives you advantage over the ones which not 
 
-**<span style="color:#00FFFF">Crecimiento a Largo Plazo</span>**: Enfatiza la participación activa y el desarrollo a largo plazo para los jugadores.
+ <span style="color:#00FFFF">Blockchain Integration:</span> With blockchain integration, Space Hunters establishes a decentralized economy that empowers players to truly own their in-game assets. This integration enhances transparency, security, and trust within the ecosystem, setting a new standard for player-driven economies in the gaming industry. 
 
-**<span style="color:#00FFFF">Canales de Participación</span>**: Conéctate con la comunidad de Space Hunters a través de plataformas sociales como Twitter, Telegram, Discord y el sitio web oficial.
 
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Back to Index</span>](../../../index.md)
 <hr>
 
-><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>
+><span style="color:#00FFFF"> 🔧This site is still under development. More docs and languages will be available soon.</span>
 <hr>
 <a href="https://spacehunters.online" style="text-decoration:none;">
   <div style="display:inline-block; padding:4px 24px; background-color:#1F1F1F; color:#00FFFF; border: 2px solid #00FFFF; border-radius:8px; font-weight:bold; box-shadow: 0px 0px 15px #00FFFF; transition: background-color 0.3s, box-shadow 0.3s;">
-    🚀 ¡Jugar Ahora!
+    🚀 Play Now!
   </div>
 </a>
 
@@ -33,10 +31,10 @@
 </style>
 ****
 
-### <span style="color:#FF3D3D">Redes Sociales</span>
+### <span style="color:#FF3D3D"> Social Networks </span>
 
 [![Telegram](https://img.shields.io/badge/Telegram-BOT-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)
-[![Telegram](https://img.shields.io/badge/Telegram-Anuncios-26A5E4?style=plastic&logo=telegram)](https://t.me/spacehuntersnews)
+[![Telegram](https://img.shields.io/badge/Telegram-Announcements-26A5E4?style=plastic&logo=telegram)](https://t.me/spacehuntersnews)
 [![Telegram EN](https://img.shields.io/badge/Telegram-Chat%20ENG-2CA5E0?style=plastic&logo=telegram)](https://t.me/spacehunterss)
 [![Telegram EN](https://img.shields.io/badge/Telegram-Chat%20ESP-2CA5E0?style=plastic&logo=telegram)](https://t.me/shspanish)
 [![Discord](https://img.shields.io/badge/Discord-Space%20Hunters-7289DA?style=plastic&logo=discord)](https://discord.gg/wpmzyJM9xb)

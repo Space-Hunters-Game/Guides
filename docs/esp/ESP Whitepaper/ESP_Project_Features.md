@@ -1,14 +1,15 @@
-<div style="background-color:#1F1F1F; padding:10px;">
+![Space Hunters: Reborn](../../../static/img/Baanner_top_3.jpg)
 
-![Space Hunters: Reborn](../../../static/img/Baanner%20top%203.jpg)
+# <span style="color:#FF3D3D">Características del Proyecto</span>
 
-## <span style="color:#FF3D3D"> Filosofía Central: </span>
-### <span style="color:#00FFFF">Economía sostenible</span> impulsada por la <span style="color:#00FFFF">comunidad</span> con mecánicas de <span style="color:#00FFFF">free-to-play</span> y <span style="color:#00FFFF">play-to-earn</span>
+<span style="color:#00FFFF">Economía de Tokens Equilibrada:</span> *Space Hunters* sobresale en mantener una economía de tokens equilibrada, garantizando **estabilidad a largo plazo** y recompensas justas para los jugadores comprometidos. La combinación de sistemas **inflacionarios** y **deflacionarios** mantiene la economía bajo control, proporcionando una base sostenible para el ecosistema del juego.
 
-Adoptando el espíritu de la sostenibilidad impulsada por la comunidad, Space Hunters lidera un ecosistema de juegos donde los jugadores pueden participar libremente sin barreras financieras. Al ofrecer un modelo free-to-play y mecánicas de play-to-earn, el juego empodera a las personas para explorar, planificar y obtener recompensas basadas en su dedicación y habilidades. Este enfoque fomenta una economía dinámica donde se valora la contribución de cada jugador, creando un universo donde la equidad y la oportunidad reinan supremas.
+<span style="color:#00FFFF">Misiones Diarias Sociales y de Gremios:</span> Participa en misiones diarias de gremio para colaborar con otros jugadores, crear estrategias en conjunto y ganar valiosas recompensas. Estas misiones fomentan el trabajo en equipo, la camaradería y un sentido de comunidad dentro del juego, mejorando la experiencia general. Completa tareas sociales y especiales para apoyar el proyecto y, a cambio, obtén más objetos y tokens que solo pueden obtenerse a través de estas tareas únicas, lo que también te da ventaja sobre aquellos que no las realizan.
 
- [<span style="color:#FF3D3D"> Volver al Índice</span>](../../../index.md)
- <hr>
+<span style="color:#00FFFF">Integración Blockchain:</span> Con la integración blockchain, *Space Hunters* establece una economía descentralizada que permite a los jugadores poseer verdaderamente sus activos dentro del juego. Esta integración mejora la transparencia, seguridad y confianza dentro del ecosistema, estableciendo un nuevo estándar para economías impulsadas por jugadores en la industria del videojuego.
+
+[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+<hr>
 
 ><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>
 <hr>
@@ -27,7 +28,7 @@ Adoptando el espíritu de la sostenibilidad impulsada por la comunidad, Space Hu
 </style>
 ****
 
-### <span style="color:#FF3D3D"> Redes Sociales </span>
+### <span style="color:#FF3D3D">Redes Sociales</span>
 
 [![Telegram](https://img.shields.io/badge/Telegram-BOT-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)
 [![Telegram](https://img.shields.io/badge/Telegram-Anuncios-26A5E4?style=plastic&logo=telegram)](https://t.me/spacehuntersnews)

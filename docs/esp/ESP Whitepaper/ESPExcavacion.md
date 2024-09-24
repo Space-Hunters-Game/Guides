@@ -27,7 +27,7 @@ Al excavar, los jugadores tienen la oportunidad de encontrar los siguientes recu
 - **Phasium**
 - **Aetherium**
 
-![aresources](<../../../static/img/resources and scrap.png>)
+![aresources](<../../../static/img/resources_and_scrap.png>)
 ---
 
 ### **<span style="color:#FF3D3D">Uso de los Recursos**
@@ -72,7 +72,7 @@ Los avatares complementan las herramientas al proporcionar **multiplicadores** q
 
 Al dominar el modo de excavación, puedes acumular recursos raros, crear objetos poderosos y obtener una ventaja sobre otros jugadores en el universo de Space Hunters. ¡Feliz caza!
 
-![Excavationscreen](<../../../static/img/SH Excavation.png>)
+![Excavationscreen](<../../../static/img/SH_Excavation.png>)
 
 
 [<span style="color:#FF3D3D">Back to Index</span>](../../../index.md)

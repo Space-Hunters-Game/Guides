@@ -1,6 +1,6 @@
 <div style="background-color:#1F1F1F; padding:10px;">
 
-![Space Hunters: Reborn](../../../static/img/Baanner%20top%203.jpg)
+![Space Hunters: Reborn](../../../static/img/Baanner_top_3.jpg)
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Lore: “El Comienzo”
 [<span style="color:#00FFFF">Volver al Índice</span>](../../../index.md)
 ## <span style="color:#FF3D3D">La Caída de la Tierra y el Nacimiento de los Cazadores

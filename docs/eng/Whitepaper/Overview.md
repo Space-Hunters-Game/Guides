@@ -1,6 +1,6 @@
 <div style="background-color:#1F1F1F; padding:10px;">
 
-![Space Hunters: Reborn](../../../static/img/Banner%20doble.jpg)
+![Space Hunters: Reborn](../../../static/img/Banner_doble.jpg)
 # <span style="color:#FF3D3D">Game Key Points</span>
 
 

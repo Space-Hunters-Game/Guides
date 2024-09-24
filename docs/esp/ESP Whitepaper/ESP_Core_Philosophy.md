@@ -1,24 +1,20 @@
+<div style="background-color:#1F1F1F; padding:10px;">
 
-![Space Hunters: Reborn](../../../static/img/Baanner%20top%203.jpg)
+![Space Hunters: Reborn](../../../static/img/Baanner_top_3.jpg)
 
-# <span style="color:#FF3D3D">Project Features</span>
+## <span style="color:#FF3D3D"> Filosofía Central: </span>
+### <span style="color:#00FFFF">Economía sostenible</span> impulsada por la <span style="color:#00FFFF">comunidad</span> con mecánicas de <span style="color:#00FFFF">free-to-play</span> y <span style="color:#00FFFF">play-to-earn</span>
 
-<span style="color:#00FFFF">Balanced Token Economy: </span>
-Space Hunters excels in maintaining a balanced token economy, ensuring **long-term stability** and fair rewards for committed players. The combination of **inflationary** and **deflationary** systems keeps the economy in check, providing a sustainable foundation for the game's ecosystem.
+Adoptando el espíritu de la sostenibilidad impulsada por la comunidad, Space Hunters lidera un ecosistema de juegos donde los jugadores pueden participar libremente sin barreras financieras. Al ofrecer un modelo free-to-play y mecánicas de play-to-earn, el juego empodera a las personas para explorar, planificar y obtener recompensas basadas en su dedicación y habilidades. Este enfoque fomenta una economía dinámica donde se valora la contribución de cada jugador, creando un universo donde la equidad y la oportunidad reinan supremas.
 
-<span style="color:#00FFFF"> Daily Social & Guild Missions:</span> Engage in daily guild missions to collaborate with fellow players, strategize together, and earn valuable rewards. These missions foster teamwork, camaraderie, and a sense of community within the game, enhancing the overall gaming experience.  Complete social and special tasks to support the proyect and in exchange you will earn more items and tokens which can be obtained only from this kind of unique tasks  and also gives you advantage over the ones which not 
+ [<span style="color:#FF3D3D"> Volver al Índice</span>](../../../index.md)
+ <hr>
 
- <span style="color:#00FFFF">Blockchain Integration:</span> With blockchain integration, Space Hunters establishes a decentralized economy that empowers players to truly own their in-game assets. This integration enhances transparency, security, and trust within the ecosystem, setting a new standard for player-driven economies in the gaming industry. 
-
-
-[<span style="color:#FF3D3D">Back to Index</span>](../../../index.md)
-<hr>
-
-><span style="color:#00FFFF"> 🔧This site is still under development. More docs and languages will be available soon.</span>
+><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>
 <hr>
 <a href="https://spacehunters.online" style="text-decoration:none;">
   <div style="display:inline-block; padding:4px 24px; background-color:#1F1F1F; color:#00FFFF; border: 2px solid #00FFFF; border-radius:8px; font-weight:bold; box-shadow: 0px 0px 15px #00FFFF; transition: background-color 0.3s, box-shadow 0.3s;">
-    🚀 Play Now!
+    🚀 ¡Jugar Ahora!
   </div>
 </a>
 
@@ -31,10 +27,10 @@ Space Hunters excels in maintaining a balanced token economy, ensuring **long-te
 </style>
 ****
 
-### <span style="color:#FF3D3D"> Social Networks </span>
+### <span style="color:#FF3D3D"> Redes Sociales </span>
 
 [![Telegram](https://img.shields.io/badge/Telegram-BOT-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)
-[![Telegram](https://img.shields.io/badge/Telegram-Announcements-26A5E4?style=plastic&logo=telegram)](https://t.me/spacehuntersnews)
+[![Telegram](https://img.shields.io/badge/Telegram-Anuncios-26A5E4?style=plastic&logo=telegram)](https://t.me/spacehuntersnews)
 [![Telegram EN](https://img.shields.io/badge/Telegram-Chat%20ENG-2CA5E0?style=plastic&logo=telegram)](https://t.me/spacehunterss)
 [![Telegram EN](https://img.shields.io/badge/Telegram-Chat%20ESP-2CA5E0?style=plastic&logo=telegram)](https://t.me/shspanish)
 [![Discord](https://img.shields.io/badge/Discord-Space%20Hunters-7289DA?style=plastic&logo=discord)](https://discord.gg/wpmzyJM9xb)

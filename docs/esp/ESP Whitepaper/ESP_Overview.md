@@ -1,12 +1,17 @@
-![Space Hunters: Reborn](../../../static/img/Baanner%20top%203.jpg)
+<div style="background-color:#1F1F1F; padding:10px;">
 
-# <span style="color:#FF3D3D">Características del Proyecto</span>
+![Space Hunters: Reborn](../../../static/img/Banner_doble.jpg)
+# <span style="color:#FF3D3D">Puntos Clave del Juego</span>
 
-<span style="color:#00FFFF">Economía de Tokens Equilibrada:</span> *Space Hunters* sobresale en mantener una economía de tokens equilibrada, garantizando **estabilidad a largo plazo** y recompensas justas para los jugadores comprometidos. La combinación de sistemas **inflacionarios** y **deflacionarios** mantiene la economía bajo control, proporcionando una base sostenible para el ecosistema del juego.
+**<span style="color:#00FFFF">Variedad de Jugabilidad</span>**: *Space Hunters* (SH) ofrece diversos estilos económicos y modos de juego, permitiendo a los jugadores crear sus propias estrategias.
 
-<span style="color:#00FFFF">Misiones Diarias Sociales y de Gremios:</span> Participa en misiones diarias de gremio para colaborar con otros jugadores, crear estrategias en conjunto y ganar valiosas recompensas. Estas misiones fomentan el trabajo en equipo, la camaradería y un sentido de comunidad dentro del juego, mejorando la experiencia general. Completa tareas sociales y especiales para apoyar el proyecto y, a cambio, obtén más objetos y tokens que solo pueden obtenerse a través de estas tareas únicas, lo que también te da ventaja sobre aquellos que no las realizan.
+**<span style="color:#00FFFF">Economía Centrada en la Comunidad</span>**: Promueve un juego sostenible y orientado a la comunidad donde los jugadores pueden explorar, minar recursos y fabricar objetos sin afectar la economía del juego.
 
-<span style="color:#00FFFF">Integración Blockchain:</span> Con la integración blockchain, *Space Hunters* establece una economía descentralizada que permite a los jugadores poseer verdaderamente sus activos dentro del juego. Esta integración mejora la transparencia, seguridad y confianza dentro del ecosistema, estableciendo un nuevo estándar para economías impulsadas por jugadores en la industria del videojuego.
+**<span style="color:#00FFFF">Modelo de Economía Dual</span>**: Combina el Free-to-Play (F2P) con el Play-to-Earn (P2E) utilizando dos tokens (on-chain y off-chain) y estrategias de asignación estratégica.
+
+**<span style="color:#00FFFF">Crecimiento a Largo Plazo</span>**: Enfatiza la participación activa y el desarrollo a largo plazo para los jugadores.
+
+**<span style="color:#00FFFF">Canales de Participación</span>**: Conéctate con la comunidad de Space Hunters a través de plataformas sociales como Twitter, Telegram, Discord y el sitio web oficial.
 
 [<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
 <hr>
