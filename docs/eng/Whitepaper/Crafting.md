@@ -2,7 +2,7 @@
 
 ![UI-Banner](../../../static/img/UI-Banner.jpg)
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Crafting Room
-[<span style="color:#00FFFF">Back to Index</span>](../../../index.md)
+[<span style="color:#FF3D3D">Back to Index</span>](../../../index.md)
 
 ## **<span style="color:#FF3D3D">Crafting Room</span>**
 

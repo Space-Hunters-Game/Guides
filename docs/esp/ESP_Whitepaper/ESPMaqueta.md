@@ -2,9 +2,9 @@
 
 ![UI-Banner](../../../static/img/UI-Banner.jpg)
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Game User Interface
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 <hr>
 
 ><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>

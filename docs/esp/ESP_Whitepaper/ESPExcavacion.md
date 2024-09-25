@@ -2,7 +2,7 @@
 
 ![UI-Banner](../../../static/img/UI-Banner.jpg)
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Modo: Excavación
-[<span style="color:#00FFFF">Back to Index</span>](../../../index.md)
+[<span style="color:#00FFFF">Volver al índice</span>](../00-index.md)
 
 ## **<span style="color:#FF3D3D">Modo de Excavación</span>**
 
@@ -75,7 +75,7 @@ Al dominar el modo de excavación, puedes acumular recursos raros, crear objetos
 ![Excavationscreen](<../../../static/img/SH_Excavation.png>)
 
 
-[<span style="color:#FF3D3D">Back to Index</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al índice</span>](../00-index.md)
 <hr>
 
 ><span style="color:#00FFFF"> 🔧This site is still under development. More docs and languages will be available soon.</span>

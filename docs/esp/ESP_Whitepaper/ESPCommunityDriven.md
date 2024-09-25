@@ -2,7 +2,7 @@
 
 ![UI-Banner](../../../static/img/UI-Banner.jpg)
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Economía Comunitaria
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 
 ## **<span style="color:#FF3D3D">Estrategia Impulsada por la Comunidad en Space Hunters: The Reborn</span>**
 
@@ -52,7 +52,7 @@
 **Space Hunters: The Reborn** ofrece una estrategia audaz centrada en la comunidad, integrando a los creadores de contenido en el corazón de su jugabilidad y economía. Al recompensar la participación, crear valor en múltiples plataformas y ofrecer una amplia gama de contenido, el juego fomenta un ecosistema interconectado que beneficia a todos los jugadores.
 
 
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 <hr>
 
 ><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>

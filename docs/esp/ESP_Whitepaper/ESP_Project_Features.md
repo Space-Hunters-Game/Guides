@@ -8,7 +8,7 @@
 
 <span style="color:#00FFFF">Integración Blockchain:</span> Con la integración blockchain, *Space Hunters* establece una economía descentralizada que permite a los jugadores poseer verdaderamente sus activos dentro del juego. Esta integración mejora la transparencia, seguridad y confianza dentro del ecosistema, estableciendo un nuevo estándar para economías impulsadas por jugadores en la industria del videojuego.
 
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 <hr>
 
 ><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>

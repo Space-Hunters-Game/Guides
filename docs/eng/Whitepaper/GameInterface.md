@@ -2,7 +2,7 @@
 
 ![UI-Banner](../../../static/img/UI-Banner.jpg)
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Game User Interface
-[<span style="color:#00FFFF">Back to Index</span>](../../../index.md)
+[<span style="color:#FF3D3D">Back to Index</span>](../../../index.md)
 <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Game UI & Experience </span> </div>
 
 We’re building an intuitive and visually engaging **user interface** that captures the essence of **Space Hunters: The Reborn**. The UI is designed to offer smooth navigation with simple clicks, vibrant images, and dynamic buttons that immerse players in a **fun and exciting space-themed world**.

@@ -2,7 +2,7 @@
 
 ![UI-Banner](../../../static/img/UI-Banner.jpg)
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Interfaz de Usuario del Juego
-[<span style="color:#00FFFF">Volver al Índice</span>](../../../index.md)
+[<span style="color:#00FFFF">Volver al Índice</span>](../00-index.md)
 <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> UI del Juego y Experiencia </span> </div>
 
 Estamos construyendo una **interfaz de usuario** intuitiva y visualmente atractiva que captura la esencia de **Space Hunters: The Reborn**. La UI está diseñada para ofrecer una navegación fluida con clics simples, imágenes vibrantes y botones dinámicos que sumergen a los jugadores en un **mundo temático espacial divertido y emocionante**.
@@ -61,7 +61,7 @@ El **tablero** ayudará a los jugadores a tomar decisiones informadas para un re
 
 Nuestro **sistema de registros** rastrea tus últimos resultados con **marcas de fecha y hora**. Es una forma simple de revisar acciones pasadas y preparar tu estrategia en consecuencia.
 
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 <hr>
 
 ><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>

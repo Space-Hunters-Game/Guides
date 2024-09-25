@@ -7,7 +7,7 @@
 
 Adoptando el espíritu de la sostenibilidad impulsada por la comunidad, Space Hunters lidera un ecosistema de juegos donde los jugadores pueden participar libremente sin barreras financieras. Al ofrecer un modelo free-to-play y mecánicas de play-to-earn, el juego empodera a las personas para explorar, planificar y obtener recompensas basadas en su dedicación y habilidades. Este enfoque fomenta una economía dinámica donde se valora la contribución de cada jugador, creando un universo donde la equidad y la oportunidad reinan supremas.
 
- [<span style="color:#FF3D3D"> Volver al Índice</span>](../../../index.md)
+ [<span style="color:#FF3D3D"> Volver al Índice</span>](../00-index.md)
  <hr>
 
 ><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>

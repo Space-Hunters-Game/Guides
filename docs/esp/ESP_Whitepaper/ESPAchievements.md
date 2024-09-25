@@ -2,7 +2,7 @@
 
 ![UI-Banner](../../../static/img/UI-Banner.jpg)
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Logros
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 
 ## **<span style="color:#FF3D3D">Sistema de Logros</span>**
 
@@ -98,7 +98,7 @@ El sistema de logros en **Space Hunters: The Reborn** ofrece una amplia gama de 
 **<span style="color:#00FFFF">Consejo**: Mantente al día con las nuevas actualizaciones del sistema de logros y revisa regularmente los logros disponibles para maximizar tu éxito en el juego.
 
 
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 <hr>
 
 ><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>

@@ -13,7 +13,7 @@
 
 **<span style="color:#00FFFF">Canales de Participación</span>**: Conéctate con la comunidad de Space Hunters a través de plataformas sociales como Twitter, Telegram, Discord y el sitio web oficial.
 
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 <hr>
 
 ><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>

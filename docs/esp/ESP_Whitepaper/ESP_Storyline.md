@@ -2,7 +2,7 @@
 
 ![Space Hunters: Reborn](../../../static/img/Baanner_top_3.jpg)
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Lore: “El Comienzo”
-[<span style="color:#00FFFF">Volver al Índice</span>](../../../index.md)
+[<span style="color:#00FFFF">Volver al Índice</span>](../00-index.md)
 ## <span style="color:#FF3D3D">La Caída de la Tierra y el Nacimiento de los Cazadores
 En el siglo 24, la humanidad alcanzó la cima de los logros tecnológicos, desbloqueando el poder de viajar entre sistemas estelares distantes. Impulsados por la ambición y la codicia, las naciones de la Tierra empujaron sus esfuerzos de exploración hasta los confines más lejanos de la galaxia, colonizando planetas y extrayendo recursos sin control. Sin embargo, en su insaciable hambre de expansión, despertaron algo mucho más poderoso que ellos—una fuerza antigua, oscura y completamente implacable.
 
@@ -44,7 +44,7 @@ El tiempo corre. Los motores de Arcadia se quejan bajo el peso de siglos de desg
 (...) esto no es el final, sino solo el comienzo...
 
 
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 <hr>
 
 ><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>

@@ -2,7 +2,7 @@
 
 ![UI-Banner](../../../static/img/UI-Banner.jpg)
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Free-To-Play
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 
 ## **<span style="color:#FF3D3D">Mecánicas Fee-to-Play en Space Hunters: The Reborn</span>**
 
@@ -86,7 +86,7 @@ Detallando  las estrategias y consejos para aprovechar al máximo el modelo **Fe
 En resumen, el sistema de Space Hunters está diseñado para fomentar la asignación estratégica de recursos y la participación activa de los jugadores, con un enfoque en la economía residual y la implementación de $HCREDIT para lograr una adopción masiva. ¡Explora todas las opciones disponibles para maximizar tus recompensas y disfrutar al máximo del juego! 🚀
 
 
-[<span style="color:#FF3D3D">Volver al Índice</span>](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 <hr>
 
 ><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>
