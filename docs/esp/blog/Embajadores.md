@@ -118,7 +118,7 @@ La economía de Space Hunters está diseñada para prosperar a través de la par
 <span style="color:#00FFFF">El ecosistema de Space Hunters</span> ofrece beneficios gratuitos para las comunidades al recompensar la interacción y el compromiso a través de nuestro token $HCREDIT. Diseñado para una adopción masiva, el propósito de $HCREDIT es unir a las comunidades de web3, recompensando a los miembros activos mientras se crea una experiencia compartida. A medida que los jugadores interactúan y se comprometen dentro de sus propios grupos, también se conectan con otros, construyendo un círculo de comunidades interconectadas que convergen en el universo de Space Hunters. Las comunidades pueden promocionarse a sí mismas a través de nuestra plataforma, aprovechando las nuevas funciones que estamos desarrollando. Después de
 
 
-[<span style="color:#FF3D3D">Volver al Índice](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice](../00-index.md)
 
 <hr>
 

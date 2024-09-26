@@ -31,7 +31,7 @@ Esta caja puede almacenar una batería de energía potente, permitiéndote recar
 
 **<span style="color:#FF3D3D">¡Disfruta!**
 
-[<span style="color:#FF3D3D">Volver al Índice](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice](../00-index.md)
 
 <hr>
 

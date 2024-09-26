@@ -3,7 +3,11 @@
 ![Space Hunters: Reborn](../../../static/img/SH_Banner.jpg)
 
 # <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#C0C0C0">Guía de Bienvenida</span></div>
+
+[<span style="color:#FF3D3D">Volver al Índice](../00-index.md)
+
 **<span style="color:#00FFFF">Resumen y Primeros Pasos**
+
   - [<span style="color:#39FF14">¿Qué es Space Hunters?](#what-is-space-hunters)
   - [<span style="color:#39FF14">¿Cuál es el estado actual del proyecto?](#what-is-the-current-state-of-the-project)
   - [<span style="color:#39FF14">¿Hay algo en lo que pueda participar ahora mismo?](#is-there-anything-i-can-participate-in-right-now)
@@ -83,6 +87,8 @@ Las mecánicas que involucran **<span style="color:#00FFFF">$HCREDIT** han sido 
 Puedes obtener más detalles en el [<span style="color:#00FFFF">documento técnico](https://spaceheroes.gitbook.io/space-hunters), pero para resumir, ten en cuenta esto: La contribución a los propietarios de generadores se llama “Contrato de Ingeniero”, que expira después de 24 horas para fomentar la participación diaria de la comunidad. Esto significa que si un usuario no se mantiene activo, no ganará $HCREDIT, lo que a su vez significa que no obtendrá más $HCASH, y a medida que menos jugadores participen en la Generación, habrá más $HCASH para dividir. La economía está respaldada por una constante quema de $HCREDIT y, por lo tanto, mantiene una dinámica sólida para todos los jugadores activos.
 
 [**<span style="color:#FF3D3D">Leer más sobre el Modo Free-To-Play y P2E aquí.**](https://spacehunters.gitbook.io/space-hunters)
+
+[<span style="color:#FF3D3D">Volver al Índice](../00-index.md)
 
 > <span style="color:#00FFFF"> 🔧Este sitio se encuentra en desarrollo, mas idiomas e información se agregaran pronto.</span>
 <hr>

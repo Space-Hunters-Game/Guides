@@ -10,7 +10,7 @@ Aquí está nuestro primer lote de stickers divertidos, identificando nuestros c
 
 Disfruta 😊 
 
-[<span style="color:#FF3D3D">Volver al Índice](../../../index.md)
+[<span style="color:#FF3D3D">Volver al Índice](../00-index.md)
 
 <hr>
 
