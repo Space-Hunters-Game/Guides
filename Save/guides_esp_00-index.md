@@ -1,4 +1,4 @@
-![alt text](<../static/img/SH_Banner.jpg>)
+![alt text](<../static/img/SH Banner.jpg>)
 
 **Bienvenido a la Documentación de Space Hunters**
 
