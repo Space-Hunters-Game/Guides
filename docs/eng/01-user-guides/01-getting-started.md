@@ -1,4 +1,6 @@
-![Space Hunters: Reborn](../../../static/img/SH%20Banner.jpg)
+<div style="background-color:#1F1F1F; padding:10px; color:#FFFFFF;">
+
+![Space Hunters: Reborn](../../../static/img/SH_Banner.jpg)
 
 [Back to Index](../../../index.md)
 
