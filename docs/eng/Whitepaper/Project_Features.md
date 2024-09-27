@@ -1,17 +1,17 @@
-<div style="background-color:#1F1F1F; padding:10px;">
 
-![alt text](../../../static/img/sticker-pack.png)
-# <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Telegram Stickers </span> </div>
-## <span style="color:#FF3D3D">Space MonStickers ⭐️
+![Space Hunters: Reborn](../../../static/img/Baanner_top_3.jpg)
 
-Here is our first batch of funny stickers, identifying our colors, logo in his belt, a monster from the infinite space become our friend to make our chats more fun and friendly 🙌😍
+# <span style="color:#FF3D3D">Project Features</span>
 
-<span style="color:#00FFFF">Here the [link](https://t.me/addstickers/SpaceHunters) to direct add the stickers.
+<span style="color:#00FFFF">Balanced Token Economy: </span>
+Space Hunters excels in maintaining a balanced token economy, ensuring **long-term stability** and fair rewards for committed players. The combination of **inflationary** and **deflationary** systems keeps the economy in check, providing a sustainable foundation for the game's ecosystem.
 
-Enjoy 😊 
+<span style="color:#00FFFF"> Daily Social & Guild Missions:</span> Engage in daily guild missions to collaborate with fellow players, strategize together, and earn valuable rewards. These missions foster teamwork, camaraderie, and a sense of community within the game, enhancing the overall gaming experience.  Complete social and special tasks to support the proyect and in exchange you will earn more items and tokens which can be obtained only from this kind of unique tasks  and also gives you advantage over the ones which not 
 
-[<span style="color:#FF3D3D">Back to Index](../../../index.md)
+ <span style="color:#00FFFF">Blockchain Integration:</span> With blockchain integration, Space Hunters establishes a decentralized economy that empowers players to truly own their in-game assets. This integration enhances transparency, security, and trust within the ecosystem, setting a new standard for player-driven economies in the gaming industry. 
 
+
+[<span style="color:#FF3D3D">Back to Index</span>](../../../index.md)
 <hr>
 
 ><span style="color:#00FFFF"> 🔧This site is still under development. More docs and languages will be available soon.</span>

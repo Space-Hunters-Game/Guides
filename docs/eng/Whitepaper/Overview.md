@@ -1,17 +1,21 @@
 <div style="background-color:#1F1F1F; padding:10px;">
 
-![alt text](../../../static/img/sticker-pack.png)
-# <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Telegram Stickers </span> </div>
-## <span style="color:#FF3D3D">Space MonStickers ⭐️
+![Space Hunters: Reborn](../../../static/img/Banner_doble.jpg)
+# <span style="color:#FF3D3D">Game Key Points</span>
 
-Here is our first batch of funny stickers, identifying our colors, logo in his belt, a monster from the infinite space become our friend to make our chats more fun and friendly 🙌😍
 
-<span style="color:#00FFFF">Here the [link](https://t.me/addstickers/SpaceHunters) to direct add the stickers.
+**<span style="color:#00FFFF">Gameplay Variety</span>**: *Space Hunters* (SH) offers diverse economic styles and game modes, empowering players to craft their own strategies.
 
-Enjoy 😊 
+**<span style="color:#00FFFF">Community-Centric Economy</span>**: Promotes sustainable and community-oriented gameplay where players can explore, mine resources, and craft items without disrupting the in-game economy.
 
-[<span style="color:#FF3D3D">Back to Index](../../../index.md)
+**<span style="color:#00FFFF">Dual Economy Model</span>**: Combines Free-to-Play (F2P) with Play-to-Earn (P2E) using two tokens (on-chain and off-chain) and strategic allocation strategies.
 
+**<span style="color:#00FFFF">Long-Term Growth</span>**: Emphasizes active participation and long-term development for players.
+
+**<span style="color:#00FFFF">Engagement Channels</span>**: Connect with the Space Hunters community through social media platforms like Twitter, Telegram, Discord, and the official website.
+
+
+[<span style="color:#FF3D3D">Back to Index</span>](../../../index.md)
 <hr>
 
 ><span style="color:#00FFFF"> 🔧This site is still under development. More docs and languages will be available soon.</span>

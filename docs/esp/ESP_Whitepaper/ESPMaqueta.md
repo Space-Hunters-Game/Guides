@@ -1,24 +1,17 @@
 <div style="background-color:#1F1F1F; padding:10px;">
 
-![alt text](../../../static/img/sticker-pack.png)
-# <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Telegram Stickers </span> </div>
-## <span style="color:#FF3D3D">Space MonStickers ⭐️
+![UI-Banner](../../../static/img/UI-Banner.jpg)
+# <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Game User Interface
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 
-Here is our first batch of funny stickers, identifying our colors, logo in his belt, a monster from the infinite space become our friend to make our chats more fun and friendly 🙌😍
-
-<span style="color:#00FFFF">Here the [link](https://t.me/addstickers/SpaceHunters) to direct add the stickers.
-
-Enjoy 😊 
-
-[<span style="color:#FF3D3D">Back to Index](../../../index.md)
-
+[<span style="color:#FF3D3D">Volver al Índice</span>](../00-index.md)
 <hr>
 
-><span style="color:#00FFFF"> 🔧This site is still under development. More docs and languages will be available soon.</span>
+><span style="color:#00FFFF"> 🔧Este sitio aún está en desarrollo. Más documentación e idiomas estarán disponibles pronto.</span>
 <hr>
 <a href="https://spacehunters.online" style="text-decoration:none;">
   <div style="display:inline-block; padding:4px 24px; background-color:#1F1F1F; color:#00FFFF; border: 2px solid #00FFFF; border-radius:8px; font-weight:bold; box-shadow: 0px 0px 15px #00FFFF; transition: background-color 0.3s, box-shadow 0.3s;">
-    🚀 Play Now!
+    🚀 ¡Jugar Ahora!
   </div>
 </a>
 
@@ -31,7 +24,7 @@ Enjoy 😊
 </style>
 ****
 
-### <span style="color:#FF3D3D"> Social Networks </span>
+### <span style="color:#FF3D3D">Redes Sociales</span>
 
 [![Telegram](https://img.shields.io/badge/Telegram-BOT-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)
 [![Telegram](https://img.shields.io/badge/Telegram-Announcements-26A5E4?style=plastic&logo=telegram)](https://t.me/spacehuntersnews)

@@ -1,17 +1,10 @@
 <div style="background-color:#1F1F1F; padding:10px;">
 
-![alt text](../../../static/img/sticker-pack.png)
-# <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Telegram Stickers </span> </div>
-## <span style="color:#FF3D3D">Space MonStickers ⭐️
+![UI-Banner](../../../static/img/UI-Banner.jpg)
+# <div style="background: linear-gradient(185deg, #1F1F1F, #FF3D3D); padding: 5px; color: #FFFFFF;"><span style="color:#c0c0c0"> Game User Interface
+[<span style="color:#00FFFF">Back to Index</span>](../../../index.md)
 
-Here is our first batch of funny stickers, identifying our colors, logo in his belt, a monster from the infinite space become our friend to make our chats more fun and friendly 🙌😍
-
-<span style="color:#00FFFF">Here the [link](https://t.me/addstickers/SpaceHunters) to direct add the stickers.
-
-Enjoy 😊 
-
-[<span style="color:#FF3D3D">Back to Index](../../../index.md)
-
+[<span style="color:#FF3D3D">Back to Index</span>](../../../index.md)
 <hr>
 
 ><span style="color:#00FFFF"> 🔧This site is still under development. More docs and languages will be available soon.</span>
