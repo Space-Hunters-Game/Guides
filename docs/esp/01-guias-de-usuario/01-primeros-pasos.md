@@ -5,7 +5,8 @@
 ****
 
 # 📜 Resumen y primeros pasos.
-- [Resumen y primeros pasos.](#resumen-y-primeros-pasos)
+
+Guía de  Contenido
   - [¿Qué es Space Hunters?](#qué-es-space-hunters)
   - [¿Cuál es el estado actual del proyecto?](#cuál-es-el-estado-actual-del-proyecto)
   - [¿Hay actualmente algo en lo que pueda participar?](#hay-actualmente-algo-en-lo-que-pueda-participar)
@@ -43,22 +44,31 @@ SH utiliza varios estilos económicos y modos de juego, que le dan al usuario la
 
 **Space Hunters** aún está en desarrollo pero puedes ser parte de nuestros avances e ir adquiriendo NFTs y tokens gratis por participar y estar activo en nuestras comunidades. Nuestro sistema economico-social siempre esta recompensando estrategicamente a todos los miembros, no dejes pasar la oportunidad.
 
-> **Actualizado:** Acabamoz de lanzar nuestra HUB App, lee la guía aquí: [HUB App]()
+> **Actualización Oct/2024:** Acabamos de lanzar nuestra HUB App, aprende como usar nuestra app: [HUB App Guía Completa](/docs/esp/01-guias-de-usuario/02-HUBappES.md)
 
 ## ✅ ¿Hay actualmente algo en lo que pueda participar?
 
-Como parte de nuestra comunidad puedes seguirnos en las redes, interactuar con otros miembros y compartir los enlaces y actualizaciones del juego en ellas y nuestro algoritmo te recompensara constantemente con tokens $HCREDIT. Puedes participar en los whitelist de NFTs gratis que damos todos los meses y otras actividades o eventos de tiempo limitado. Siguenos en nuestro canal de anuncios para que no te pierdas las oportunidades.
+Primero que nada, como parte de nuestra comunidad puedes seguirnos en las redes, interactuar con otros miembros y compartir los enlaces y actualizaciones del juego en ellas y nuestro algoritmo te recompensara constantemente con tokens $HCREDIT. Puedes participar en los whitelist de NFTs gratis que damos todos los meses y otras actividades o eventos de tiempo limitado. Siguenos en nuestro canal de anuncios para que no te pierdas las oportunidades.
+
+> Actualmente ya esta disponible la HUB App donde puedes comenzar a relacionarte con el proyecto en general a demás de obtener tokens mediante diferentes actividades y tu perfil gamer. Lee la [Guía del HUB App](/docs/esp/01-guias-de-usuario/02-HUBappES.md)
+
 
 ## ✅ ¿Qué es es $HCREDIT y como se puede obtener? 
 
 $HCREDIT es un token de economía social dentro de **SH** que los puedes obtener al participar en actividades del proyecto y con tus amigos. El sistema económico que usa es sorprendentemente eficaz y recompensa constantemente a la comunidad mediante diferentes actividades.
 
-Actualmente puedes obtener $HCREDIT de las siguientes maneras:
-  * Haciendo Check-in diario en nuestro [BOT de Telegram](https://t.me/SpaceHuntersBot?start=NK1Y6ST3).
-  * Completando las tareas de [Zealy](https://zealy.io/cw/spacehuntersthereborn/invite/UroI4c6fhtB3SX65siHBX).
-  * Con nuestro sistema de referidos de 2 niveles.
-  * Agregando **SpaceHunters** a tu nombre en telegram
-  * Chateando en nuestros grupos o en las Guilds asociadas al proyecto.
+### Actualmente puedes obtener $HCREDIT de las siguientes maneras:
+
+  * Haciendo Check-in diario en nuestra app.
+  * Con nuestro sistema de referidos de 2 niveles ganas tokens por el desempeño de tus amigos y sus amigos.
+  * Agregando **SpaceHunters** a tu nombre en telegram generas hasta 2500 $HCREDIT por ciclo.
+  * Chateando en nuestros grupos o en las Guilds asociadas al proyecto, la cantidad de tokens dependera de tu desempeño en los chats.
+  *  Participando en los sorteos de NFTs y tokens que se realizan en nuestra app y grupos.
+  * Completando tareas sociales y diarias.
+  * Estar suscrito a nuestro canal de anuncios no solo te genera tokens adicionales sino tambien te otorga una bonificación al interactuar en los chats.
+
+  > Muchas otras formas y actividades se detallan en nuestra [Guía del HUB App](/docs/esp/01-guias-de-usuario/02-HUBappES.md)
+
 
 >Cada vez que un amigo se registre en el proyecto usando tu enlace de referido obtienes *100 $HCREDIT*, recibes *4 $HCREDIT* si tus amigos hacen Check-in diariamente y *1 $HCREDIT* si tus amigos recomiendan a otros amigos que también hacen Check-in diariamente.
 
@@ -81,7 +91,7 @@ El paquete “Generador” será limitado y costoso en tokens $HCREDIT y solo es
 Los ´´Ingenieros´´ cuestan 100 $HCREDIT y expiran en 24H, puedes poner tantos como $HCREDIT tengas y generar el token principal del juego $HCASH cada 1H.
 Para poder generar sin detenerte debes formar una estrategia que te permita generar $HCREDIT todos los días teniendo en cuenta todas las vías que te damos disponible.
 
-Ahora mismo, estamos en etapa de desarrollo, es tu mejor momento para acumular muchos tokens como te sea posible.
+> Aprende mas en nuestra [Guía del HUB App](/docs/esp/01-guias-de-usuario/02-HUBappES.md)
 
 Las mecánicas que involucran **$HCREDIT** han sido minuciosamente analizadas para que los jugadores puedan obtener beneficios a largo plazo y que la economía del juego sea sostenible y no se vea afectada por la inflación.
 
