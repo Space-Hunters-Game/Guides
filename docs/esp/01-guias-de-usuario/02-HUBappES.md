@@ -220,7 +220,9 @@ Cada transacción muestra la siguiente información:
 ![trxvista](../../../static/img/trxwindow.png)
 
 
-
+---
+> # ESTA GUíA SIGUE EN PROCESO
+---
 
 
 
