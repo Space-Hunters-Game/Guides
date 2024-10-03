@@ -1,4 +1,4 @@
-![hunterhub](/static/img/HunterHUB.jpg)
+![hunterhub](../../../static/img/HunterHUB.jpg)
 
 [Volver al índice](../00-index.md)
 
