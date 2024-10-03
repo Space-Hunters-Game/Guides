@@ -1,4 +1,4 @@
-![hunterhub](</static/img/HunterHUB1.0.jpg>)
+![hunterhub](/static/img/HunterHUB1.0.jpg)
 # Index
 
 >  👽 **Welcome to the Space Hunters: The Reborn Docs**
