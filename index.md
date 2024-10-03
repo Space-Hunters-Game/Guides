@@ -1,4 +1,4 @@
-![hunterhub](/static/img/HunterHUB.jpg)
+![hunterhub2](/static/img/BannerHGEapp.jpg)
 # Index
 
 >  👽 **Welcome to the Space Hunters: The Reborn Docs**
@@ -12,6 +12,7 @@
   - 📌 [Getting started](/docs/eng/01-user-guides/01-getting-started.md)
 
 ### 📣 Announcements
+- 📌 [$CASH 1M Reward Pool!](/docs/eng/announcements/hcashpooleng.md)👈
 - 📌 [Energy Box Drop](/docs/eng/announcements/energy-box-drop.md)
 - 📌 [Sticker Pack](/docs/eng/announcements/sticker-pack.md)
   

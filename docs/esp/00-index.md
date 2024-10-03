@@ -1,4 +1,4 @@
-![hunterhub](../../static/img/HunterHUB.jpg)
+![hunterhub2](/static/img/BannerHGEapp.jpg)
 # Índice
 
 >  👽 *Bienvenido a la Documentación de Space Hunters: The Reborn*
@@ -15,6 +15,7 @@
   - 📌 [Resumen y primeros pasos](01-guias-de-usuario/01-primeros-pasos.md)
 
 ### 📣 Anuncios
+- 📌 [$HCASH Pool de Recompensa](anuncios/hcashpool.md)💸
 - 📌 [Drop de caja de energía](anuncios/energy-box-drop.md)
 
 
