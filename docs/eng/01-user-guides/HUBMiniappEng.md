@@ -1,6 +1,6 @@
 ![hunterhub](../../../static/img/HunterHUB.jpg)
 
-[Back to Index](../00-index.md)
+[Back to Index](../../../index.md)
 
 ****
 
