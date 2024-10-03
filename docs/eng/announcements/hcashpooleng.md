@@ -1,5 +1,5 @@
 ![hcashrewpool](../../../static/img/hcashpoolrew.jpg)
-[Return to Index](../00-index.md)
+[Back to Index](../../../index.md)
 
 # 🚀Hello Hunters! 👾
 
