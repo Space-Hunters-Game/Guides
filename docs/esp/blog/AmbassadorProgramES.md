@@ -1,6 +1,6 @@
-![hunterhub](</static/img/HunterHUB1.0.jpg>)
+![hunterhub](/static/img/HunterHUB.jpg)
 
-[Volver al índice](/docs/esp/00-index.md)
+[Volver al índice](../00-index.md)
 
 ## 💠¡Aumente la actividad en su comunidad con nuestro BOT Space Hunters!💠
 
@@ -68,4 +68,4 @@ Para más información detallada sobre todo el proyecto puedes leer nuestra [doc
 [![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-NFTSpaceHunters-03C9A9?style=plastic&logo=coinmarketcap)](https://coinmarketcap.com/community/profile/nftspacehunters/)
 
 
-[Volver al índice](/docs/esp/00-index.md)
+[Volver al índice](../00-index.md)
