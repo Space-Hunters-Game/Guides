@@ -1,4 +1,4 @@
-![Space Hunters: Reborn](../../../static/img/SH%20Banner.jpg)
+![Space Hunters: Reborn](../../../static/img/SH_Banner.jpg)
 
 [Regresar al Índice](../00-index.md)
 
