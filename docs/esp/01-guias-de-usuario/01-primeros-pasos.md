@@ -4,7 +4,7 @@
 
 ****
 
-# Resumen y primeros pasos.
+# 📜 Resumen y primeros pasos.
 - [Resumen y primeros pasos.](#resumen-y-primeros-pasos)
   - [¿Qué es Space Hunters?](#qué-es-space-hunters)
   - [¿Cuál es el estado actual del proyecto?](#cuál-es-el-estado-actual-del-proyecto)
@@ -25,7 +25,7 @@ Esta comunidad se centra en la presentación de un juego que ofrece entretenimie
 
 Este es un proyecto gratuito que promueve la participación activa, y el crecimiento a largo plazo.
 
-## ¿Qué es Space Hunters?
+## ✅ ¿Qué es Space Hunters?
 
 **Space Hunters (SH)** es un juego estratégico imaginario, para la comunidad gamer, interesada o no en el *mundo criptográfico*.
 
@@ -43,11 +43,13 @@ SH utiliza varios estilos económicos y modos de juego, que le dan al usuario la
 
 **Space Hunters** aún está en desarrollo pero puedes ser parte de nuestros avances e ir adquiriendo NFTs y tokens gratis por participar y estar activo en nuestras comunidades. Nuestro sistema economico-social siempre esta recompensando estrategicamente a todos los miembros, no dejes pasar la oportunidad.
 
-## ¿Hay actualmente algo en lo que pueda participar?
+> **Actualizado:** Acabamoz de lanzar nuestra HUB App, lee la guía aquí: [HUB App]()
+
+## ✅ ¿Hay actualmente algo en lo que pueda participar?
 
 Como parte de nuestra comunidad puedes seguirnos en las redes, interactuar con otros miembros y compartir los enlaces y actualizaciones del juego en ellas y nuestro algoritmo te recompensara constantemente con tokens $HCREDIT. Puedes participar en los whitelist de NFTs gratis que damos todos los meses y otras actividades o eventos de tiempo limitado. Siguenos en nuestro canal de anuncios para que no te pierdas las oportunidades.
 
-## ¿Qué es es $HCREDIT y como se puede obtener? 
+## ✅ ¿Qué es es $HCREDIT y como se puede obtener? 
 
 $HCREDIT es un token de economía social dentro de **SH** que los puedes obtener al participar en actividades del proyecto y con tus amigos. El sistema económico que usa es sorprendentemente eficaz y recompensa constantemente a la comunidad mediante diferentes actividades.
 
@@ -66,7 +68,7 @@ Actualmente puedes obtener $HCREDIT de las siguientes maneras:
 
 ![alt text](../../../static/img/image.png) 
 
-## Propósitos y usos de $HCREDIT
+## ✅ Propósitos y usos de $HCREDIT
 
 Aquí encontrará una manera sencilla de comprender los propósitos y usos de $HCREDIT en uno de los modos de juego (gratuito).
 
@@ -100,7 +102,7 @@ enfócate en ganar, nosotros nos ocupamos del resto!
 El 90% son gratuitos y se pueden obtener jugando o comprándolos con tokens. Además, cada ítem tiene sus propios cálculos de probabilidad y asignación, garantizando así que los montos circulantes y la demanda del propio ítem esté acorde a su importancia para el usuario y su uso dentro del juego.
 
 
-## ¿Qué ventajas tengo al formar parte de esta comunidad?
+## ✅ ¿Qué ventajas tengo al formar parte de esta comunidad?
 Formar parte de la comunidad de **Space Hunters: The Reborn** ofrece varias ventajas:
 * **Acceso Gratuito al Juego:** Puedes jugar sin costo inicial, con recursos y activos gratuitos para comenzar.
 * **Recompensas Diarias:** Gana $HCREDIT y otros premios participando en actividades diarias, nuestras redes sociales y eventos.
@@ -110,19 +112,13 @@ Formar parte de la comunidad de **Space Hunters: The Reborn** ofrece varias vent
 * **Airdrops gratis:** Obten ítems y hasta tokens de forma gratuita, solo tienes que seguir nuestro [Canal de Anuncios]() para no perder las oportunidades.
 * **Oportunidades de Crecimiento:** Únete a una comunidad activa y en crecimiento, con planes para nuevos modos de juego, expansiones y características futuras.
 * **Embajador de Space Hunters:** ¿Eres creador de contenido? Envíanos tu información a través de esta aplicación [Formulario de Embajador](https://docs.google.com/forms/d/e/1FAIpQLSc5_EEXHWroFhF_1MJRga4z2y8gW5xZ5pVT1RDDqMOIutqO6g/viewform?usp=sf_link) para disfrutar de los beneficios que te ofrecemos y a tu comunidad. Dales una razón adicional pra estar activos!
-## ¿Cómo puedo comenzar a ''farmear'' los $HCREDIT?
+## ✅ ¿Cómo puedo comenzar a ''farmear'' los $HCREDIT?
 
 1. Para comenzar primero pídele a un amigo su link de referido o contacta con cualquier miembro de nuestra comunidad para que te facilite el suyo, necesitas un ´´patrocinador´´, debes ser invitado para poder activar tu cuenta en nuestro BOT.
 > Si llegaste hasta aqui por tu cuenta puedes usar nuestro [enlace de referido](https://t.me/SpaceHuntersBot?start=NK1Y6ST3) del cual no obtendremos beneficios y solo existe para ayudar a los nuevos usuarios a iniciar esta aventura.  
-2. Luego asegurate de haber dado click en ''DONE'' y entonces podrás comenzar a usar los comandos del BOT.
-3. Usa el comando `/start` para inicar el BOT o para ver tu propio enlace de referido e invitar a otros amigos.
-![alt text](../../../static/img/02-start-referral-link.png)
-4. Usa el comando `/username` para registrar tu nombre de usuario (el cual debe ser único) tal como quieres llamarte luego en el juego. Ejemplo: `/username YankielDBC`.
-5. Para comenzar tu check-in diario pulsa el botón con el texto `📇Check-in`, con lo cual obtendrás 20 $HCREDIT.
-6. Para ver tu balance actual en $HCREDIT pulsa el botón `📇Check-in` nuevamente.
-![alt text](../../../static/img/03-check-in.png)
+2. Para aprender a usar nuestra HUB App lee nuestra Guía **[aquí](/)**
 
-## ¿Cómo puedo obtener los NFTs gratuitos?
+## ✅ ¿Cómo puedo obtener los NFTs gratuitos?
 
 Space Hunters lanzará NFTs en varias Blockchains, pero inicialmente comenzamos con WAX Blockchain por sus transacciones gratuitas y ecosistema enfocado en gamers.
 
@@ -132,7 +128,7 @@ Lo primero es configurar tu billetera crypto.
 
 > Si eres latinoamericao, o te topas con restricciones debido a la región en la que te encuentras, prueba con Wombat.
 
-### Wallets
+### ✅ Wallets
 
 * [Wax Cloud Wallet](https://www.mycloudwallet.com/)
 * [Wombat](https://www.wombat.app/)
@@ -140,10 +136,10 @@ Lo primero es configurar tu billetera crypto.
 Luego de obtener una billetera, solo debes estar pendiente al [Canal de Anuncios](https://t.me/spacehuntersnews) para participar en actividades donde podrás reclamar tus NFTs gratis y usarlos para jugar **Space Hunters** despues de su lanzamiento.
 
 <!-- TODO add change url when page is up-->
-## Nuestro Whitepaper
+## ✅ Nuestro Whitepaper
 Para más información detallada sobre todo el proyecto puedes leer nuestra [documentación](https://spaceheroes.gitbook.io/space-hunters).
 
-## Redes Sociales
+## ✅ Redes Sociales
 Síguenos en nuestras redes sociales
 
 [![Telegram](https://img.shields.io/badge/Telegram-BOT-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)

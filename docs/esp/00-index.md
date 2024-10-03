@@ -1,26 +1,27 @@
+![hunterhub](</static/img/HunterHUB1.0.jpg>)
 # Índice
 
-**Bienvenido a la Documentación de Space Hunters: The Reborn**
+>  👽 *Bienvenido a la Documentación de Space Hunters: The Reborn*
 
 
-**Seleccionar Idioma**
+💬 **Seleccionar Idioma**
 
-* [English](../../index.md)
+* 📌 [English](../../index.md)
 
-## **Tabla de contenido**
 
-### [Blog](#)
-* ### [Nuestro BOT de Space Hunters](/docs/esp/Blog/Nuestro_BOT_de_Space_Hunters.md)
+### 🔎 Blog & Guías
+  - 📌 [HUB App Guía Completa](/docs/esp/01-guias-de-usuario/02-HUBappES.md)
+  - 📌 [Programa de Embajadores](/docs/esp/blog/AmbassadorProgramES.md)
+  - 📌 [Resumen y primeros pasos](01-guias-de-usuario/01-primeros-pasos.md)
 
-### [Anuncios](#)
-* #### [Drop de caja de energía](anuncios/energy-box-drop.md)
-  
-### [Guías de Usuario](#)
-* #### [Resumen y primeros pasos](01-guias-de-usuario/01-primeros-pasos.md)
+### 📣 Anuncios
+- 📌 [Drop de caja de energía](anuncios/energy-box-drop.md)
+
+
 
 ****
 
-> Este sitio web aún está en desarrollo. Pronto estarán disponibles más guías.
+> 🛠 Este sitio web aún está en desarrollo. Pronto estarán disponibles más guías ⚙
 
 ****
 
