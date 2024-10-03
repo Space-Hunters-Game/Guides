@@ -1,4 +1,4 @@
-![Space Hunters: Reborn](../../../static/img/HunterHUB1.0.jpg)
+![Space Hunters: Reborn](../../../static/img/HunterHUB.jpg)
 
 [Regresar al Índice](../00-index.md)
 
