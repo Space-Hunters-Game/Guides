@@ -81,9 +81,14 @@ Antes de sumergirte en nuestra app y explorar cada una de las características d
 
 ## 📲 ¿Por qué una Mini-App?
 
+![appviews](../../../static/img/APPviews.png)
+
 Hemos eliminado las barreras entre dispositivos y capacidades económicas, ofreciendo a todos una app accesible desde cualquier dispositivo que tenga instalada la aplicación de Telegram. En resumen, HUB es una plataforma sin limitaciones que democratiza el acceso a nuestro ecosistema.
 
 ## 📟 ¿Qué es HUB y cuáles son sus ventajas?
+
+![Space Hunters: Reborn](../../../static/img/HUBbannerr.jpg)
+
 Sin entrar en detalles técnicos, para nosotros, HUB representa un punto de encuentro masivo y una experiencia compartida. Todos los usuarios podrán conectarse dentro de una sola app, accediendo a nuestros productos y servicios relacionados con el entretenimiento gamer.
 
 Este HUB permite a los jugadores gestionar su perfil de gamer web3, con acceso a todos los juegos en los que participan, estadísticas, inventario, control de tareas, notificaciones, mercado, tienda y mucho más. Así, ahorramos tiempo al evitar la necesidad de abrir cada juego por separado para revisar el progreso de tus tareas.
@@ -98,7 +103,7 @@ Nuestra app incluye Tech: Generators, un juego integrado Free-to-Play que transf
 El juego convierte $HCREDIT en $HCASH mediante un sistema interactivo y cooperativo en el que la comunidad colabora para optimizar los Generadores. Algunos usuarios poseen generadores, mientras que otros proporcionan ingenieros para su funcionamiento. Los jugadores pueden mejorar el rendimiento de los generadores mediante módulos, creación de partes, aprendizaje de profesiones únicas, ganancia de experiencia, y mucho más. Este enfoque convierte la monetización social en una experiencia entretenida, eliminando la tediosa tarea de cumplir con una lista de requisitos.
 
 ## 🪙 ¿Cómo se generan los $HCREDIT?
-Consulta nuestra Guía para Nuevos Usuarios [aquí](../../../docs/esp/01-guias-de-usuario/01-primeros-pasos.md)
+✅ Consulta nuestra Guía para Nuevos Usuarios [aquí](../../../docs/esp/01-guias-de-usuario/01-primeros-pasos.md)
 
 ## 🎮 ¿Qué es el Hunters Gaming Ecosystem?
 Lee sobre nuestra innovadora estrategia web3 en nuestro plan estratégico [aquí].
@@ -107,7 +112,6 @@ Lee sobre nuestra innovadora estrategia web3 en nuestro plan estratégico [aquí
 
 
 > # 📜 HUB: Guía paso a paso
-![appviews](../../../static/img/APPviews.png)
 
 Exploraremos los diferentes menús disponibles en la HUB Mini-App v1.0, centrados en maximizar tu experiencia dentro del ecosistema. A continuación, te mostramos cómo navegar a través de la barra de navegación y qué opciones ofrece cada botón.
 
@@ -158,6 +162,7 @@ Identifica el nombre completo del clan o gremio al que perteneces, reforzando tu
 - **Medalla de Rango**
 
 A medida que subes de nivel, tu rango se eleva, desbloqueando nuevas funciones y recompensas exclusivas. Los rangos más altos ofrecen acceso a características avanzadas dentro del ecosistema.
+
 ![rankbadges](../../../static/img/RankBadges.jpg)
 
 - **Total de Referidos**
@@ -176,7 +181,7 @@ Igualmente, tu perfil muestra el balance total de $HCREDIT, que puedes usar para
 
 Al tocar el icono de las cadenas, copias tu enlace personal de referido, facilitando la invitación de amigos y nuevos usuarios para unirte en el ecosistema y juegos.
 
-> 📊 **Juegos Jugados y Estadísticas**
+> # 📊 **Juegos Jugados y Estadísticas**
 ![rankbadges](../../../static/img/gamesplayed.png)
 En esta sección podrás ver los juegos de nuestro ecosistema en los que has participado. Al seleccionar uno, obtendrás detalles como:
 
@@ -189,8 +194,30 @@ Con esta sección del perfil de usuario, podrás gestionar fácilmente tu progre
 
 ![rankbadges](../../../static/img/gamesstats.png)
 
+# ✅ Historial de Transacciones
 
+En esta sección se presentan todas las transacciones realizadas, ya sean pagos, gastos o transferencias. Además, se puede navegar para ver específicamente otros usuarios o transacciones si se conoce el ID de la transacción. Se ofrece la posibilidad de ordenar las transacciones, facilitando así el control de movimientos y garantizando transparencia entre los miembros de la comunidad.
 
+✅ **Botones Superiores**
+- **Enviar:** Permite enviar tokens a otro usuario (Funcionalidad próxima).
+- **Intercambiar (Swap):** Permite realizar intercambios en una pool del juego (Funcionalidad próxima).
+- **Peer-to-Peer:** Opción para realizar transacciones directas entre usuarios con un costo mínimo de servicio. Sin embargo, esta opción implica riesgos, por lo que se recomienda utilizarla solo con usuarios conocidos o amigos.
+
+✅ **Filtros y Navegación**
+Los filtros permiten organizar los resultados o listar las transacciones de manera más eficiente.
+La barra de búsqueda permite ir directamente a un usuario o transacción específica.
+
+✅ **Detalles de las Transacciones**
+
+Cada transacción muestra la siguiente información:
+
+- **From:** Indica desde dónde provienen los ítems o tokens.
+- **Memo:** Identificador o detalle de la transacción.
+- **Fecha y Hora:** Momento exacto en que se realizó la transacción.
+- **To:** Destino de la transacción; si aparece tu nombre, significa que fuiste el receptor.
+
+> ### Aquí hay una imagen como referencia:
+![trxvista](../../../static/img/trxwindow.png)
 
 
 

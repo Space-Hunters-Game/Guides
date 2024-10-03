@@ -1,4 +1,4 @@
-![hunterhub](</static/img/HunterHUB1.0.jpg>)
+![Space Hunters: Reborn](../../../static/img/HunterHUB.jpg)
 
 [Back to Index](../../../index.md)
 
