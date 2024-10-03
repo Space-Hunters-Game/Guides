@@ -1,4 +1,4 @@
-![hunterhub](</static/img/HunterHUB1.0.jpg>)
+![hunterhub](/static/img/HunterHUB.jpg)
 # Índice
 
 >  👽 *Bienvenido a la Documentación de Space Hunters: The Reborn*
@@ -10,8 +10,8 @@
 
 
 ### 🔎 Blog & Guías
-  - 📌 [HUB App Guía Completa](/docs/esp/01-guias-de-usuario/02-HUBappES.md)
-  - 📌 [Programa de Embajadores](/docs/esp/blog/AmbassadorProgramES.md)
+  - 📌 [HUB App Guía Completa](01-guias-de-usuario/02-HUBappES.md)
+  - 📌 [Programa de Embajadores](blog/AmbassadorProgramES.md)
   - 📌 [Resumen y primeros pasos](01-guias-de-usuario/01-primeros-pasos.md)
 
 ### 📣 Anuncios
