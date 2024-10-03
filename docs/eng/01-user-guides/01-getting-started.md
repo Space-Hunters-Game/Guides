@@ -4,8 +4,8 @@
 
 ****
 
-# Summary and First Steps.
-- [Summary and First Steps.](#summary-and-first-steps)
+# 📜 Summary and First Steps.
+🔘 [Summary and First Steps.](#summary-and-first-steps)
   - [What is Space Hunters?](#what-is-space-hunters)
   - [What is the current state of the project?](#what-is-the-current-state-of-the-project)
   - [Is there anything I can participate in right now?](#is-there-anything-i-can-participate-in-right-now)
@@ -25,7 +25,7 @@ This community focuses on presenting a game that offers entertainment, fun, and 
 
 This is a free project that promotes active participation and long-term growth.
 
-## What is Space Hunters?
+## 🦹‍♂️ What is Space Hunters?
 
 **Space Hunters (SH)** is an imaginary strategy game for the gaming community, whether they are interested in the *cryptographic world* or not.
 
@@ -39,15 +39,17 @@ SH uses various economic styles and game modes, giving users the ability to choo
 
 > And many other ways. Stay tuned!
 
-## What is the current state of the project?
+## ✅ What is the current state of the project?
 
 **Space Hunters** is still in development, but you can be part of our progress and start acquiring free NFTs and tokens by participating and being active in our communities. Our economic-social system always strategically rewards all members; don't miss out on the opportunity.
 
-## Is there anything I can participate in right now?
+> **Updated:** We just launched our HUB App, you can read our full guide here: [HUB App Guide]()
+
+## ✅ Is there anything I can participate in right now?
 
 As part of our community, you can follow us on social media, interact with other members, and share game links and updates. Our algorithm will constantly reward you with $HCREDIT tokens. You can participate in the free NFT whitelists we offer every month, as well as other limited-time activities or events. Follow us on our announcement channel so you don’t miss any opportunities.
 
-## What is $HCREDIT and how can it be obtained?
+## ✅ What is $HCREDIT and how can it be obtained?
 
 $HCREDIT is a social economy token within **SH** that you can earn by participating in project activities and with your friends. The economic system it uses is surprisingly effective, constantly rewarding the community through various activities.
 
@@ -67,7 +69,7 @@ Currently, you can obtain $HCREDIT in the following ways:
 ![alt text](../../../static/img/image.png) 
 
 
-## Purposes and Uses of $HCREDIT
+## ✅ Purposes and Uses of $HCREDIT
 
 Here you’ll find an easy way to understand the purposes and uses of $HCREDIT in one of the game modes (free-to-play).
 
@@ -100,7 +102,7 @@ Focus on winning; we’ll take care of the rest!
 
 90% of the items are free and can be obtained by playing or purchasing them with tokens. Additionally, each item has its own probability and allocation calculations, ensuring that the circulating amounts and demand for the item are aligned with its importance to the user and its use within the game.
 
-## What Advantages Do I Have by Being Part of This Community?
+## ✅ What Advantages Do I Have by Being Part of This Community?
 
 Being part of the **Space Hunters: The Reborn** community offers several advantages:
 * **Free Access to the Game:** You can play without any initial cost, with free resources and assets to get started.
@@ -111,19 +113,14 @@ Being part of the **Space Hunters: The Reborn** community offers several advanta
 * **Free Airdrops:** Get items and even tokens for free. Just follow our [Announcements Channel]() to avoid missing any opportunities.
 * **Growth Opportunities:** Join an active and growing community with plans for new game modes, expansions, and future features.
 * **Space Hunters Ambassador:** Are you a content creator? Send us your information through this [Ambassador Form](https://docs.google.com/forms/d/e/1FAIpQLSc5_EEXHWroFhF_1MJRga4z2y8gW5xZ5pVT1RDDqMOIutqO6g/viewform?usp=sf_link) to enjoy the benefits we offer you and your community. Give them an additional reason to stay active!
-## How Can I Start "Farming" $HCREDIT?
+## ✅ How Can I Start "Farming" $HCREDIT?
 
 1. To start, first ask a friend for their referral link or contact any member of our community to get theirs. You need a "sponsor"; you must be invited to activate your account on our BOT.
 > If you got here on your own, you can use our [referral link](https://t.me/SpaceHuntersBot?start=NK1Y6ST3), which we do not benefit from and is only meant to help new users start this adventure.  
-2. Then make sure to click "DONE," and you'll be able to start using the BOT commands.
-3. Use the /start command to initiate the BOT or to see your own referral link and invite other friends.
-![alt text](../../../static/img/02-start-referral-link.png)
-4. Use the /username command to register your username as you want to be called in the game later. Example: /username YankielDBC.
-5. To start your daily check-in, press the 📇Check-in button, which will earn you 20 $HCREDIT.
-6. To view your current $HCREDIT balance, use the 📇Check-in button again.
-![alt text](../../../static/img/03-check-in.png)
+2. Read our HUB app guide **[here](/)**
 
-## How Can I Obtain Free NFTs?
+
+## ✅ How Can I Obtain Free NFTs?
 
 Space Hunters will launch NFTs on various Blockchains, but we are initially starting with the WAX Blockchain due to its free transactions and gamer-focused ecosystem.
 
@@ -133,17 +130,17 @@ The first step is to set up your crypto wallet.
 
 > If you are in Latin America or encounter restrictions due to your region, try using Wombat.
 
-### Wallets
+### ✅Wallets
 
 * [Wax Cloud Wallet](https://www.mycloudwallet.com/)
 * [Wombat](https://www.wombat.app/)
 
 After obtaining a wallet, just stay tuned to the [Announcements Channel](https://t.me/spacehuntersnews) to participate in activities where you can claim your free NFTs and use them to play **Space Hunters** after its launch.
 
-## Our Whitepaper
+## ✅ Our Whitepaper
 For more detailed information about the entire project, you can read our [documentation](https://spaceheroes.gitbook.io/space-hunters).
 
-## Social Media
+## ✅ Social Media
 Follow us on our social media
 
 [![Telegram](https://img.shields.io/badge/Telegram-BOT-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)
@@ -160,4 +157,4 @@ Follow us on our social media
 
 ****
 
-[Back](../../../index.md)
+[Back to Index](../../../index.md)

@@ -1,25 +1,24 @@
+![hunterhub](</static/img/HunterHUB1.0.jpg>)
 # Index
 
-**Welcome to the Space Hunters: The Reborn Docs**
+>  👽 **Welcome to the Space Hunters: The Reborn Docs**
 
-**Select Language**
+💬 **Select Language**
 
-* [Español](docs/esp/00-index.md)
+* 📌 [Español](docs/esp/00-index.md)
 
-## **Table of contents**
+### 🔎 Blog & Guides
+  - 📌 [Ambassador Program](/docs/eng/blog/AmbassadorProgEn.md)
+  - 📌 [Getting started](/docs/eng/01-user-guides/01-getting-started.md)
 
-### [Blog](#)
-* ### [Our Space Hunters BOT](/docs/eng/blog/Our_Space_Hunters_BOT.md)
-
-### [Announcements](#)
-* #### [Energy Box Drop](/docs/eng/announcements/energy-box-drop.md)
-* #### [Sticker Pack](/docs/eng/announcements/sticker-pack.md)
+### 📣 Announcements
+- 📌 [Energy Box Drop](/docs/eng/announcements/energy-box-drop.md)
+- 📌 [Sticker Pack](/docs/eng/announcements/sticker-pack.md)
   
-### [User guides](#)
-* #### [Getting started](/docs/eng/01-user-guides/01-getting-started.md)
+
 ****
 
-> This site is still under development. More docs and languages will be available soon.
+> 🛠 This site is still under development. More docs and languages will be available soon ⚙
 
 ****
 
