@@ -8,6 +8,7 @@
 * 📌 [Español](docs/esp/00-index.md)
 
 ### 🔎 Blog & Guides
+  - 📌 [HUB App: Full Guide](/docs/eng/01-user-guides/HUBMiniappEng.md)
   - 📌 [Ambassador Program](/docs/eng/blog/AmbassadorProgEn.md)
   - 📌 [Getting started](/docs/eng/01-user-guides/01-getting-started.md)
 
