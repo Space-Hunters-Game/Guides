@@ -15,7 +15,7 @@ The following metrics will be taken into account preferentially:
 
 - ✅**Total $HCREDIT collected** up to the preliminary date (to be announced).
 - ✅**EarlyPass:** Double points for EarlyPass members (not yet launched).
-- ✅ **Participation in daily tasks** from our partners (coming soon).
+- ✅**Participation in daily tasks** from our partners (coming soon).
 - ✅**Check-ins** completed and streaks (consecutive days).
 - ✅**Consecutive days using "Space Hunters" in your Telegram name**.
 - ✅**Active generators**: Extra points for keeping your generators running.
