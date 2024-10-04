@@ -1,4 +1,4 @@
-![hunterhubesp](/static/img/BannerHGEapp.jpg)
+![hunterhubesp](../..//static/img/BannerHGEapp.jpg)
 # Índice
 >  👽 *Bienvenido a la Documentación de Space Hunters: The Reborn*
 
