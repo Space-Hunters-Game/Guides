@@ -57,12 +57,6 @@ Al incorporar **fuertes mecanismos de quema**, participación de la comunidad y 
 El ecosistema de Space Hunters ofrece beneficios gratuitos para las comunidades al recompensar la interacción y el compromiso a través de nuestro token **$HCREDIT**. Diseñado para la adopción masiva, el propósito de $HCREDIT es unir a las comunidades web3, recompensando a los miembros activos mientras se crea una experiencia compartida. A medida que los jugadores interactúan y se involucran dentro de sus propios grupos, también se conectan con otros, construyendo un círculo de comunidades interconectadas que convergen en el universo de Space Hunters. Las comunidades pueden promocionarse a través de nuestra plataforma, aprovechando las nuevas funciones que estamos desarrollando. Después de nuestro lanzamiento, este ecosistema creará un centro para la colaboración, el crecimiento y el éxito compartido.
 
 ¡Nos vemos pronto, cazadores!
-
-
-## ✅ Nuestro Whitepaper
-Para más información detallada sobre todo el proyecto puedes leer nuestra [documentación](https://spaceheroes.gitbook.io/space-hunters).
-****
-
 > Este sitio web aún está en desarrollo. Pronto estarán disponibles más guías.
 
 ****
@@ -74,10 +68,7 @@ Para más información detallada sobre todo el proyecto puedes leer nuestra [doc
 [![Telegram EN](https://img.shields.io/badge/Telegram-Chat%20ESP-2CA5E0?style=plastic&logo=telegram)](https://t.me/shspanish)
 [![Discord](https://img.shields.io/badge/Discord-Space%20Hunters-7289DA?style=plastic&logo=discord)](https://discord.gg/wpmzyJM9xb)
 [![AtomicHub](https://img.shields.io/badge/AtomicHub-Space%20Hunters-EE474C?style=plastic&logo=atomichub)](https://wax.atomichub.io/explorer/collection/wax-mainnet/spacehunterz)
-[![GitBook](https://img.shields.io/badge/GitBook-Space%20Hunters-7A8089?style=plastic&logo=gitbook)](https://spaceheroes.gitbook.io/space-hunters)
-[![Zealy](https://img.shields.io/badge/Zealy-Space%20Hunters-FF69B4?style=plastic&logo=zealy)](https://zealy.io/cw/spacehuntersthereborn/invite/UroI4c6fhtB3SX65siHBX)
 [![PlayToEarn](https://img.shields.io/badge/PlayToEarn-Space%20Hunters-34C759?style=plastic&logo=playtoearn)](https://playtoearn.com/blockchaingame/space-hunters-the-reborn?rel=search)
 [![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-NFTSpaceHunters-03C9A9?style=plastic&logo=coinmarketcap)](https://coinmarketcap.com/community/profile/nftspacehunters/)
-
 
 [Volver al índice](../00-index.md)

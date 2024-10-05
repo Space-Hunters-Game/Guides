@@ -8,13 +8,18 @@
 
 
 ### 🔎 Blog & Guías
-  - 📌 [HUB App Guía Completa](01-guias-de-usuario/02-HUBappES.md)
+  - 📌 [**HUB App:** Guía Completa](01-guias-de-usuario/02-HUBappES.md)
+  - 📌 [**HCREDIT:** Guía Completa](01-guias-de-usuario/hcreditguiacompleta.md)
   - 📌 [Programa de Embajadores](blog/AmbassadorProgramES.md)
   - 📌 [Resumen y primeros pasos](01-guias-de-usuario/01-primeros-pasos.md)
 
 ### 📣 Anuncios
-- 📌 [$HCASH Pool de Recompensa](anuncios/hcashpool.md)💸
+- 📌 [$HCASH Pool de Recompensa](anuncios/hcashpool.md)🎁
 - 📌 [Drop de caja de energía](anuncios/energy-box-drop.md)
+
+### 📃 Whitepapers
+- 📌 [Space Hunters: The Reborn](01-guias-de-usuario/whitepaperesp.md)
+- 📌 [Tech: Generators](#)
 
 
 
