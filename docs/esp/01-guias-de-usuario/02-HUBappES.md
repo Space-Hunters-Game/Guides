@@ -25,26 +25,26 @@ Antes de comenzar, nos gustaria dejar claro que no necesitas descargar ninguno d
 
 
 🔘 Sección: Perfil de Usuario
-  - [Perfil](#hub-guía-paso-a-paso)
-  - [Etiqueta del Clan](#catálogo)
-  - [Nombre del Jugador](#transacciones-offchain)
-  - [Nivel del Jugador](#tareas-diarias)
-  - [Nombre del Clan](#lista-de-jugadores-top)
-  - [Medalla de Rango](#tareas-sociales)
-  - [Total de Referidos](#tareas-sociales)
-  - [Balance $HCASH & $HCREDIT](#tareas-sociales)
-  - [Link de Referidos](#tareas-sociales)
-  - [Juegos y Estadísticas](#tareas-sociales)
+  - [Perfil](#perfil)
+  - [Etiqueta del Clan](#etiqueta-del-clan)
+  - [Nombre del Jugador](#nombre-del-jugador)
+  - [Nivel del Jugador](#nivel-del-jugador)
+  - [Nombre del Clan](#nombre-del-clan)
+  - [Medalla de Rango](#medalla-de-rango)
+  - [Total de Referidos](#total-de-referidos)
+  - [Balance $HCASH & $HCREDIT](#hcash-balance)
+  - [Link de Referidos](#link-de-referidos)
+  - [Juegos y Estadísticas](#juegos-jugados-y-estadísticas)
 
 🔘 Seccion: Historial de Transacciones
-  - [Botones Superiores](#)
-  - [Filtros y Navegacion](#)
-  - [Detalles de Transacciones](#)
+  - [Botones Superiores](#botones-superiores)
+  - [Filtros y Navegacion](#filtros-y-navegación)
+  - [Detalles de Transacciones](#detalles-de-las-transacciones)
   
 🔘 Tareas de Compromiso Diario
-  - [Check-in](#)
-  - [Nombra al Favorito](#)
-  - [Canal de Anuncios](#)
+  - [Check-in](#check-in)
+  - [Nombra al Favorito](#nombre-al-favorito)
+  - [Canal de Anuncios](#canal-de-anuncios)
   
 🔘 Tabla de Clasificación
   - [Tipos de Clasificación](#)
@@ -79,13 +79,13 @@ Antes de comenzar, nos gustaria dejar claro que no necesitas descargar ninguno d
 
 Antes de sumergirte en nuestra app y explorar cada una de las características disponibles en esta versión, queremos compartir contigo un breve resumen de nuestra visión. Leer este artículo hasta el final te ayudará a comprender mejor nuestro proyecto y a maximizar tus oportunidades dentro de él.
 
-## 📲 ¿Por qué una Mini-App?
+## ¿Por qué una Mini-App?
 
 ![appviews](../../../static/img/APPviews.png)
 
 Hemos eliminado las barreras entre dispositivos y capacidades económicas, ofreciendo a todos una app accesible desde cualquier dispositivo que tenga instalada la aplicación de Telegram. En resumen, HUB es una plataforma sin limitaciones que democratiza el acceso a nuestro ecosistema.
 
-## 📟 ¿Qué es HUB y cuáles son sus ventajas?
+## ¿Qué es HUB y cuáles son sus ventajas?
 
 ![Space Hunters: Reborn](../../../static/img/HUBbannerr.jpg)
 
@@ -97,117 +97,117 @@ Además, el HUB incluye tareas sociales y diarias, donde el apoyo al proyecto es
 
 Nuestra app también cuenta con un sistema de blogs de fácil acceso, donde podrás leer las últimas actualizaciones y anuncios directamente desde la pantalla principal, simplemente tocando las imágenes o banners.
 
-## ⚙ ¿Qué es Tech: Generators?
+## ¿Qué es Tech: Generators?
 Nuestra app incluye Tech: Generators, un juego integrado Free-to-Play que transforma la actividad social en diversas comunidades y plataformas en una experiencia de monetización única. A diferencia de otras plataformas que imponen altos requisitos para monetizar, con Tech: Generators eliminamos estas barreras, permitiendo a todos los usuarios ganar recompensas.
 
 El juego convierte $HCREDIT en $HCASH mediante un sistema interactivo y cooperativo en el que la comunidad colabora para optimizar los Generadores. Algunos usuarios poseen generadores, mientras que otros proporcionan ingenieros para su funcionamiento. Los jugadores pueden mejorar el rendimiento de los generadores mediante módulos, creación de partes, aprendizaje de profesiones únicas, ganancia de experiencia, y mucho más. Este enfoque convierte la monetización social en una experiencia entretenida, eliminando la tediosa tarea de cumplir con una lista de requisitos.
 
-## 🪙 ¿Cómo se generan los $HCREDIT?
+## ¿Cómo se generan los $HCREDIT?
 ✅ Consulta nuestra Guía para Nuevos Usuarios [aquí](../../../docs/esp/01-guias-de-usuario/01-primeros-pasos.md)
 
-## 🎮 ¿Qué es el Hunters Gaming Ecosystem?
+## ¿Qué es el Hunters Gaming Ecosystem?
 Lee sobre nuestra innovadora estrategia web3 en nuestro plan estratégico [aquí].
 
 **Ahora que conoces más sobre HUB, es momento de explorar la app. Te guiaremos paso a paso por las opciones y menús para que aproveches al máximo todo lo que ofrece.**
 
 
-> # 📜 HUB: Guía paso a paso
+> # HUB: Guía paso a paso
 
 Exploraremos los diferentes menús disponibles en la HUB Mini-App v1.0, centrados en maximizar tu experiencia dentro del ecosistema. A continuación, te mostramos cómo navegar a través de la barra de navegación y qué opciones ofrece cada botón.
 
-## 🔎 **Barra de Navegación (Menú Inferior)**
+## **Barra de Navegación (Menú Inferior)**
 
 El menú inferior de la app incluye 5 botones principales, diseñados para facilitar el acceso a las funcionalidades más importantes:
 ![navbar](../../../static/img/menubar1.png)
 
-1. ### 📒 **Catálogo:**
+1. ### **Catálogo:**
 En el botón Catálogo, encontrarás una lista completa de los juegos, servicios y productos que hemos creado para el ecosistema de entretenimiento gamer. Desde aquí podrás:
 - Explorar todos los juegos disponibles.
 - Acceder a servicios adicionales y productos relacionados con el ecosistema web3.
 
-2. ### 📑 **Transacciones Offchain:**
+2. ### **Transacciones Offchain:**
 Este botón te lleva a la sección de Transacciones Offchain, donde podrás revisar tu historial de transacciones. Aquí, la transparencia es clave, ya que podrás navegar fácilmente por las transacciones de otros usuarios, proporcionando una experiencia completamente clara y accesible dentro de nuestro ecosistema híbrido.
 
-3. ### 📝 **Tareas Diarias:**
+3. ### **Tareas Diarias:**
 En la sección de Tareas Diarias, tendrás acceso a tus compromisos diarios con el Comando Central. Al completar estas actividades diarias, serás recompensado con importantes beneficios. Mantenerte activo es clave para maximizar tus recompensas y progresar en el ecosistema.
 
-4. ### 🏆 **Lista de Jugadores Top:**
+4. ### **Lista de Jugadores Top:**
 Este botón te lleva a la Lista de Jugadores Top, donde podrás ver las clasificaciones de los jugadores y guilds más destacados del ecosistema. La clasificación se basa inicialmente en la cantidad de $HCREDIT farmeado y el total de referidos. Pronto se incluirá más información sobre la clasificación de las guilds en una actualización futura.
 
-5. ### 🙋‍♂️ **Tareas Sociales:**
+5. ### **Tareas Sociales:**
 Las Tareas Sociales ofrecen una manera adicional de obtener recompensas apoyando al proyecto. Inicialmente, las recompensas serán en $HCREDIT, pero con el tiempo se agregarán funciones como el drop de ítems, ganancia de experiencia, y otras características que te permitirán mejorar tu perfil de usuario. A medida que completes estas tareas, desbloquearás nuevas funciones y expandirás tu experiencia en el ecosistema, facilitando tu crecimiento personal dentro del HUB.
 
 
-> # 😎 Sección del Perfil de Usuario
+> # Sección del Perfil de Usuario
 En esta sección, tendrás acceso a toda la información relevante sobre tu perfil de jugador dentro del ecosistema, junto con tus estadísticas, balances y opciones de personalización.
 
-## 🙎‍♂️ Perfil
+## Perfil
 ![perfil](../../../static/img/profiledescription.png)
-- **Etiqueta del Clan**
+- ### **Etiqueta del Clan**
 
 Las 3 letras que forman la etiqueta de tu clan o gremio, funcionando como un identificador simplificado y fácilmente reconocible dentro del ecosistema.
 
-- **Nombre del Jugador**
+- ### **Nombre del Jugador**
 
 El nombre de usuario que te representa en todos los juegos y actividades del ecosistema.
 
-- **Nivel del Jugador**
+- ### **Nivel del Jugador**
 
 Este es el nivel general de tu perfil, independiente del juego en el que estés involucrado. Las estadísticas son las mismas para todos los títulos, lo que unifica tu progreso.
 
-- **Nombre del Clan**
+- ### **Nombre del Clan**
 
 Identifica el nombre completo del clan o gremio al que perteneces, reforzando tu identidad y alianzas dentro del ecosistema.
 
-- **Medalla de Rango**
+- ### **Medalla de Rango**
 
 A medida que subes de nivel, tu rango se eleva, desbloqueando nuevas funciones y recompensas exclusivas. Los rangos más altos ofrecen acceso a características avanzadas dentro del ecosistema.
 
 ![rankbadges](../../../static/img/RankBadges.jpg)
 
-- **Total de Referidos**
+- ### **Total de Referidos**
 
 Representado por el icono de dos manos entrelazadas, esta sección muestra cuántos usuarios has referido al ecosistema, una métrica clave de tu influencia y participación.
 
-- **$HCASH Balance**
+- ### **$HCASH Balance**
 
 Tu billetera personal está directamente vinculada a tu perfil, mostrando tu balance total en $HCASH, la moneda principal del ecosistema.
 
-- **$HCREDIT Balance**
+- ### **$HCREDIT Balance**
 
 Igualmente, tu perfil muestra el balance total de $HCREDIT, que puedes usar para acceder a diversas recompensas y características dentro de los juegos y actividades sociales.
 
-- 🔗 **Link de Referidos**
+- ### **Link de Referidos**
 
 Al tocar el icono de las cadenas, copias tu enlace personal de referido, facilitando la invitación de amigos y nuevos usuarios para unirte en el ecosistema y juegos.
 
-> # 📊 **Juegos Jugados y Estadísticas**
+> # **Juegos Jugados y Estadísticas**
 ![rankbadges](../../../static/img/gamesplayed.png)
 En esta sección podrás ver los juegos de nuestro ecosistema en los que has participado. Al seleccionar uno, obtendrás detalles como:
 
-- **Estadísticas del Juego:** 
+- ### **Estadísticas del Juego:** 
 Una vista detallada de tu progreso, rendimiento y logros en ese juego específico.
 Guía del Juego: Un botón que te lleva directamente a la guía para aprender más sobre el juego y optimizar tu rendimiento.
 
-- **Acceso Directo al Juego:** Un botón que te permite iniciar el juego directamente desde la app, ahorrando tiempo y centralizando la experiencia.
+- ### **Acceso Directo al Juego:** Un botón que te permite iniciar el juego directamente desde la app, ahorrando tiempo y centralizando la experiencia.
 Con esta sección del perfil de usuario, podrás gestionar fácilmente tu progreso, estadísticas y conexiones dentro del ecosistema HUB.
 
 ![rankbadges](../../../static/img/gamesstats.png)
 
-# ✅ Historial de Transacciones
+# Historial de Transacciones
 
 En esta sección se presentan todas las transacciones realizadas, ya sean pagos, gastos o transferencias. Además, se puede navegar para ver específicamente otros usuarios o transacciones si se conoce el ID de la transacción. Se ofrece la posibilidad de ordenar las transacciones, facilitando así el control de movimientos y garantizando transparencia entre los miembros de la comunidad.
 
-✅ **Botones Superiores**
+### **Botones Superiores**
 - **Enviar:** Permite enviar tokens a otro usuario (Funcionalidad próxima).
 - **Intercambiar (Swap):** Permite realizar intercambios en una pool del juego (Funcionalidad próxima).
 - **Peer-to-Peer:** Opción para realizar transacciones directas entre usuarios con un costo mínimo de servicio. Sin embargo, esta opción implica riesgos, por lo que se recomienda utilizarla solo con usuarios conocidos o amigos.
 
-✅ **Filtros y Navegación**
+### **Filtros y Navegación**
 Los filtros permiten organizar los resultados o listar las transacciones de manera más eficiente.
 La barra de búsqueda permite ir directamente a un usuario o transacción específica.
 
-✅ **Detalles de las Transacciones**
+### **Detalles de las Transacciones**
 
 Cada transacción muestra la siguiente información:
 
@@ -223,12 +223,6 @@ Cada transacción muestra la siguiente información:
 ---
 > # ESTA GUíA SIGUE EN PROCESO
 ---
-
-
-
-<!-- TODO add change url when page is up-->
-## ✅ Nuestro Whitepaper
-Para más información detallada sobre todo el proyecto puedes leer nuestra [documentación](https://spaceheroes.gitbook.io/space-hunters).
 ****
 
 > Este sitio web aún está en desarrollo. Pronto estarán disponibles más guías.
@@ -242,8 +236,6 @@ Para más información detallada sobre todo el proyecto puedes leer nuestra [doc
 [![Telegram EN](https://img.shields.io/badge/Telegram-Chat%20ESP-2CA5E0?style=plastic&logo=telegram)](https://t.me/shspanish)
 [![Discord](https://img.shields.io/badge/Discord-Space%20Hunters-7289DA?style=plastic&logo=discord)](https://discord.gg/wpmzyJM9xb)
 [![AtomicHub](https://img.shields.io/badge/AtomicHub-Space%20Hunters-EE474C?style=plastic&logo=atomichub)](https://wax.atomichub.io/explorer/collection/wax-mainnet/spacehunterz)
-[![GitBook](https://img.shields.io/badge/GitBook-Space%20Hunters-7A8089?style=plastic&logo=gitbook)](https://spaceheroes.gitbook.io/space-hunters)
-[![Zealy](https://img.shields.io/badge/Zealy-Space%20Hunters-FF69B4?style=plastic&logo=zealy)](https://zealy.io/cw/spacehuntersthereborn/invite/UroI4c6fhtB3SX65siHBX)
 [![PlayToEarn](https://img.shields.io/badge/PlayToEarn-Space%20Hunters-34C759?style=plastic&logo=playtoearn)](https://playtoearn.com/blockchaingame/space-hunters-the-reborn?rel=search)
 [![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-NFTSpaceHunters-03C9A9?style=plastic&logo=coinmarketcap)](https://coinmarketcap.com/community/profile/nftspacehunters/)
 
