@@ -390,7 +390,7 @@ After clicking "START," the cooldown begins, and energy points are deducted. Rem
 
 
 ## Icons Reference
-To understand the icons in the Missions game mode, please [read here](link-to-icons-documentation).
+To understand the icons in the Missions game mode, please read here (soon)
 
 **
 > # Excavation

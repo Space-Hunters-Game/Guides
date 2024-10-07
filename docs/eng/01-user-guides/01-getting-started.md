@@ -4,7 +4,7 @@
 
 ****
 
-# 📜 Summary and First Steps.
+# Summary and First Steps.
 🔘 [Summary and First Steps.](#summary-and-first-steps)
   - [What is Space Hunters?](#what-is-space-hunters)
   - [What is the current state of the project?](#what-is-the-current-state-of-the-project)
@@ -25,7 +25,7 @@ This community focuses on presenting a game that offers entertainment, fun, and 
 
 This is a free project that promotes active participation and long-term growth.
 
-## 🦹‍♂️ What is Space Hunters?
+## What is Space Hunters?
 
 **Space Hunters (SH)** is an imaginary strategy game for the gaming community, whether they are interested in the *cryptographic world* or not.
 
@@ -39,23 +39,22 @@ SH uses various economic styles and game modes, giving users the ability to choo
 
 > And many other ways. Stay tuned!
 
-## ✅ What is the current state of the project?
+## What is the current state of the project?
 
 **Space Hunters** is still in development, but you can be part of our progress and start acquiring free NFTs and tokens by participating and being active in our communities. Our economic-social system always strategically rewards all members; don't miss out on the opportunity.
 
-> **Updated:** We just launched our HUB App, you can read our full guide here: [HUB App Guide]()
+> **Updated:** We just launched our HUB App, you can read our full guide here: [HUB App Guide](/docs/eng/01-user-guides/HUBMiniappEng.md)
 
-## ✅ Is there anything I can participate in right now?
+## Is there anything I can participate in right now?
 
 As part of our community, you can follow us on social media, interact with other members, and share game links and updates. Our algorithm will constantly reward you with $HCREDIT tokens. You can participate in the free NFT whitelists we offer every month, as well as other limited-time activities or events. Follow us on our announcement channel so you don’t miss any opportunities.
 
-## ✅ What is $HCREDIT and how can it be obtained?
+## What is $HCREDIT and how can it be obtained?
 
 $HCREDIT is a social economy token within **SH** that you can earn by participating in project activities and with your friends. The economic system it uses is surprisingly effective, constantly rewarding the community through various activities.
 
 Currently, you can obtain $HCREDIT in the following ways:
   * Doing daily Check-ins on our [Telegram BOT](https://t.me/SpaceHuntersBot?start=NK1Y6ST3).
-  * Completing tasks on [Zealy](https://zealy.io/cw/spacehuntersthereborn/invite/UroI4c6fhtB3SX65siHBX).
   * Using our 2-level referral system.
   * Adding **SpaceHunters** to your name on Telegram.
   * Chatting in our groups or in Guilds associated with the project.
@@ -69,7 +68,7 @@ Currently, you can obtain $HCREDIT in the following ways:
 ![alt text](../../../static/img/image.png) 
 
 
-## ✅ Purposes and Uses of $HCREDIT
+## Purposes and Uses of $HCREDIT
 
 Here you’ll find an easy way to understand the purposes and uses of $HCREDIT in one of the game modes (free-to-play).
 
@@ -86,7 +85,7 @@ Right now, we’re in the development stage, so it’s the best time for you to 
 
 The mechanics involving **$HCREDIT** have been carefully analyzed to ensure that players can benefit in the long term and that the game’s economy remains sustainable without being affected by inflation.
 
-You can get more details in the [technical document](https://spaceheroes.gitbook.io/space-hunters), but to summarize, keep this in mind: The contribution to generator owners is called “Engineer Contract,” which expires after 24 hours to encourage daily community participation. This means that if a user doesn’t stay active, they won’t earn $HCREDIT, which in turn means they won’t get more $HCASH, and as fewer players are involved in Generation, there will be more $HCASH to divide.
+You can get more details in the [technical document](/docs/eng/01-user-guides/whitepapereng.md), but to summarize, keep this in mind: The contribution to generator owners is called “Engineer Contract,” which expires after 24 hours to encourage daily community participation. This means that if a user doesn’t stay active, they won’t earn $HCREDIT, which in turn means they won’t get more $HCASH, and as fewer players are involved in Generation, there will be more $HCASH to divide.
 The economy is backed by the algorithm, utilities, and acquisition formats focused on players.
 
 > Something similar happens with **$HCREDIT**: the more you get, the more chances you have to acquire **$HCASH**. We support content creators, gamers, and community members.
@@ -102,7 +101,7 @@ Focus on winning; we’ll take care of the rest!
 
 90% of the items are free and can be obtained by playing or purchasing them with tokens. Additionally, each item has its own probability and allocation calculations, ensuring that the circulating amounts and demand for the item are aligned with its importance to the user and its use within the game.
 
-## ✅ What Advantages Do I Have by Being Part of This Community?
+## What Advantages Do I Have by Being Part of This Community?
 
 Being part of the **Space Hunters: The Reborn** community offers several advantages:
 * **Free Access to the Game:** You can play without any initial cost, with free resources and assets to get started.
@@ -110,7 +109,7 @@ Being part of the **Space Hunters: The Reborn** community offers several advanta
 * **Variety of Game Modes:** Enjoy different game modes that suit your style and available time. Make the most of everything you can get before the launch, and you'll start with an advantage over other players.
 * **Sustainable Economy:** Benefit from a game economy designed to be fair and balanced, avoiding inflation and maximizing rewards.
 * **Participation in Development:** Contribute to the growth of the game and community through testing, feedback, and community activities. Support your favorite creators and earn tokens, invite them to partner up, and earn tokens from your favorite groups.
-* **Free Airdrops:** Get items and even tokens for free. Just follow our [Announcements Channel]() to avoid missing any opportunities.
+* **Free Airdrops:** Get items and even tokens for free. Just follow our [Announcements Channel](https://t.me/spacehuntersnews) to avoid missing any opportunities.
 * **Growth Opportunities:** Join an active and growing community with plans for new game modes, expansions, and future features.
 * **Space Hunters Ambassador:** Are you a content creator? Send us your information through this [Ambassador Form](https://docs.google.com/forms/d/e/1FAIpQLSc5_EEXHWroFhF_1MJRga4z2y8gW5xZ5pVT1RDDqMOIutqO6g/viewform?usp=sf_link) to enjoy the benefits we offer you and your community. Give them an additional reason to stay active!
 ## ✅ How Can I Start "Farming" $HCREDIT?
