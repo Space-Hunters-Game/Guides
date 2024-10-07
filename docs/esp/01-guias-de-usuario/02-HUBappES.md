@@ -105,6 +105,8 @@ Nuestra app también cuenta con un sistema de blogs de fácil acceso, donde podr
 ## Qué es Tech: Generators?
 Nuestra app incluye Tech: Generators, un juego integrado Free-to-Play que transforma la actividad social en diversas comunidades y plataformas en una experiencia de monetización única. A diferencia de otras plataformas que imponen altos requisitos para monetizar, con Tech: Generators eliminamos estas barreras, permitiendo a todos los usuarios ganar recompensas.
 
+**Lea más sobre el juego** [Tech Generators](../../../docs/esp/01-guias-de-usuario/whitepaperesp.md)
+
 El juego convierte $HCREDIT en $HCASH mediante un sistema interactivo y cooperativo en el que la comunidad colabora para optimizar los Generadores. Algunos usuarios poseen generadores, mientras que otros proporcionan ingenieros para su funcionamiento. Los jugadores pueden mejorar el rendimiento de los generadores mediante módulos, creación de partes, aprendizaje de profesiones únicas, ganancia de experiencia, y mucho más. Este enfoque convierte la monetización social en una experiencia entretenida, eliminando la tediosa tarea de cumplir con una lista de requisitos.
 
 [Subir al índice](#)
