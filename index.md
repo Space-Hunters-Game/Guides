@@ -18,7 +18,7 @@
 - 📌 [Sticker Pack](/docs/eng/announcements/sticker-pack.md)
 ### 📃 Whitepapers
 - 📌 [Space Hunters: The Reborn](/docs/eng/01-user-guides/whitepapereng.md)
-- 📌 [Tech: Generators](#)
+- 📌 [Tech: Generators](/docs/eng/01-user-guides/generatorsenglish.md)
   
 
 ****

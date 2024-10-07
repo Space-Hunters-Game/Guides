@@ -31,7 +31,7 @@ $HCREDIT is directly sent to the **game wallet**. If a user does **not provide a
 ## Wallet & Username
 **UPDATE:** Your game username is your wallet address in our ecosystem for $HCASH and $HCREDIT tokens, you can add your username right now using the command /username like this : **/username yankieldbc**. After TGE this details will be updated if required for deposits from external wallets.
 
-> You have 2 **free tries**, if you want to make another change you can do so after 24h but this option onpy available to **HunterPass** members.
+> You have 2 **free tries**, if you want to make another change you can do so after 24h but this option onpy available to [TechPass](/docs/eng/01-user-guides/generatorsenglish.md/#benefits-of-techpass) members.
 
 
 ## Utility
@@ -74,7 +74,7 @@ This is a simple design which explain in short the flow concept:
 
 $HCREDIT can be earned from the following ways:
 
-- **HunterPass**: Purchase the monthly pass to receive various rewards and benefits but also x2 HCREDIT earnings.
+- [TechPass](/docs/eng/01-user-guides/generatorsenglish.md/#benefits-of-techpass): Purchase the monthly pass to receive various rewards and benefits but also x2 HCREDIT earnings.
 - **Holding $HCASH**: Say good bye to old Staking systems, we are going to launch an innovative Staking system with $HCASH tokens to earn more $HCREDIT.
 - **Achievements**: Completing achievements can earn rewards, some of which include $HCREDIT. (Note: Not all achievements provide $HCREDIT.)
 - **Interactions with the Project or Partners**: Participate in selected events and activities to gain rewards.

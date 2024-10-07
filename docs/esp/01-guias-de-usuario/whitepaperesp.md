@@ -86,6 +86,8 @@ En muchos juegos, los activos o tokens tienen una utilidad limitada, lo que llev
 
 Algunos juegos se centran demasiado en los aspectos financieros, lo que puede restar valor a la experiencia de juego. **Space Hunters** equilibra la rentabilidad con una jugabilidad divertida y diversa, asegurando que los jugadores sean recompensados sin comprometer el disfrute del juego.
 
+[Subir al índice](#)
+
 > # Tokenomics
 
 La economía de tokens en el sector de los juegos, especialmente en Web3, ha sido un aspecto desafiante para cada equipo de proyecto que intenta crear una estrategia duradera para el ciclo de vida de su proyecto.
@@ -106,6 +108,8 @@ El suministro es un factor importante a considerar con cuidado. Las especulacion
 El suministro total de $HCASH es de 1 mil millones (1B), con una estrategia de minería que lo asigna y adjudica con el tiempo, similar a cualquier pool de minería bien conocido que utiliza un sistema de bloques.
 
 El suministro está planeado estratégicamente para más de 10 años de desarrollo y experiencia en el juego. Para evitar la inflación, nuestro sistema asegura que no se "mine" más de lo que se asigna mensualmente a los jugadores. El suministro circulante será el número clave en el que enfocarse, ya que nadie poseerá más de lo que actualmente se recompensa.
+
+[Subir al índice](#)
 
 ## Distribución de Tokens
 Nos enfocamos en el sector de los juegos, por lo que un gran porcentaje se asigna a recompensas en el juego. Lo distribuimos de acuerdo con la planificación a largo plazo, con el equipo renunciando a cualquier $HCASH asignado.
@@ -137,6 +141,8 @@ Hemos seleccionado algunas blockchains como candidatas. La decisión final se to
 ### ¿El Proyecto Lanzará Otros Tokens?
 Hay planes para lanzamientos de monedas secundarias en el futuro. Aunque no será inmediato, nuestra intención es lanzar una moneda secundaria que apoye directa e indirectamente la moneda principal del proyecto. Por ahora, todas las utilidades están enfocadas en $HCASH.
 
+[Subir al índice](#)
+
 ### Gráfico del Flujo Económico
 Aquí hay un gráfico que ayuda a ilustrar el flujo económico:
 ![economyflow](../../../static/img/economyflow.png)
@@ -158,6 +164,8 @@ Así, podemos afirmar que **$HCASH** es extraído tanto por jugadores como por e
 Este sistema también afecta tu **inventario, tareas pendientes, tareas en curso y más**. Puedes ver tu inventario a través de todos los juegos desde tu perfil de jugador en una única mochila compartida, ahorrándote tiempo y mejorando tu experiencia como jugador.
 
 Podrás ver tareas en curso en la app, junto con notificaciones y otros datos.
+
+[Subir al índice](#)
 
 ## Flujo HGE
 
@@ -187,6 +195,8 @@ Todas las blockchains tienen sus propias tarifas de transacción basadas en vari
 
 Mezclamos conceptos **Off-chain** y **On-chain** para crear beneficios para nuestra comunidad mientras preservamos sus activos tanto como sea posible. Este enfoque también beneficia a nuestro proyecto al añadir valor a la moneda del juego.
 
+[Subir al índice](#)
+
 #### Cómo Funciona
 
 Todas las transacciones Off-chain se llevan a cabo dentro de nuestro ecosistema del proyecto utilizando nuestra propia dirección de billetera. Cada transacción tiene una tarifa muy baja. Puedes ganar, gastar y pagar transacciones utilizando el mismo saldo y moneda sin ninguna acción externa o firma con una billetera externa, lo que también mejora la seguridad.
@@ -215,6 +225,8 @@ La tarifa de retiro disminuye con el tiempo (11 días), y la cuenta regresiva co
 > **NOTA:** Esto es solo para nuestro juego **Space Hunters: The Reborn**, otros juegos como **Tech: Generators** tienen reglas diferentes, lee la guía respectiva del juego para informarte.
 
 Esta es una estrategia simple diseñada en sincronía con el plan económico más amplio. Agrega valor a los poseedores, apoya la economía dentro del juego y anima a los jugadores a proceder con una planificación estratégica.
+
+[Subir al índice](#)
 
 >  # **Mercado y Tarifas**
 
@@ -254,6 +266,8 @@ Puedes vender recursos en el mercado estableciendo tu propio precio por unidad, 
 
 El algoritmo detrás de este método es inteligente: simplemente sigues el precio y vendes a la mejor tarifa. Las tarifas diarias cambian según factores que no podemos divulgar para evitar la explotación.
 
+[Subir al índice](#)
+
 > # Datos del Mercado en Tiempo Real
 
 Nuestro mercado en tiempo real actualiza la información a intervalos muy cortos para mantener a los jugadores informados sobre los cambios económicos en nuestro ecosistema.
@@ -276,8 +290,10 @@ La proporción de precios que ofrecen los NPCs por los recursos varía según fa
 
 En el mercado del juego, ofrecemos subastas por parte de los jugadores y el sistema (los creadores). También proporcionamos acceso al historial de artículos vendidos y la capacidad de vender/comprar, así como enviar ofertas a otros jugadores.
 
-### **Sistema Anti-Bajada de Precios**
+[Subir al índice](#)
 
+### **Sistema Anti-Bajada de Precios**
+---
 Lee sobre esto en nuestra sección de Mercado y Tarifas, encuéntralo aquí: [Anti-Bajada de Precios](#market-and-fees)
 
 ### **Regla de Piso**
@@ -298,6 +314,8 @@ Cada misión tiene requisitos específicos como nivel e influencia. Los números
 Después de hacer clic en "START", comenzará el tiempo de espera, y se descontarán puntos de energía. Recuerda, solo puedes realizar una tarea a la vez, así que elige con cuidado.
 
 ---
+[Subir al índice](#)
+
 
 ## Nivel de Jugador
 Tu perfil subirá de nivel a medida que ganes experiencia, y muchas características requerirán un nivel mínimo específico.
@@ -341,6 +359,8 @@ Este objeto recarga completamente tu energía una vez cada 24 horas. Se puede ac
 Cada misión recompensa a los jugadores con experiencia, mercenarios y objetos del juego según las recompensas estacionales y eventos limitados. Los jugadores acumulan puntos de misión, que se convierten en tokens del juego cada hora. Algunos objetos son exclusivos del modo Misiones Básicas y pueden ser limitados por tiempo o basados en eventos específicos.
 
 Los jugadores solo reciben experiencia para subir de nivel completando misiones en este modo, con algunas excepciones como logros o objetos consumibles.
+
+[Subir al índice](#)
 
 ---
 > # Excavación
@@ -403,6 +423,8 @@ Los avatares funcionan como multiplicadores de:
 ## Referencia de Iconos
 Para entender los iconos en el modo Misiones, por favor [lee aquí](link-a-documentación-de-iconos).
 
+[Subir al índice](#)
+
 > # Creación
 
 Una de las principales formas de quemar activos, crear nuevos y mejorarlos.
@@ -443,6 +465,8 @@ Los logros secretos, eventos y logros por tiempo limitado no están incluidos; e
 | Conquistador Diario Supremo           | 100 Misiones de Otro Día            | 1000 EXP, 400 Influencia, Suerte +2 |
 | Tomador de Riesgos Extraordinario     | 100 Misiones de Trabajo Arriesgado  | 1000 EXP, 500 Influencia, Suerte +2 |
 
+[Subir al índice](#)
+
 ## Logros Limitados
 
 ### Recompensas NFT
@@ -458,6 +482,8 @@ Los logros secretos, eventos y logros por tiempo limitado no están incluidos; e
 | Medalla de Honor III                 | Ser uno de los primeros 250 jugadores en alcanzar el nivel 100 | 20 Puntos de Suerte, 1500 Influencia, 25 Puntos de Entrenamiento |
 | Medalla de Gloria                    | Ser uno de los primeros 100 jugadores en alcanzar el nivel 200 | 50 Puntos de Suerte, 5000 Influencia, 100 Puntos de Entrenamiento |
 
+[Subir al índice](#)
+
 ## Logros por Referencias
 
 **Respaldado por 5M $HCASH Capital**  
@@ -471,6 +497,8 @@ Los logros secretos, eventos y logros por tiempo limitado no están incluidos; e
 | Novato Amistoso IV                   | 14 Amigos alcanzaron el nivel 10                    | $HCASH 10, 25 Mercenarios, Suerte +1 |
 | Novato Amistoso V                    | 49 Amigos alcanzaron el nivel 10                    | $HCASH 30, 10 Mercenarios, Suerte +1, 1 Caja de Energía |
 
+[Subir al índice](#)
+
 ## Logros de Entrenamiento
 
 | Nombre de la Misión                   | Requerimiento                                       | Estadísticas                    |
@@ -481,6 +509,8 @@ Los logros secretos, eventos y logros por tiempo limitado no están incluidos; e
 | Experto en Entrenamiento              | Completar 500 Entrenamientos                        | 1000 EXP, 100 Puntos de Entrenamiento, Suerte +2 |
 | Maestro en Entrenamiento              | Completar 1000 Entrenamientos                       | 2000 EXP, 200 Puntos de Entrenamiento, Caja de Energía |
 | Leyenda en Entrenamiento              | Completar 5000 Entrenamientos                       | 2000 EXP, 500 Puntos de Entrenamiento, Núcleo de Energía |
+
+[Subir al índice](#)
 
 ## Logros de Estadísticas
 
@@ -498,6 +528,8 @@ Los logros secretos, eventos y logros por tiempo limitado no están incluidos; e
 | Influencer Legendario                 | Alcanzar 50,000 puntos de Influencia                | 5000 EXP                        |
 | Maestro de Influencia                 | Alcanzar 100,000 puntos de Influencia               | 5000 EXP                        |
 
+[Subir al índice](#)
+
 ## Logros de Coleccionista
 
 | Nombre de la Misión        | Requisito                             | Recompensa                   |
@@ -514,6 +546,8 @@ Los logros secretos, eventos y logros por tiempo limitado no están incluidos; e
 | Aspirante Mítico           | Adquirir la 5ª pieza de set mítico    | 150 Puntos de Entrenamiento  |
 | Salón de la Fama: Guardián | Coleccionar las 5 piezas de todos los sets de rareza | 500 Puntos de Entrenamiento, 500 Influencia, 10 Suerte |
 
+[Subir al índice](#)
+
 ## Logros de Bonificación
 
 | Nombre de la Misión        | Requisito                             | Recompensa                   |
@@ -527,6 +561,8 @@ Los logros secretos, eventos y logros por tiempo limitado no están incluidos; e
 | Recluta Explorador VII     | Contratar 5000 Reclutas              | 250 Reclutas, 300 Mercenarios, 50 Influencia |
 | Recluta Explorador VIII    | Contratar 10,000 Reclutas            | 1000 Reclutas, 50 Puntos de Entrenamiento, 100 Influencia |
 
+[Subir al índice](#)
+
 ## Logros de Aumento
 
 | Nombre de la Misión        | Requisito                             | Recompensa                   |
@@ -537,9 +573,7 @@ Los logros secretos, eventos y logros por tiempo limitado no están incluidos; e
 | Aumento de Experiencia IV   | Aumentar tu experiencia durante 24h 5 veces | 200 EXP                     |
 | Aumento de Experiencia V    | Aumentar tu experiencia durante 6 días consecutivos | 100 EXP                    |
 
-
-
-
+[Subir al índice](#)
 
 ## ✅ Redes Sociales
 Síguenos en nuestras redes sociales

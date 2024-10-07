@@ -8,19 +8,19 @@
 
 Este es un sistema de recompensas innovador que convierte tu participación en una herramienta valiosa para generar ingresos. Seguimos innovando y añadiendo más casos de uso y formas de interactuar con el token y el ecosistema. A continuación, se enumeran los planes actuales y los que están por venir:
 
-- [Proceso de Reclamo](#claim-process)
-- [Cartera y Nombre de Usuario](#wallet--username)
-- [Utilidad](#utility)
-- [Suministro, Distribución y Quema](#supply-distribution-and-burning)
-- [Distribución de Recompensas](#reward-distribution)
-- [Flujo de $HCREDIT](#hcredit-flow)
+- [Proceso de Reclamo](#proceso-de-reclamo)
+- [Cartera y Nombre de Usuario](#cartera-y-nombre-de-usuario)
+- [Utilidad](#utilidad)
+- [Suministro, Distribución y Quema](#suministro-distribución-y-quema)
+- [Distribución de Recompensas](#distribución-de-recompensas)
+- [Flujo de $HCREDIT](#flujo-de-hcredit)
 - [¿Cómo ganar?](#how-to-earn?)
-   - [Registro Diario](#daily-check-in)
-   - [Referir Amigos](#referring-friends)
-   - [Transacciones On-Chain](#on-chain-transactions)
-   - [Space Hunters en tu Nombre de Telegram](#space-hunters-in-your-telegram-name)
+   - [Registro Diario](#registro-diario)
+   - [Referir Amigos](#referir-amigos)
+   - [Transacciones On-Chain](#transacciones-on-chain)
+   - [Space Hunters en tu Nombre de Telegram](#space-hunters-en-tu-nombre-de-telegram)
    - [Chat-to-Earn](#chat-to-earn)
-   - [Comprar $HCREDIT con $HCASH](#buying-hcredit-with-hcash)
+   - [Comprar $HCREDIT con $HCASH](#comprar-hcredit-con-hcash)
 
 ## Proceso de Reclamo
 
@@ -29,7 +29,9 @@ $HCREDIT se envía directamente a la **cartera del juego**. Si un usuario no pro
 ## Cartera y Nombre de Usuario
 **ACTUALIZACIÓN:** Tu nombre de usuario en el juego es tu dirección de cartera en nuestro ecosistema para los tokens $HCASH y $HCREDIT. Puedes agregar tu nombre de usuario ahora mismo usando el comando /username de esta manera: **/username yankieldbc**. Después del TGE, estos detalles se actualizarán si es necesario para depósitos desde carteras externas.
 
-> Tienes 2 **intentos gratuitos**, si quieres hacer otro cambio puedes hacerlo después de 24h, pero esta opción solo está disponible para los miembros de **HunterPass**.
+[Subir al índice](#)
+
+> Tienes 2 **intentos gratuitos**, si quieres hacer otro cambio puedes hacerlo después de 24h, pero esta opción solo está disponible para los miembros de [TechPass](/docs/esp/blog/generatorswhitepaperesp.md/#ventajas-del-techpass).
 
 ## Utilidad
 
@@ -66,11 +68,13 @@ Este es un diseño simple que explica brevemente el concepto de flujo:
 
 ![hcreditflow](../../../static/img/hcreditflow.png)
 
+[Subir al índice](#)
+
 ## Cómo Ganar $HCREDIT Diariamente
 
 $HCREDIT se puede ganar de las siguientes maneras:
 
-- **HunterPass**: Compra el pase mensual para recibir varias recompensas y beneficios, además de duplicar las ganancias de $HCREDIT.
+- El [TechPass](/docs/esp/blog/generatorswhitepaperesp.md/#ventajas-del-techpass) : Compra el pase mensual para recibir varias recompensas y beneficios, además de duplicar las ganancias de $HCREDIT.
 - **Holding $HCASH**: Di adiós a los antiguos sistemas de Staking, vamos a lanzar un sistema de Staking innovador con tokens $HCASH para ganar más $HCREDIT.
 - **Logros**: Completar logros puede otorgar recompensas, algunas de las cuales incluyen $HCREDIT. (Nota: No todos los logros proporcionan $HCREDIT).
 - **Interacciones con el Proyecto o Socios**: Participa en eventos y actividades seleccionados para ganar recompensas.
@@ -85,6 +89,8 @@ Gana **20 $HCREDIT** por registros diarios y **3% de recompensas compuestas** du
 - **Tareas Sociales**: Completa tareas sociales para ganar $HCREDIT. La cantidad varía según el evento.
 - **Tareas Diarias Limitadas**: Completa tareas limitadas que se reinician diariamente para maximizar tus ganancias.
 
+[Subir al índice](#)
+
 ## Transacciones On-Chain
 > Gana $HCREDIT **enfriando motores sobrecalentados**. Puedes elegir entre las siguientes opciones:
 
@@ -93,7 +99,7 @@ Gana **20 $HCREDIT** por registros diarios y **3% de recompensas compuestas** du
 
 *El gas on-chain puede ser cubierto por socios de blockchain, y pueden ofrecerse recompensas adicionales por parte de socios. En algunos casos, puede estar disponible el doble-farming.*
 
-## ''Space Hunters'' en tu Nombre de Telegram
+## Space Hunters en tu Nombre de Telegram
 **Este programa se llama:** *Name the Fav*, los miembros que añadan "SpaceHunters", "Space Hunters", "Space Hunter" o "SpaceHunter" a su nombre de Telegram serán recompensados diariamente, con recompensas crecientes durante un ciclo de 28 días con un pago escalado de 20 $HCREDIT el primer día y 260 el día 28, para un total de 2500 $HCREDITs pagados. Planeamos añadir algunas otras características a este programa en el futuro.
 
 ## Chat-to-Earn
@@ -104,7 +110,9 @@ Gana **20 $HCREDIT** por registros diarios y **3% de recompensas compuestas** du
 Puedes comprar $HCREDIT con $HCASH. La tasa de cambio está sujeta a **fluctuaciones** y solo está enfocada en ayudarte a obtener tokens adicionales para completar tu saldo necesario para actividades específicas antes de que la economía se reinicie.
 
 ## Ganando $HCASH con mis tokens $HCREDIT
-Gasta tus tokens $HCREDIT en el juego de Generadores para ganar tokens $HCASH por hora, si quieres aprender sobre este juego lee esta guía completa sobre nuestro juego Tech Generators. [Generadores: Guía Completa](/).
+Gasta tus tokens $HCREDIT en el juego de Generadores para ganar tokens $HCASH por hora, si quieres aprender sobre este juego lee esta guía completa sobre nuestro juego Tech Generators. [Generadores: Guía Completa](/docs/esp/blog/generatorswhitepaperesp.md).
+
+[Subir al índice](#)
 
 ***
 > Este documento se actuializa con cada avance del proyecto, última vez  actualizado el octubre 05/2024

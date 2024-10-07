@@ -4,6 +4,8 @@
 
 ****
 
+
+
 # 📱 HUB Mini-App: Guía completa
 
 Antes de comenzar, nos gustaria dejar claro que no necesitas descargar ninguno de nuestros juegos y tampoco instalar ninguna aplicación adicional, solo tener Telegram en un dispositivo ( cualquier dispositivo que soporte Telegram App)
@@ -22,7 +24,6 @@ Antes de comenzar, nos gustaria dejar claro que no necesitas descargar ninguno d
   - [Tareas Diarias](#tareas-diarias)
   - [Lista de Jugadores Top](#lista-de-jugadores-top)
   - [Tareas Sociales](#tareas-sociales)
-
 
 🔘 Sección: Perfil de Usuario
   - [Perfil](#perfil)
@@ -79,13 +80,15 @@ Antes de comenzar, nos gustaria dejar claro que no necesitas descargar ninguno d
 
 Antes de sumergirte en nuestra app y explorar cada una de las características disponibles en esta versión, queremos compartir contigo un breve resumen de nuestra visión. Leer este artículo hasta el final te ayudará a comprender mejor nuestro proyecto y a maximizar tus oportunidades dentro de él.
 
-## ¿Por qué una Mini-App?
+## Por qué una Mini-App?
 
 ![appviews](../../../static/img/APPviews.png)
 
 Hemos eliminado las barreras entre dispositivos y capacidades económicas, ofreciendo a todos una app accesible desde cualquier dispositivo que tenga instalada la aplicación de Telegram. En resumen, HUB es una plataforma sin limitaciones que democratiza el acceso a nuestro ecosistema.
 
-## ¿Qué es HUB y cuáles son sus ventajas?
+[Subir al índice](#)
+
+## Qué es HUB y cuáles son sus ventajas?
 
 ![Space Hunters: Reborn](../../../static/img/HUBbannerr.jpg)
 
@@ -97,19 +100,24 @@ Además, el HUB incluye tareas sociales y diarias, donde el apoyo al proyecto es
 
 Nuestra app también cuenta con un sistema de blogs de fácil acceso, donde podrás leer las últimas actualizaciones y anuncios directamente desde la pantalla principal, simplemente tocando las imágenes o banners.
 
-## ¿Qué es Tech: Generators?
+[Subir al índice](#)
+
+## Qué es Tech: Generators?
 Nuestra app incluye Tech: Generators, un juego integrado Free-to-Play que transforma la actividad social en diversas comunidades y plataformas en una experiencia de monetización única. A diferencia de otras plataformas que imponen altos requisitos para monetizar, con Tech: Generators eliminamos estas barreras, permitiendo a todos los usuarios ganar recompensas.
 
 El juego convierte $HCREDIT en $HCASH mediante un sistema interactivo y cooperativo en el que la comunidad colabora para optimizar los Generadores. Algunos usuarios poseen generadores, mientras que otros proporcionan ingenieros para su funcionamiento. Los jugadores pueden mejorar el rendimiento de los generadores mediante módulos, creación de partes, aprendizaje de profesiones únicas, ganancia de experiencia, y mucho más. Este enfoque convierte la monetización social en una experiencia entretenida, eliminando la tediosa tarea de cumplir con una lista de requisitos.
 
-## ¿Cómo se generan los $HCREDIT?
+[Subir al índice](#)
+
+## Cómo se generan los $HCREDIT?
 ✅ Consulta nuestra Guía para Nuevos Usuarios [aquí](../../../docs/esp/01-guias-de-usuario/01-primeros-pasos.md)
 
-## ¿Qué es el Hunters Gaming Ecosystem?
+## Qué es el Hunters Gaming Ecosystem?
 Lee sobre nuestra innovadora estrategia web3 en nuestro plan estratégico [aquí].
 
 **Ahora que conoces más sobre HUB, es momento de explorar la app. Te guiaremos paso a paso por las opciones y menús para que aproveches al máximo todo lo que ofrece.**
 
+[Subir al índice](#)
 
 > # HUB: Guía paso a paso
 
@@ -137,6 +145,8 @@ Este botón te lleva a la Lista de Jugadores Top, donde podrás ver las clasific
 5. ### **Tareas Sociales:**
 Las Tareas Sociales ofrecen una manera adicional de obtener recompensas apoyando al proyecto. Inicialmente, las recompensas serán en $HCREDIT, pero con el tiempo se agregarán funciones como el drop de ítems, ganancia de experiencia, y otras características que te permitirán mejorar tu perfil de usuario. A medida que completes estas tareas, desbloquearás nuevas funciones y expandirás tu experiencia en el ecosistema, facilitando tu crecimiento personal dentro del HUB.
 
+
+[Subir al índice](#)
 
 > # Sección del Perfil de Usuario
 En esta sección, tendrás acceso a toda la información relevante sobre tu perfil de jugador dentro del ecosistema, junto con tus estadísticas, balances y opciones de personalización.
@@ -181,6 +191,8 @@ Igualmente, tu perfil muestra el balance total de $HCREDIT, que puedes usar para
 
 Al tocar el icono de las cadenas, copias tu enlace personal de referido, facilitando la invitación de amigos y nuevos usuarios para unirte en el ecosistema y juegos.
 
+[Subir al índice](#)
+
 > # **Juegos Jugados y Estadísticas**
 ![rankbadges](../../../static/img/gamesplayed.png)
 En esta sección podrás ver los juegos de nuestro ecosistema en los que has participado. Al seleccionar uno, obtendrás detalles como:
@@ -193,6 +205,8 @@ Guía del Juego: Un botón que te lleva directamente a la guía para aprender m�
 Con esta sección del perfil de usuario, podrás gestionar fácilmente tu progreso, estadísticas y conexiones dentro del ecosistema HUB.
 
 ![rankbadges](../../../static/img/gamesstats.png)
+
+[Subir al índice](#)
 
 # Historial de Transacciones
 
@@ -215,6 +229,8 @@ Cada transacción muestra la siguiente información:
 - **Memo:** Identificador o detalle de la transacción.
 - **Fecha y Hora:** Momento exacto en que se realizó la transacción.
 - **To:** Destino de la transacción; si aparece tu nombre, significa que fuiste el receptor.
+
+[Subir al índice](#)
 
 > ### Aquí hay una imagen como referencia:
 ![trxvista](../../../static/img/trxwindow.png)
