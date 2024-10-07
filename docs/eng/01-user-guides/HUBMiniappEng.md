@@ -103,7 +103,7 @@ Our app includes Tech: Generators, a Free-to-Play integrated game that transform
 The game converts $HCREDIT into $HCASH through an interactive and cooperative system where the community collaborates to optimize Generators. Some users own generators, while others provide engineers for their operation. Players can enhance generator performance through modules, part crafting, learning unique professions, gaining experience, and much more. This approach turns social monetization into an entertaining experience, eliminating the tedious task of meeting a list of requirements.
 
 ## How are $HCREDIT generated?
-✅ Check our New User Guide [here](../../../docs/eng/01-user-guides/01-getting-started.md)
+✅ Check our New User Guide [here](../../../docs/eng/01-user-guides/hcreditguide.md)
 
 ## What is the Hunters Gaming Ecosystem?
 🎮 Read about our innovative web3 strategy in our strategic plan [here].

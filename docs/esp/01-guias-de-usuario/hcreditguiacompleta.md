@@ -31,7 +31,7 @@ $HCREDIT se envía directamente a la **cartera del juego**. Si un usuario no pro
 
 [Subir al índice](#)
 
-> Tienes 2 **intentos gratuitos**, si quieres hacer otro cambio puedes hacerlo después de 24h, pero esta opción solo está disponible para los miembros de [TechPass](/docs/esp/blog/generatorswhitepaperesp.md/#ventajas-del-techpass).
+> Tienes 2 **intentos gratuitos**, si quieres hacer otro cambio puedes hacerlo después de 24h, pero esta opción solo está disponible para los miembros de [TechPass](/docs/esp/01-guias-de-usuario/whitepaper-generadores.md/#ventajas-del-techpass).
 
 ## Utilidad
 
@@ -74,7 +74,7 @@ Este es un diseño simple que explica brevemente el concepto de flujo:
 
 $HCREDIT se puede ganar de las siguientes maneras:
 
-- El [TechPass](/docs/esp/blog/generatorswhitepaperesp.md/#ventajas-del-techpass) : Compra el pase mensual para recibir varias recompensas y beneficios, además de duplicar las ganancias de $HCREDIT.
+- El [TechPass](/docs/esp/01-guias-de-usuario/whitepaper-generadores.md/#ventajas-del-techpass) : Compra el pase mensual para recibir varias recompensas y beneficios, además de duplicar las ganancias de $HCREDIT.
 - **Holding $HCASH**: Di adiós a los antiguos sistemas de Staking, vamos a lanzar un sistema de Staking innovador con tokens $HCASH para ganar más $HCREDIT.
 - **Logros**: Completar logros puede otorgar recompensas, algunas de las cuales incluyen $HCREDIT. (Nota: No todos los logros proporcionan $HCREDIT).
 - **Interacciones con el Proyecto o Socios**: Participa en eventos y actividades seleccionados para ganar recompensas.
@@ -110,7 +110,7 @@ Gana **20 $HCREDIT** por registros diarios y **3% de recompensas compuestas** du
 Puedes comprar $HCREDIT con $HCASH. La tasa de cambio está sujeta a **fluctuaciones** y solo está enfocada en ayudarte a obtener tokens adicionales para completar tu saldo necesario para actividades específicas antes de que la economía se reinicie.
 
 ## Ganando $HCASH con mis tokens $HCREDIT
-Gasta tus tokens $HCREDIT en el juego de Generadores para ganar tokens $HCASH por hora, si quieres aprender sobre este juego lee esta guía completa sobre nuestro juego Tech Generators. [Generadores: Guía Completa](/docs/esp/blog/generatorswhitepaperesp.md).
+Gasta tus tokens $HCREDIT en el juego de Generadores para ganar tokens $HCASH por hora, si quieres aprender sobre este juego lee esta guía completa sobre nuestro juego Tech Generators. [Generadores: Guía Completa](/docs/esp/01-guias-de-usuario/whitepaper-generadores.md)
 
 [Subir al índice](#)
 

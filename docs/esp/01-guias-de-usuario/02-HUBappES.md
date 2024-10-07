@@ -110,7 +110,7 @@ El juego convierte $HCREDIT en $HCASH mediante un sistema interactivo y cooperat
 [Subir al índice](#)
 
 ## Cómo se generan los $HCREDIT?
-✅ Consulta nuestra Guía para Nuevos Usuarios [aquí](../../../docs/esp/01-guias-de-usuario/01-primeros-pasos.md)
+✅ Consulta nuestra Guía para Nuevos Usuarios [aquí](../../../docs/esp/01-guias-de-usuario/hcreditguiacompleta.md)
 
 ## Qué es el Hunters Gaming Ecosystem?
 Lee sobre nuestra innovadora estrategia web3 en nuestro plan estratégico [aquí].
