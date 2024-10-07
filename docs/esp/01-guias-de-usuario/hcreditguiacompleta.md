@@ -110,7 +110,7 @@ Gana **20 $HCREDIT** por registros diarios y **3% de recompensas compuestas** du
 Puedes comprar $HCREDIT con $HCASH. La tasa de cambio está sujeta a **fluctuaciones** y solo está enfocada en ayudarte a obtener tokens adicionales para completar tu saldo necesario para actividades específicas antes de que la economía se reinicie.
 
 ## Ganando $HCASH con mis tokens $HCREDIT
-Gasta tus tokens $HCREDIT en el juego de Generadores para ganar tokens $HCASH por hora, si quieres aprender sobre este juego lee esta guía completa sobre nuestro juego Tech Generators. [Generadores: Guía Completa](/docs/esp/blog/generatorswhitepaperesp.md).
+Gasta tus tokens $HCREDIT en el juego de Generadores para ganar tokens $HCASH por hora, si quieres aprender sobre este juego lee esta guía completa sobre nuestro juego Tech Generators. [Generadores: Guía Completa](/docs/esp/blog/generadores-wp.md).
 
 [Subir al índice](#)
 
