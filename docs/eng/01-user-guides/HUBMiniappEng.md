@@ -110,6 +110,8 @@ The game converts $HCREDIT into $HCASH through an interactive and cooperative sy
 
 **Now that you know more about HUB, it's time to explore the app. We will guide you step by step through the options and menus to make the most of everything it offers.**
 
+[Scroll Up](#)
+
 > # HUB: Step-by-Step Guide
 
 We will explore the different menus available in the HUB Mini-App v1.0, focused on maximizing your experience within the ecosystem. Below, we show you how to navigate through the navigation bar and what options each button offers.
@@ -136,6 +138,7 @@ This button takes you to the Top Player List, where you can see the rankings of 
 5. ### **Social Tasks:**
 Social Tasks offer an additional way to earn rewards by supporting the project. Initially, rewards will be in $HCREDIT, but over time, features like item drops, experience gains, and other characteristics will be added, allowing you to improve your user profile. As you complete these tasks, you'll unlock new features and expand your experience in the ecosystem, facilitating your personal growth within HUB.
 
+[Scroll Up](#)
 
 > # User Profile Section
 In this section, you will have access to all relevant information about your player profile within the ecosystem, along with your statistics, balances, and customization options.
@@ -188,6 +191,8 @@ Finally, in this section, you can check your statistics for all the games you ar
 ![rankbadges](../../../static/img/gamesplayed.png)
 In this section, you will see the games in our ecosystem that you have participated in. When selecting one, you will get details such as:
 
+[Scroll Up](#)
+
 - ### **Game Statistics:** 
 A detailed view of your progress, performance, and achievements in that specific game.
 Game Guide: A button that takes you directly to the guide to learn more about the game and optimize your performance.
@@ -221,6 +226,8 @@ Each transaction displays the following information:
 
 > ### Here is a reference image:
 ![trxvista](../../../static/img/trxwindow.png)
+
+[Scroll Up](#)
 
 ---
 > # THIS GUIDE STILL IN PROCESS

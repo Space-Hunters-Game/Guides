@@ -68,7 +68,7 @@
     - 🔘 **Hunting Beasts** (Soon)
     - 🔘 **Exploration** (Soon)
 ---
-
+[Scroll Up](#)
 > # **Problems Resolved by Space Hunters**
 
 - **Unsustainable Economies in Blockchain Games**
@@ -87,22 +87,25 @@ In many games, assets or tokens have limited utility, leading to a lack of engag
 
 Some games focus too heavily on the financial aspects, which can detract from the gameplay experience. **Space Hunters** balances profitability with fun and diverse gameplay, ensuring that players are rewarded without compromising the enjoyment of the game.
 
-
+[Scroll Up](#)
 > # Tokenomics
 
 Token economy in the gaming sector, especially Web3, has been a challenging aspect for every project team aiming to create a long-lasting strategy for their project’s life cycle.
 
-## $HCASH: The Hunter Governance Token
+## What is Hunter Cash ($HCASH)?
+![hcashpngbannerr](../../../static/img/hcashpngbanner.png)
 
-### What is Hunter Cash ($HCASH)?
 Usually, game tokens are identified with the project name or something similar. But what if we do it differently? That's where the fun idea came in: to name our game currency after what everyone is looking for—cash! Let's be honest, we all like to cash out good earnings, right? That's why we decided, if we are creating an entire ecosystem or "metaverse," why not call it **Hunter Cash ($HCASH)**? It’s something beautiful and out of the ordinary.
 
-### Reward Block
+## Reward Block
 The daily allocation is combined with the game algorithm, giving players the ability to be the only ones who can mine and extract the $HCASH token. Similar to blockchain reward blocks like $ETH in the past, where 2 $ETH per block was distributed among miners based on their hashrate, **Space Hunters** works as your mining pool. All players meet to extract tokens by playing the game. The more you grow and participate in different game modes strategically, the more chances you have to mine a portion of the allocation.
 
 But don’t get confused, this is not a Play-to-Airdrop model. Here, you will earn tokens as soon as your tasks or activities are completed. The algorithm will handle the rest, calculating and balancing every millisecond to maintain synchrony with our 10-year plan.
 
-### Total Supply & Scarcity
+[Scroll Up](#)
+
+## Total Supply & Scarcity 
+
 Supply is an important factor to consider carefully. Speculations are good, but a short supply doesn’t necessarily mean the price will skyrocket, and a high supply doesn’t mean failure. It’s all about strategy.
 
 The total supply of **$HCASH** is **1 billion** (1B), with a mining strategy that allocates and vests it over time, similar to any well-known mining pool that uses a block system. 
@@ -119,37 +122,40 @@ We are focused on the gaming sector, so a large percentage is allocated to gamin
 - **Partners & Strategic Investors**: 5%
 
 ![tokenomic0](../../../static/img/tokenomic0.png)
-
+[Scroll Up](#)
 ### Why is Pools Liquidity 3.5%?
 We believe a **fair launch** is closest to the concept we are striving for. The 3.5% liquidity is a perfect number to synchronize the fixed allocation rate with community demand. As $HCASH is being mined by players, pools will automatically adjust based on supply and demand. Holders and participants will then decide the price’s trajectory based on utility and other factors.
 
-### How is the Gaming Allocation Distributed?
+## How is the Gaming Allocation Distributed?
 The supply allocated for gaming rewards is distributed among both released and upcoming game modes with prior planning. Each game mode will be backed by a **10-year allocation**.
 
-### Daily Allocation
+## Daily Allocation
 Tokens are pre-calculates to be Allocated and extracted by gamers. Rewards are calculated based on the gamers participation, in short, it works like shares, more powerful the player ir more shares it will earn, plus additional rewards by meeting different criteria depending the game is playing and other requirments or by owning a special pass like HunterPass, Earlypass, SpyPass etc... 
 
-### What is the Innovation Strategy?
+## What is the Innovation Strategy?
 We have big plans and a broad vision. As technology and trends evolve, we aim to keep a portion of $HCASH to adapt to changes and create new products that support our planned strategy and released products.
 
-### What is the $HCASH Launch Price?
+## What is the $HCASH Launch Price?
 At the moment, this information is under evaluation. While speculation exists, the final value will be shared as soon as possible. We are mindful of both the **Community** and **Project Life**, ensuring we provide an option that benefits everyone.
 
-### Where will $HCASH Be Minted?
+## Where will $HCASH Be Minted?
 We have selected a few blockchains as candidates. The final decision will be made after consulting with our partners to find the best fit for community satisfaction and project efficiency. The community may participate in this step, as we always value their input.
 
-### Will the Project Release Other Tokens?
+## Will the Project Release Other Tokens?
 There are plans for secondary currency releases in the future. Although not immediately, we intend to launch a secondary currency that will directly and indirectly support the main project currency. For now, all utilities are focused on $HCASH.
 
-### Economy Flow Graphic
+## Economy Flow Graphic
 Here is a graphic that helps illustrate the economy flow:
 ![economyflow](../../../static/img/economyflow.png)
 
 >  # **Ecosystem**
+[Scroll Up](#)
 
 HGE is based on the idea of creating a place where gamers meet and interact by playing, exchanging different assets, and sharing experiences or services fully focused on GameFi.
 
 ## HGE: Hunters Gaming Ecosystem
+
+![hcashpngbannerr](../../../static/img/hgebannerbloggg.jpg)
 
 There are a few pillars that will form the foundation of everything in the future. We can say *Space Hunters: The Reborn* game is the seed of the economy. The combination of different algorithms, gameplay, player activities, fixed daily allocations, and residual flow simulates what Crypto Token mining can be: having fun while earning.
 
@@ -163,6 +169,7 @@ This system also affects your **inventory, pending tasks, ongoing tasks, and mor
 
 You will be able to see ongoing tasks in the app, along with notifications and other data.
 
+[Scroll Up](#)
 
  ## HGE Flow
 
@@ -192,7 +199,7 @@ All blockchains have their own transaction fees based on various activities. The
 
 We mix **Off-chain** and **On-chain** concepts to create benefits for our community while preserving their assets as much as possible. This approach also benefits our project by adding value to the game currency.
 
-#### How It Works
+## How It Works
 
 All Off-chain transactions take place within our project ecosystem using our own wallet address. Every transaction has a very low fee. You can earn, spend, and pay for transactions using the same balance and currency without any external action or signing with an external wallet, which also enhances security.
 
@@ -223,6 +230,7 @@ This is a simple strategy designed in sync with the broader economic plan. It ad
 
 
 >  # **Market and Fees**
+[Scroll Up](#)
 
 **Transfer fees** and **withdrawal fees** are set up with the same ideology in mind. Sometimes, people make unnecessary transactions, but these transactions generate cash flow that enriches the Treasure funds. These funds are later redistributed to the community in various ways. This is a true win-win situation: adding value to everything involved, fostering deflation, and providing more rewards without minting more tokens.
 
@@ -238,7 +246,7 @@ The more a user lists, removes, and relists an item, the more fees they will con
 
 It's simple: list your item when you are truly ready to sell it. There are no double fees; the fee is split into a small portion to prevent listing abuse, with the rest applied when the sale is made.
 
-### Fee Rates
+## Fee Rates
 
 The listing fee rate is based on the size of the data involved. Over time, as more tokens are mined by gamers, this fee will stabilize.
 
@@ -260,6 +268,12 @@ You can sell resources in the marketplace by setting your own price per unit, an
 
 The algorithm behind this method is a smart one: you just follow the price and sell at the best rate. The daily rates change based on factors that we cannot disclose to avoid exploitation.
 
+> Here a screenshot
+
+![npcmarketpic](../../../static/img/npcmarket.png)
+
+
+[Scroll Up](#)
 > # Real-Time Market Data
 
 Our real-time marketplace updates information at very short intervals to keep players informed about economic changes in our ecosystem.
@@ -292,7 +306,17 @@ We have created a simple but important and helpful rule. It is based on the idea
 
 We have created many ways to monetize your progress, and we expect fair play in return.
 
+> Here a pic
+
+![marketdatapic](../../../static/img/marketdatapicc.png)
+
+
+[Scroll Up](#)
+
 > # Basic Missions
+
+![missionspic](../../../static/img/misionesfoto.png)
+
 
 This game mode helps new players start testing the game in a free-to-play (F2P) format. As a player, you will be able to scale up by completing basic missions and earning experience before progressing to other game modes.
 
@@ -300,38 +324,44 @@ This game mode helps new players start testing the game in a free-to-play (F2P) 
 
 ### Player Level
 Your profile will level up as you earn experience, and many features will require a specific minimum level.
+![playerlevelpicture](../../../static/img/playerlevelpic.png)
 
-### Energy
+## Energy
+![energybar](../../../static/img/energypic.png)
+
+
 Players start with 100/100 energy points, which are required to keep playing. The energy bar recovers 1 point every 10 minutes or by using boosts. Luck points also help—players can earn one-time boosts by completing missions, which can be instantly applied or stored if the player owns an Energy Box. Players can trade items that provide energy boosts or buy them from the game store (limited).
 
-### Luck
+## Luck
 Each time players complete tasks or missions, the RNG system calculates their luck and grants rewards if applicable. Some rewards are free, while others are Proof of Participation (PoP). Luck points can also be used to mint new assets that are exclusive to this game mode and depend on the luck factor.
 
-### Influence
+## Influence
 Represents your influence as a captain. More influence means more opportunities, rewards, access to other game modes, challenging missions, and new items. The more influence you have, the greater your share of rewards in missions.
 
-### Training
+## Training
 Players must maintain training to avoid mission failures. As you gain more influence, you may earn less if you neglect training. Make sure your training points are not too far behind your influence points. Think of training points as a way to balance captains who focus solely on increasing influence without investing in their troops.
 
-### Courage
+## Courage
 This additional factor affects some tasks and missions. Captains who ignore training and continuously complete tasks may see a negative impact on reward calculations. When you notice this stat increasing, stop being greedy and train your squad. You can also lower this stat by recruiting more troops, investing in weapons, or minting new assets that provide additional training points.
 
-### Task Multiplier
+## Task Multiplier
 Each task has an internal multiplier. The more times a player completes the same mission, the more difficult it becomes. The counter resets every 24 hours. Repeating the same task too often increases difficulty and reduces rewards. We recommend balancing different daily tasks to avoid negatively impacting your earnings. Use your time and energy strategically.
 
-### Mercenaries
+## Mercenaries
 Temporary troops that follow you randomly during gameplay. Mercenaries can be found by completing basic missions and will stay with your squad for 6-12 hours, temporarily boosting your influence points. The number of mercenaries depends on your luck and influence.
 
-### Experience Potions
+## Experience Potions
 This consumable boosts the experience you earn. Multipliers vary depending on which pill you consume. These items are limited daily in the game store and their availability is based on current player activity, always between 10-30% of active players, depending on item rarity.
 
-### Energy Battery
+## Energy Battery
 There are two types of batteries available in Missions mode during the first game season:
 - **Mini-Battery:** Refills 15 energy points instantly with a 40% drop chance. Cannot be stored.
 - **Battery 🔋:** Fully refills your energy with a 12.48% drop chance. Can be stored if you own an Energy Box. Each Energy Box can store 1 Battery 🔋, and you can apply it by clicking "Use." If your Energy Box is full, the battery will be automatically applied.
 
 ## Energy Box
 This box has the capacity to store one powerful energy battery, allowing you to fully refill your energy points once. If you find a battery and the box is empty, it will be automatically stored. If the box is full, the battery will be automatically used to refill your energy points. You can own as many boxes as you want; more boxes mean more energy can be stored, allowing you to play continuously for longer periods.
+
+[Scroll Up](#)
 
 ## Energy Core
 This item fully recharges your energy once every 24 hours. It can be activated at will and you can have more than one. If you activate the Energy Core at maximum energy, the energy does not stack, you can only have 100 maximum energy, so you would be wasting its use unnecessarily.
@@ -348,6 +378,8 @@ Avatar drop chances from Basic Missions:
 - **Epic:** 0.8% (6 different epic avatars)
 - **Legendary:** 0.16% (4 different legendary avatars)
 - **Mythic:** 0.04% (2 different mythic avatars)
+
+[Scroll Up](#)
 
 > ## How Missions Work
 Complete missions to level up, earn M.Points that convert to $HCASH hourly, and unlock items. Factors such as influence and training points affect your rewards, while luck points allow you to discover items.
@@ -393,6 +425,8 @@ In this mode, you can use the necessary tools and avatars to find resources that
 
 As mentioned above, the resources are the foundation for crafting, building structures, making repairs, and more. However, if you, as an excavator, prefer not to become a craftsman and just want to be paid for completing the job, you can directly sell the resources in the marketplace or to NPCs.
 
+[Scroll Up](#)
+
 ## How Does Excavation Work?
 
 Each resource represents a unique item (fantasy items not tied to reality) with a drop chance, meaning that each time you excavate, the resources you find may vary depending on your avatar’s tools and stats. The lower the drop probability, the more difficult it is to excavate the resource. At the same time, its base cost and circulating supply will be exceptional compared to other resources.
@@ -400,6 +434,8 @@ Each resource represents a unique item (fantasy items not tied to reality) with 
 The strategy revolves around the combination of tools and avatars. Each excavation attempt costs 15 energy points.
 
 Players will receive resources when the excavation is completed. However, depending on luck, sometimes you will find special items instead of resources. These items are exclusively farmed in this game mode and cannot be found in any other game mode.
+
+[Scroll Up](#)
 
 ## Tools and Avatars Statistics for Season One
 
@@ -417,6 +453,8 @@ Avatars function as multipliers for:
 
 - **Base Influence** and **Base Training Points** are used primarily in the missions game mode. Visit the [Basic Missions](#basic-missions) section to learn more about the concepts of influence, training, and avatar drop chances.
 
+[Scroll Up](#)
+
 > # Crafting
 
 One of the main ways to burn assets, create new ones, and improve them.
@@ -426,6 +464,8 @@ All players who reach the required level will unlock the ability to craft new as
 Use this **Crafting Room** to create new items. Each recipe requires different resources and provides you with more stats, making you more powerful. Some items are limited by time, supply, or number of uses.
 
 In this **Crafting Room**, you will find all the information you need. By selecting a recipe, the details will appear on the right side. The **Craft** button will become available if you have all the required resources. If not, the button will remain grayed out.
+
+[Scroll Up](#)
 
 > # List of Achievements
 
@@ -457,6 +497,8 @@ In this **Crafting Room**, you will find all the information you need. By select
 | Daily Conqueror Supreme   | 100 Another Day missions            | 1000 EXP, 400 Influence, Luck +2 |
 | Risk-Taker Extraordinaire  | 100 Risky Job missions             | 1000 EXP, 500 Influence, Luck +2 |
 
+
+[Scroll Up](#)
 ## Limited Achievements
 
 | Quest Name                | Requirement                          | Reward                       |
@@ -471,6 +513,8 @@ In this **Crafting Room**, you will find all the information you need. By select
 | Medal of Glory           | Be among the first 100 players to reach level 200 | 50 Luck Points, 5000 Influence, 100 Training Points |
 
 ## Referral Achievements
+
+[Scroll Up](#)
 
 **Backed by 5M $HCASH Capital**  
 *(Stop after 5M cap reached)*
@@ -494,6 +538,8 @@ In this **Crafting Room**, you will find all the information you need. By select
 | Training Master           | Complete 1000 Trainings              | 2000 EXP, 200 Training Points, Energy Box |
 | Training Legend           | Complete 5000 Trainings              | 2000 EXP, 500 Training Points, Energy Core |
 
+[Scroll Up](#)
+
 ## Stats Achievements
 
 | Quest Name                | Requirement                          | Reward                       |
@@ -509,6 +555,8 @@ In this **Crafting Room**, you will find all the information you need. By select
 | Supreme Influencer        | Reach 10,000 Influence points        | 2000 EXP                     |
 | Legendary Influencer      | Reach 50,000 Influence points        | 5000 EXP                     |
 | Influence Master          | Reach 100,000 Influence points       | 5000 EXP                     |
+
+[Scroll Up](#)
 
 ## Collector Achievements
 
@@ -526,6 +574,8 @@ In this **Crafting Room**, you will find all the information you need. By select
 | Mythic Aspirant           | Acquire the 5th mythic set piece    | 150 Training Points          |
 | Hall of Fame: Guardian    | Collect the 5 pieces of all rarity sets | 500 Training Points, 500 Influence, 10 Luck |
 
+[Scroll Up](#)
+
 ## Bonus Achievements
 
 | Quest Name                | Requirement                          | Reward                       |
@@ -539,6 +589,8 @@ In this **Crafting Room**, you will find all the information you need. By select
 | Recruit Scout VII         | Contract 5000 Recruits              | 250 Recruits, 300 Mercenaries, 50 Influence |
 | Recruit Scout VIII        | Contract 10,000 Recruits            | 1000 Recruits, 50 Training Points, 100 Influence |
 
+[Scroll Up](#)
+
 ## Boost Achievements
 
 | Quest Name                | Requirement                          | Reward                       |
@@ -549,6 +601,7 @@ In this **Crafting Room**, you will find all the information you need. By select
 | Experience Boost IV       | Boost your experience for 24h 5 times | 200 EXP                     |
 | Experience Boost V        | Boost your experience for 6 consecutive days | 100 EXP
 
+[Scroll Up](#)
 
 ## ✅ Social Media
 Follow us on our social media
