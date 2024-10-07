@@ -18,7 +18,7 @@
 
 ### 📃 Whitepapers
 - 📌 [Space Hunters: The Reborn](01-guias-de-usuario/whitepaperesp.md)
-- 📌 [Tech: Generators](/docs/esp/01-guias-de-usuario/whitepaper-generadores.md)
+- 📌 [Tech: Generators](01-guias-de-usuario/whitepaper-generadores.md)
 
 
 
