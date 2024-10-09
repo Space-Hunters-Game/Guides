@@ -15,6 +15,7 @@
   - [Learning How to Play](#learn-how-to-play)
   - [All About Generators](#all-about-generators)
   - [All About Engineers](#engineers)
+  - [All About Consumables](#consumables)
   - [Rewards](#rewards)
   - [Earning $HCREDITs](#earning-hcredit)
   - [Tips and Strategies](#tips-to-maximize-earnings-with-engineers)
@@ -182,6 +183,11 @@ Let’s dive into more details about the generators:
 - You can find friends or partners in the community who own generators and are reliable and active to maximize your chances.
 - The power provided by 1 engineer is 10 Khash.
 
+#### Consumables
+- These are items obtained through gameplay, by completing daily tasks, checking in, and some are purchasable in the game store.
+- They are transferable, marketable, and obviously, usable.
+- These items, as their name suggests, will be consumed upon use and will provide a bonus or effect that will depend on the specific item.
+
 #### Rewards
 - **Total Reward**: The total hourly reward is 353 $HCASH Tokens. This is distributed among generators based on their participation in the combined total power.
 - ##### **Reward Distribution**:
@@ -223,6 +229,7 @@ Everything works automatically without manual intervention by the development te
 - You can assign twice as many engineers as an unsubscribed user.
 - You receive a notification 10 minutes before the store releases more generators.
 - You receive a notification 5 minutes before your generator shuts down.
+- The interval to reactivate your generators changes to 2 hours instead of the established period of 1 hour.
 - You can delegate a user to help you keep your generator running.
 - Generator owners receive an additional 15% on hourly earnings.
 - Engineers you hire charge 5% more per individual payment (+5% per engineer’s payment).
@@ -243,7 +250,7 @@ Explore all options to maximize your rewards and enjoy the game to the fullest!
 
 
 ***
-> This document will get updated while we progress on development, last update october 05/2024
+> This document will get updated while we progress on development, last update October 05/2024
 ***
 
 ## ✅ Social Media

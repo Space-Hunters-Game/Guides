@@ -4,7 +4,7 @@
 
 ## About HCREDIT
 ![hcreditpngbanner](../../../static/img/hcreditpngbanner.png)
-**$HCREDIT** is an off-chain reward token based on the **mass adoption model**. It can only be obtained through **social events**, tasks, or **partnership activities**. Think of it as our **monetization model**, where players can monetize their social networks, gaming channels, content creation and more with no limitations or ridiculous requirments.  This token is not tradable on any exchange and can only be used within the Hunter ecosystem. 
+**$HCREDIT** is an off-chain reward token based on the **mass adoption model**. It can only be obtained through **social events**, tasks, or **partnership activities**. Think of it as our **monetization model**, where players can monetize their social networks, gaming channels, content creation and more with no limitations or ridiculous requirements.  This token is not tradable on any exchange and can only be used within the Hunter ecosystem. 
 
 This is an innovative reward system which convert your participation into a valuable tool to generate you revenues. We continue innovating and adding more use cases and ways to interact with the token and ecosystem, the following list are the current plans and the ones coming very soon:
 
@@ -31,7 +31,7 @@ $HCREDIT is directly sent to the **game wallet**. If a user does **not provide a
 ## Wallet & Username
 **UPDATE:** Your game username is your wallet address in our ecosystem for $HCASH and $HCREDIT tokens, you can add your username right now using the command /username like this : **/username yankieldbc**. After TGE this details will be updated if required for deposits from external wallets.
 
-> You have 2 **free tries**, if you want to make another change you can do so after 24h but this option onpy available to [TechPass](/docs/eng/01-user-guides/generatorsenglish.md/#benefits-of-techpass) members.
+> You have 2 **free tries**, if you want to make another change you can do so after 24h but this option only available to [TechPass](/docs/eng/01-user-guides/generatorsenglish.md/#benefits-of-techpass) members.
 
 
 ## Utility
@@ -101,17 +101,17 @@ Earn **20 $HCREDIT** for daily check-ins and **3% compounded check-in rewards** 
 **This program is named:** *Name the Fav*, members who add "SpaceHunters," "Space Hunters," "Space Hunter," or "SpaceHunter" to their Telegram name will be rewarded daily, with increasing rewards over a 28-day cycle with a scaling payment from 20 $HCREDIT first day and 260 on the 28th day for a total of 2500 $HCREDITs paid. We plan to add some other features to this program in the future.
 
 ## Chat-to-Earn
-**Farming While Chatting:** This concept evolved inoto a Chat Hashrate-Powered system which auto assignn a power rate to yout words determinig how powerful they are and pay you based on the combination of the different linked ambassador chats and official groups. In short, earn extra tokens just by chatting. Do not try to defeat the syste, it is designed to be fair and detect your exploit attempts, intentional abuse attempts may result you in a **permanet blacklist** for this program.
+**Farming While Chatting:** This concept evolved into a Chat Hashrate-Powered system which auto assign a power rate to your words determining how powerful they are and pay you based on the combination of the different linked ambassador chats and official groups. In short, earn extra tokens just by chatting. Do not try to defeat the system, it is designed to be fair and detect your exploit attempts, intentional abuse attempts may result you in a **permanent blacklist** for this program.
 
 ### Buying $HCREDIT with $HCASH
 
 You can purchase $HCREDIT with $HCASH. The exchange rate is subject to **fluctuations** and is only focused on help you to get additional tokens to complete your needed balance for specific activities before the economy get reset.
 
 ## Earning $HCASH with my $HCREDIT tokens
-Spend your $HCREDIT tokens playin in Tech: Generators game to earn $HCASH every hour, Read full guide [Generators Guide](/).
+Spend your $HCREDIT tokens playing in Tech: Generators game to earn $HCASH every hour, Read full guide [Generators Guide](/).
 
 ***
-> This document will get updated while we progress on development, last update october 05/2024
+> This document will get updated while we progress on development, last update October 05/2024
 ***
 
 ## ✅ Social Media

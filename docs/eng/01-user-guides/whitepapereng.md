@@ -130,7 +130,7 @@ We believe a **fair launch** is closest to the concept we are striving for. The 
 The supply allocated for gaming rewards is distributed among both released and upcoming game modes with prior planning. Each game mode will be backed by a **10-year allocation**.
 
 ## Daily Allocation
-Tokens are pre-calculates to be Allocated and extracted by gamers. Rewards are calculated based on the gamers participation, in short, it works like shares, more powerful the player ir more shares it will earn, plus additional rewards by meeting different criteria depending the game is playing and other requirments or by owning a special pass like HunterPass, Earlypass, SpyPass etc... 
+Tokens are pre-calculates to be Allocated and extracted by gamers. Rewards are calculated based on the gamers participation, in short, it works like shares, more powerful the player ir more shares it will earn, plus additional rewards by meeting different criteria depending the game is playing and other requirements or by owning a special pass like HunterPass, Earlypass, SpyPass etc... 
 
 ## What is the Innovation Strategy?
 We have big plans and a broad vision. As technology and trends evolve, we aim to keep a portion of $HCASH to adapt to changes and create new products that support our planned strategy and released products.

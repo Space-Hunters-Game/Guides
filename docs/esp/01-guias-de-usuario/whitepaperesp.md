@@ -240,7 +240,7 @@ Estamos comprometidos a proteger los activos de los jugadores y coleccionistas d
 
 Cuando los usuarios quieran listar un artículo, se cobrará una pequeña tarifa. Si el jugador tiene la intención genuina de vender el artículo, esta tarifa es mínima en comparación con la protección que proporciona para el valor del activo. Esto se llama **Anti-Precio-Bajo (APD)**. APD es una medida de seguridad diseñada para prevenir caídas de precios causadas por competencia innecesaria, BOTs que intencionalmente bajan los precios y otras acciones dañinas de jugadores negativos.
 
-Cuanto más un usuario liste, elimine y reliste un artículo, más tarifas pagará continuamente. Esta estrategia tiene como objetivo desincentivar comportamientos negativos al agotar los fondos del usuario si intenta explotar el sistema.
+Cuanto más un usuario liste, elimine y realiste un artículo, más tarifas pagará continuamente. Esta estrategia tiene como objetivo desincentivar comportamientos negativos al agotar los fondos del usuario si intenta explotar el sistema.
 
 Es simple: lista tu artículo cuando estés verdaderamente listo para venderlo. No hay tarifas dobles; la tarifa se divide en una pequeña porción para prevenir abusos de listado, con el resto aplicado cuando se realiza la venta.
 
@@ -540,7 +540,7 @@ Los logros secretos, eventos y logros por tiempo limitado no están incluidos; e
 | Cazador Legendario         | Completar un set de equipo legendario (4 piezas) | 80 Puntos de Entrenamiento   |
 | Conquistador Mítico        | Completar un set de equipo mítico (4 piezas) | 200 Puntos de Entrenamiento  |
 | Coleccionista Completista   | Adquirir la 5ª pieza de set común    | 5 Puntos de Entrenamiento    |
-| Persiguidor Raro           | Adquirir la 5ª pieza de set raro      | 10 Puntos de Entrenamiento   |
+| Perseguidor Raro           | Adquirir la 5ª pieza de set raro      | 10 Puntos de Entrenamiento   |
 | Logrador Épico            | Adquirir la 5ª pieza de set épico     | 20 Puntos de Entrenamiento   |
 | Búsqueda Legendaria        | Adquirir la 5ª pieza de set legendario | 60 Puntos de Entrenamiento   |
 | Aspirante Mítico           | Adquirir la 5ª pieza de set mítico    | 150 Puntos de Entrenamiento  |
