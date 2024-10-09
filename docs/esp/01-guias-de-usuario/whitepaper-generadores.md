@@ -14,6 +14,7 @@
   - [Aprendiendo a Jugar](#aprende-cómo-jugar)
   - [Todo sobre Generadores](#todo-sobre-generadores)
   - [Todo sobre Ingenieros](#ingenieros)
+  - [Todo sobre Consumibles](#consumibles)
   - [Recompensas](#recompensas)
   - [Ganando $HCREEDITs](#ganar-hcredit)
   - [Sugerencias y Estrategias](#sugerencias-para-maximizar-ganancias-con-ingenieros)
@@ -185,6 +186,12 @@ Interioricemos mas sobre el tema de los generadores un poco mas a detalle:
 - Puedes encontrar en la comunidad amigos o compañeros que tengan generadores y sean confiables y activos para maximizar tus posibilidades.
 - La potencia proporcionada por 1 ingeniero es de 10 Khash
 
+
+#### Consumibles
+- Son artículos que se obtienen jugando, mediante la realización de tareas diarias, haciendo check-in y algunos son comprables en la tienda del juego
+- Son transferibles, comercializables y obviamente, usables
+- Estos artículos como bien su nombre lo indica, se consumirán tras su uso y nos brindarán un bono o efecto el cual dependerá del objeto en cuestión
+
 #### Recompensas
 - **Recompensa Total**: La recompensa total por hora es de 353 $HCASH Tokens. Esta se distribuye entre los generadores según su participación en el poder total combinado.
 - ##### **Distribución de Recompensas**:
@@ -226,6 +233,7 @@ Todo funciona automático y sin intervención manual por parte del equipo de des
 - Puedes asignar el doble de ingenieros que un usuario no suscrito. 
 - Recibes una notificación 10 minutos antes de que la tienda ponga disponible mas generadores.
 - Recibes notificación 5 minutos antes de que tu generador se apague.
+- El intervalo para reactivar tus generadores pasa a ser de 2 horas en lugar del período establecido de 1 hora
 - Puedes delegar un usuario para que te ayude a mantener tu generador encendido.
 - Los propietarios de generadores reciben 15% adicional en las ganancias por hora.
 - Los ingenieros que contratas cobran 5% adicional del pago individual (+5% del pago de cada ingeniero)
