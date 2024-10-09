@@ -243,7 +243,7 @@ Explore all options to maximize your rewards and enjoy the game to the fullest!
 
 
 ***
-> This document will get updated while we progress on development, last update october 05/2024
+> This document will get updated while we progress on development, last update October 05/2024
 ***
 
 ## ✅ Social Media

@@ -8,7 +8,7 @@
 
 # 📱 HUB Mini-App: Guía completa
 
-Antes de comenzar, nos gustaria dejar claro que no necesitas descargar ninguno de nuestros juegos y tampoco instalar ninguna aplicación adicional, solo tener Telegram en un dispositivo ( cualquier dispositivo que soporte Telegram App)
+Antes de comenzar, nos gustaría dejar claro que no necesitas descargar ninguno de nuestros juegos y tampoco instalar ninguna aplicación adicional, solo tener Telegram en un dispositivo ( cualquier dispositivo que soporte Telegram App)
 
 🔘 Resumen y primeros pasos
   - [¿Por qué una Mini-App?](#por-qué-una-mini-app)
@@ -17,7 +17,7 @@ Antes de comenzar, nos gustaria dejar claro que no necesitas descargar ninguno d
   - [¿Cómo se generan los $HCREDIT?](#cómo-se-generan-los-hcredit)
   - [¿Qué es el Hunters Gaming Ecosystem?](#qué-es-el-hunters-gaming-ecosystem)
   
-🔘 Barra de Navegacion
+🔘 Barra de Navegación
   - [Menú](#hub-guía-paso-a-paso)
   - [Catálogo](#catálogo)
   - [Transacciones Off-Chain](#transacciones-offchain)
@@ -37,9 +37,9 @@ Antes de comenzar, nos gustaria dejar claro que no necesitas descargar ninguno d
   - [Link de Referidos](#link-de-referidos)
   - [Juegos y Estadísticas](#juegos-jugados-y-estadísticas)
 
-🔘 Seccion: Historial de Transacciones
+🔘 Sección: Historial de Transacciones
   - [Botones Superiores](#botones-superiores)
-  - [Filtros y Navegacion](#filtros-y-navegación)
+  - [Filtros y Navegación](#filtros-y-navegación)
   - [Detalles de Transacciones](#detalles-de-las-transacciones)
   
 🔘 Tareas de Compromiso Diario
@@ -49,18 +49,18 @@ Antes de comenzar, nos gustaria dejar claro que no necesitas descargar ninguno d
   
 🔘 Tabla de Clasificación
   - [Tipos de Clasificación](#)
-  - [Planes para la clsificación](#)
+  - [Planes para la clasificación](#)
   
-🔘 Seccion: Historial de Transacciones
+🔘 Sección: Historial de Transacciones
   - [Botones Superiores](#)
   - [Filtros y Navegacion](#)
   - [Detalles de Transacciones](#)
   
-🔘 Seccion: Tareas Sociales
+🔘 Sección: Tareas Sociales
   - [Tipos de Tareas](#)
   - [Ventajas al Completar Tareas](#)
  
-🔘 Seccion: Mini Tienda e Inventario
+🔘 Sección: Mini Tienda e Inventario
   - [¿Por qué una Mini-tienda?](#)
   - [Tipos de ofertas](#)
   - [¿Cómo abrir mis Cajas o Paquetes?](#)
@@ -68,7 +68,7 @@ Antes de comenzar, nos gustaria dejar claro que no necesitas descargar ninguno d
   - [¿Qué items puedo ver en el inventario?](#)
   - [¿Que puedo hacer en el inventario?](#)
    
-🔘 Seccion: Catálogo de Juegos
+🔘 Sección: Catálogo de Juegos
   - [¿Por qué un catálogo?](#)
   - [Tipos de juegos](#)
 
