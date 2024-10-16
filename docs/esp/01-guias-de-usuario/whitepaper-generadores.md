@@ -14,6 +14,7 @@
   - [Aprendiendo a Jugar](#aprende-cómo-jugar)
   - [Todo sobre Generadores](#todo-sobre-generadores)
   - [Todo sobre Ingenieros](#ingenieros)
+  - [Proceso de Encendido](#proceso-de-encendido)
   - [Todo sobre Consumibles](#consumibles)
   - [Recompensas](#recompensas)
   - [Ganando $HCREEDITs](#ganar-hcredit)
@@ -186,6 +187,16 @@ Interioricemos mas sobre el tema de los generadores un poco mas a detalle:
 - Puedes encontrar en la comunidad amigos o compañeros que tengan generadores y sean confiables y activos para maximizar tus posibilidades.
 - La potencia proporcionada por 1 ingeniero es de 10 Khash
 
+#### Proceso de Encendido
+- Los propietarios de generadores deberán mantenerlo encendido para que genere ganancias tanto para ellos como para los ingenieros ubicados en sus generadores, para esto deberán seguir un ciclo que consta de 3 tipos de activaciones:
+
+  - **Activación corta**: las primeras 8 activaciones tendrán un intervalo de duración de de 65 minutos, tras las cuales procederán 2 activaciones medias
+  - **Activación media**: estas activaciones tienen una duración de 125 minutos de duración y serán procedidas de 1 activación larga
+  - **Activación larga**: última activación del ciclo con una duración de 670 minutos (11 horas y 10 minutos), luego de esta activación comienza nuevamente el ciclo con las 8 activaciones cortas
+
+- Dado que el ciclo dura en su totalidad 24 horas, siempre que se sea constante con las activaciones, debería comenzar y terminar todos los días en el mismo horario
+- El pago del generador durante la activación larga disminuye a un 25% del pago original, a no ser que seas poseedor de [TechPass](#ventajas-del-techpass) en cuyo caso mantienes el 100% de las ganancias
+- Cada activación del generador tiene un pequeño costo de 10 $HCREDIT
 
 #### Consumibles
 - Son artículos que se obtienen jugando, mediante la realización de tareas diarias, haciendo check-in y algunos son comprables en la tienda del juego
@@ -233,7 +244,7 @@ Todo funciona automático y sin intervención manual por parte del equipo de des
 - Puedes asignar el doble de ingenieros que un usuario no suscrito. 
 - Recibes una notificación 10 minutos antes de que la tienda ponga disponible mas generadores.
 - Recibes notificación 5 minutos antes de que tu generador se apague.
-- El intervalo para reactivar tus generadores pasa a ser de 2 horas en lugar del período establecido de 1 hora
+- Aumenta la ganancia en el tiempo de reactivación largo del generador al 100% (pago completo).
 - Puedes delegar un usuario para que te ayude a mantener tu generador encendido.
 - Los propietarios de generadores reciben 15% adicional en las ganancias por hora.
 - Los ingenieros que contratas cobran 5% adicional del pago individual (+5% del pago de cada ingeniero)
