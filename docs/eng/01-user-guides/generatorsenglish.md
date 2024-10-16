@@ -15,12 +15,13 @@
   - [Learning How to Play](#learn-how-to-play)
   - [All About Generators](#all-about-generators)
   - [All About Engineers](#engineers)
+  - [Startup Process](#startup-process)
   - [All About Consumables](#consumables)
   - [Rewards](#rewards)
   - [Earning $HCREDITs](#earning-hcredit)
-  - [Tips and Strategies](#tips-to-maximize-earnings-with-engineers)
-  - [Game Economy](#impact-and-balance-of-the-economy)
-  - [TechPass: Advantages](#advantages-of-the-techpass)
+  - [Tips and Strategies](#tips-to-maximize-engineer-earnings)
+  - [Game Economy](#economic-impact-and-balance)
+  - [TechPass: Advantages](#benefits-of-techpass)
   - [Tokenomics](#tokenomics)
   - [Conclusion](#conclusion)
 
@@ -183,6 +184,17 @@ Let’s dive into more details about the generators:
 - You can find friends or partners in the community who own generators and are reliable and active to maximize your chances.
 - The power provided by 1 engineer is 10 Khash.
 
+#### Startup Process
+- Generator owners must keep it running to generate profits for both themselves and the engineers located at their generators, for which they must follow a cycle that consists of 3 types of activations:
+
+  - **Short Activation**: The first 8 activations will have an interval duration of 65 minutes, after which 2 medium activations will follow
+  - **Medium Activation**: These activations have a duration of 125 minutes and will be followed by 1 long activation
+  - **Long Activation**: The last activation of the cycle with a duration of 670 minutes (11 hours and 10 minutes), after which the cycle begins again with 8 short activations
+
+- Since the cycle lasts a total of 24 hours, as long as you are consistent with the activations, it should start and end every day at the same time
+- The generator's payment during the long activation decreases to 25% of the original payment, unless you are a [TechPass](#benefits-of-techpass) holder, in which case you maintain 100% of the earnings
+- Each generator activation has a small cost of 10 $HCREDIT
+
 #### Consumables
 - These are items obtained through gameplay, by completing daily tasks, checking in, and some are purchasable in the game store.
 - They are transferable, marketable, and obviously, usable.
@@ -229,7 +241,7 @@ Everything works automatically without manual intervention by the development te
 - You can assign twice as many engineers as an unsubscribed user.
 - You receive a notification 10 minutes before the store releases more generators.
 - You receive a notification 5 minutes before your generator shuts down.
-- The interval to reactivate your generators changes to 2 hours instead of the established period of 1 hour.
+- Increases profit during the long generator reactivation time to 100% (full payment).
 - You can delegate a user to help you keep your generator running.
 - Generator owners receive an additional 15% on hourly earnings.
 - Engineers you hire charge 5% more per individual payment (+5% per engineer’s payment).
