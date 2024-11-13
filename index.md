@@ -18,7 +18,7 @@
 ### 📃 Whitepapers
 - 📌 [Space Hunters: The Reborn](/docs/eng/01-user-guides/whitepapereng.md)
 - 📌 [Tech: Generators](/docs/eng/01-user-guides/generatorsenglish.md)
-- 📌 [Alchemy Chat-Game](/docs/eng/blog/alchemyguide.md)
+- 📌 [Alchemy Chat Game](/docs/eng/blog/alchemyguide.md)
   
 
 ****
