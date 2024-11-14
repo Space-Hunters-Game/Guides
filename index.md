@@ -15,6 +15,7 @@
 - 📌 [$CASH 1M Reward Pool!](/docs/eng/announcements/hcashpooleng.md)👈
 - 📌 [Energy Box Drop](/docs/eng/announcements/energy-box-drop.md)
 - 📌 [Sticker Pack](/docs/eng/announcements/sticker-pack.md)
+- 📌 [$HCASH Token](/docs/eng/announcements/HCASH_Summary_EN.md)
 ### 📃 Whitepapers
 - 📌 [Space Hunters: The Reborn](/docs/eng/01-user-guides/whitepapereng.md)
 - 📌 [Tech: Generators](/docs/eng/01-user-guides/generatorsenglish.md)

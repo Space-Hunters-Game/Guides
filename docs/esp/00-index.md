@@ -15,7 +15,7 @@
 ### 📣 Anuncios
 - 📌 [$HCASH Pool de Recompensa](anuncios/hcashpool.md)🎁
 - 📌 [Drop de caja de energía](anuncios/energy-box-drop.md)
-
+- 📌 [Token $HCASH](anuncios/HCASH_Summary_ES.md)
 ### 📃 Whitepapers
 - 📌 [Space Hunters: The Reborn](01-guias-de-usuario/whitepaperesp.md)
 - 📌 [Tech: Generators](01-guias-de-usuario/whitepaper-generadores.md)
