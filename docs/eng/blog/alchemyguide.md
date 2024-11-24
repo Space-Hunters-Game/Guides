@@ -113,16 +113,52 @@ If you are new in the Hunter Gaming Ecosystem, upon opening [HUB App ](https://t
 
 ## 7. Premium Features
 
-### **Subscription Pass**
+### **Subscription Pass: Adventurer Pass**
 - Purchase a monthly pass to access premium benefits:
-  - Increased element drop rates.
-  - Exclusive access and disscounts to superior elements and materials from store.
+  - Increased item spawn rates.
+  - Every discovered item is doubled.
+  - Exclusive access and discounts on superior items and materials in the store.
   - Reduced crafting fee to 1 HCREDIT.
-  - Increased materials drop rate and chance.
-  - 40% chance to trigger a claim multiplier up to 5x
-  - 100% Combination or craft chances in the first 2 attempts (daily).
-  - 25% chance to get an additional item when combining elements or crafting.
-  - 25% chance to recover back one ingredient.
+  - Increased material appearance rate.
+  - Up to a 40% chance to activate a collection multiplier of up to 5x.
+  - 15% chance to obtain an additional item when combining or crafting.
+  - 15% chance to recover an ingredient.
+  - 1 gift item for every 10 found by your Premium referrals and 1 additional item for every 40 found by your referrals' referrals (must be Premium).
+  - Premium pool to sell items (swap) and earn profits. Selling and trading items is only possible in groups of 100 identical units.
+  - You can repeat the same recipe much more than non-premium users. Limits are subject to the recipe type.
+  - Cost-free expeditions.
+  - Priority in **special expeditions**.
+  - Premium Expeditions (For Hunters committed to the Command Center).
+
+### **Advantages and Limitations for Free-to-Play Users**
+
+#### **Limitations**
+  - Limited crafting (The daily or weekly amount depends on the recipe).
+  - Selling of basic and superior items is limited to the Free-to-Play user pool.
+  - Marketplace fee is 8%.
+  - Expeditions have a low material appearance rate.
+  - On-demand entries in **special expeditions**. If there is a user limit within the time frame, Premium users have priority even if you enter first. If necessary, your spot will be replaced by a Premium user, and you will not be able to participate if all slots are filled.
+  - You cannot participate in Premium expeditions (For Hunters committed to the Command Center).
+
+#### **Benefits**
+  - You can collect (farm) **$HCREDIT** tokens and **basic elements** **for free** just by participating in official and associated chats.
+  - Use $HCREDIT tokens to play [Tech: Generators](/docs/eng/01-user-guides/generatorsenglish.md), one of our Free-to-Play games, and earn the main game currency $HCASH.
+  - The basic elements you collect can be used to create superior elements.
+  - Participate in basic expeditions that are open to all users.
+  - Trade basic elements directly for $HCASH or exchange them with other users.
+  - No entry barriers to the project; start collecting elements and tokens immediately and scale within the project and games.
+  - Receive welcome gifts in our HUB App that you can use to play the games right away.
+
+### **Boosters**
+- Boosters can temporarily increase your element collection rate, crafting success, or EXP gain.
+
+### **Superior Elements (Tiers)**
+- **Tier 1:** Basic Elements
+- **Tier 2:** Elements from 2 combinations
+- **Tier 3:** Elements from 3 combinations
+- **Tier 4:** Elements from 4 combinations
+- **Tier 5:** Elements from 5 combinations
+---
 
 ### **Boosters**
 - Boosters can temporarily increase your element collection rate, crafting success, or EXP gain.

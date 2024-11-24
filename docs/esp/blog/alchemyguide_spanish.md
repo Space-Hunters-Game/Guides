@@ -24,6 +24,7 @@ Dónde puedes jugarlo? En cualquier chat que tenga nuestro BOT agregado, es un j
 7. [Características Premium](#7-características-premium)
 8. [Moneda del Juego y Monetización](#8-moneda-del-juego-y-monetización)
 9. [Estrategias para el Éxito](#9-estrategias-para-el-éxito)
+10. [Entrada Free-To-Play](#9-estrategias-para-el-éxito)
 
 ---
 
@@ -115,20 +116,53 @@ Si eres nuevo en el Ecosistema de Hunter Gaming, al abrir [la app HUB](https://t
 
 ## 7. Características Premium
 
-### **Pase de Suscripción**
+### **Pase de Suscripción: Adventurer Pass**
 - Compra un pase mensual para acceder a beneficios premium:
   - Aumento en las tasas de aparición de elementos.
+  - Cada elemento descubierto lo obtienes x2
   - Acceso exclusivo y descuentos para elementos y materiales superiores en la tienda.
   - Reducción de la tarifa de creación a 1 HCREDIT.
   - Aumento de la tasa de aparición de materiales.
-  - 40% de probabilidad de activar un multiplicador de recolección hasta 5x.
-  - 100% de probabilidades de combinación o creación en los primeros 2 intentos diarios.
-  - 25% de probabilidad de obtener un elemento adicional al combinar o crear.
-  - 25% de probabilidad de recuperar un ingrediente.
+  - Hasta 40% de probabilidad de activar un multiplicador de recolección hasta 5x.
+  - 15% de probabilidad de obtener un elemento adicional al combinar o crear.
+  - 15% de probabilidad de recuperar un ingrediente.
+  - 1 Elemento de regalo por cada 10 encontrados por tus referidos Premium y 1 adicional por cada 40 encontrados por los referidos de tus referidos (deben ser premium)
+  - Pool premium para vender elementos (swap) y obtener ganancias. Para vender y tradear elementos solo se puede en grupos de 100 unidades iguales.
+  - Puedes repetir la misma receta mucho mas que los usuarios no premium. Los límites estan sujetos al tipo de receta.
+  - Expediciones sin coste.
+  - Prioridad en **expediciones especiales**. 
+  - Expediciones Premium ( Para Cazadores comprometidos con el Centro de Mando)
+
+
+### **Ventajas y Limitaciones para usuarios Free-to-Play**
+
+#### **Limitaciones**
+  - Crafting limitado ( La cantidad diaria o semanal depende de la receta)
+  - Venta de elementos basicos y superiores limitada a la pool de usuarios Free-to-Play.
+  - Fee de mercado en 8% ( Marketplace)
+  - Expediciones con baja tasa de apacición de materiales.
+  - Entradas On-Demand en **expediciones especiales**. Es decir, si tiene limite de usuarios, dentro del plazo de tiempo los premium tienen prioridad incluso si entras primero y de ser necesario se reemplaza tu puesto por uno premium y no podrás participar en la expedición si se cubren los espacios.
+  - No puedes participar en expediciones premium (Para Cazadores comprometidos con el Centro de Mando)
+#### **Beneficios**
+   - Puedes coleccionar (Farmear) monedas (Tokens) **$HCREDIT** y **elementos basicos** **gratuitamente** solo por escribir en los chats oficiales y asociados.
+   - Puedes usar las monedas(Tokens) $HCREDIT para jugar [Tech: Generators](/docs/esp/01-guias-de-usuario/whitepaper-generadores.md), uno de nuestros juegos Free-to-Play y obtener la moneda principal del juego $HCASH.
+   - Los elementos basicos que recolectas puedes usarlos para crear elementos superiores.
+   - Puedes participar en expediciones basicas que son para todos los usuarios.
+   - Los elementos basicos puedes intercambiarlos directamente por $HCASH o pueder comercializar con otros usuarios.
+   - No tienes barreras de entrada al proyecto, puedes comenzar a recolectar elementos y monedas de inmediato e ir escalando en el proyecto y los juegos.
+   - Tienes regalos de bienvenida en nuestra HUB App, que puedes usar para jugar en los juegos innmediatamente.
+   
+
 
 ### **Potenciadores**
 - Los potenciadores pueden aumentar temporalmente tu tasa de recolección de elementos, éxito en la creación o ganancia de EXP.
 
+### **Elementos Superiores (Tiers)**
+- **En el Tier 1:** Elementos Básicos
+- **En el Tier 2:** Elementos a partir de 2 combinaciones
+- **En el Tier 3:** Elementos a partir de 3 combinaciones
+- **En el Tier 4:** Elementos a partir de 4 combinaciones
+- **En el Tier 5:** Elementos a partir de 5 combinaciones
 ---
 
 ## 8. Moneda del Juego y Monetización
