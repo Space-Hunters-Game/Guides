@@ -27,11 +27,10 @@ Este es un sistema de recompensas innovador que convierte tu participación en u
 $HCREDIT se envía directamente a la **cartera del juego**. Si un usuario no proporciona una **cartera de juego** o si la dirección de la cartera proporcionada es **incorrecta**, la recompensa **no se distribuirá** y se **quemará** automáticamente. Siempre hay un **plazo** para este proceso, junto con un **anuncio** que detalla los pasos a seguir.
 
 ## Cartera y Nombre de Usuario
-**ACTUALIZACIÓN:** Tu nombre de usuario en el juego es tu dirección de cartera en nuestro ecosistema para los tokens $HCASH y $HCREDIT. Puedes agregar tu nombre de usuario ahora mismo usando el comando /username de esta manera: **/username yankieldbc**. Después del TGE, estos detalles se actualizarán si es necesario para depósitos desde carteras externas.
+**ACTUALIZACIÓN:** Tu usuario de Telegram y tu ''Nick'' en nuestra HUB App es tu dirección de cartera en nuestro ecosistema para los tokens $HCASH y $HCREDIT. Tu nick name se establece al abrir la app por primera vez.
 
 [Subir al índice](#)
 
-> Tienes 2 **intentos gratuitos**, si quieres hacer otro cambio puedes hacerlo después de 24h, pero esta opción solo está disponible para los miembros de [TechPass](/docs/esp//01-guias-de-usuario/whitepaper-generadores.md/#ventajas-del-techpass).
 
 ## Utilidad
 
@@ -53,8 +52,7 @@ $HCREDIT está basado en el **modelo de adopción masiva** con un **sistema defl
 - **Asignación de Suministro**: 100% Recompensas para la Comunidad
 - **Mecanismo de Quema**:
   - Cada token gastado se **quema**.
-  - Los **tokens no reclamados** (después de 15 días) se queman.
-  - $HCREDIT no es un token de retención; después de un **período de 45 días**, todos los tokens se queman, reiniciando la economía de $HCREDIT **cada 45 días**.
+  - $HCREDIT no es un token de retención; después de un **período de 45 días**, todos los tokens se queman, reiniciando la economía de $HCREDIT **cada 45 días**, debes de emplearlos en jugar y obtener $HCASH como principal propósito.
 
 Cuando se distribuye $HCREDIT vía **airdrop o actividades del sistema**, y un miembro no tiene **cuenta de juego** al momento de la distribución, los tokens se **queman** y no pueden ser reclamados ni reembolsados. Siempre anunciamos los **plazos**, por lo que es **responsabilidad** del miembro mantenerse informado o pedir ayuda antes de la fecha límite.
 
@@ -78,26 +76,22 @@ $HCREDIT se puede ganar de las siguientes maneras:
 - **Holding $HCASH**: Di adiós a los antiguos sistemas de Staking, vamos a lanzar un sistema de Staking innovador con tokens $HCASH para ganar más $HCREDIT.
 - **Logros**: Completar logros puede otorgar recompensas, algunas de las cuales incluyen $HCREDIT. (Nota: No todos los logros proporcionan $HCREDIT).
 - **Interacciones con el Proyecto o Socios**: Participa en eventos y actividades seleccionados para ganar recompensas.
+- **Tareas Diarias**: Completa las tareas de la sección diaria, es decir tareas que puedes completar todos los días y obtener gratuitamente tus tokens para jugar.
+- **Tareas Sociales**: Completa las tareas en la sección social. Son tareas que puedes completar una sola vez, apoyando al proyecto crecemos todos y tambien obtienes recompensa por tu apoyo.
+
+**Nota:** Actualmente siendo activo con las tareas diarias puedes obtener mas de 10,000 tokens al mes.
 
 ## **Registro Diario** 
-Gana **20 $HCREDIT** por registros diarios y **3% de recompensas compuestas** durante un ciclo de 30 días si te registras durante 29 días consecutivos. Esto significa que el día 1 ganarás 20 $HCREDIT, y a partir del día 2, comenzará el efecto compuesto. Si pierdes un día, el ciclo se reinicia.
+Gana **$HCREDIT** por registros diarios y **multiplica tu recompensa diaria** durante un ciclo de 28 días. Esto significa que el día 1 ganarás 100 $HCREDIT, y a partir del día 2, comenzará el efecto de la constancia llegando a generar mas de 3000 en un mes por solo 1 click al día! Si pierdes un día, el ciclo se reinicia.
 
 ## **Referir Amigos**
-**300 $HCREDIT** para tu amigo y **100 $HCREDIT** para ti. Además, ganarás **4 $HCREDIT** cada día cuando tus amigos se registren, y **1 $HCREDIT** cada día si tus amigos refieren a otros que se registren.
+**1000 $HCREDIT** para tu amigo y **500 $HCREDIT** para ti. Además, ganarás **4 $HCREDIT** cada día cuando tus amigos se registren, y **1 $HCREDIT** cada día si tus amigos refieren a otros que se registren.
 
 ## Tareas
 - **Tareas Sociales**: Completa tareas sociales para ganar $HCREDIT. La cantidad varía según el evento.
 - **Tareas Diarias Limitadas**: Completa tareas limitadas que se reinician diariamente para maximizar tus ganancias.
 
 [Subir al índice](#)
-
-## Transacciones On-Chain
-> Gana $HCREDIT **enfriando motores sobrecalentados**. Puedes elegir entre las siguientes opciones:
-
-- Cada **45 minutos**: Gana **5 $HCREDIT** (On-Chain).
-- Cada **3 horas**: Gana **10 $HCREDIT** (On-Chain).
-
-*El gas on-chain puede ser cubierto por socios de blockchain, y pueden ofrecerse recompensas adicionales por parte de socios. En algunos casos, puede estar disponible el doble-farming.*
 
 ## Space Hunters en tu Nombre de Telegram
 **Este programa se llama:** *Name the Fav*, los miembros que añadan "SpaceHunters", "Space Hunters", "Space Hunter" o "SpaceHunter" a su nombre de Telegram serán recompensados diariamente, con recompensas crecientes durante un ciclo de 28 días con un pago escalado de 20 $HCREDIT el primer día y 260 el día 28, para un total de 2500 $HCREDITs pagados. Planeamos añadir algunas otras características a este programa en el futuro.
@@ -107,7 +101,7 @@ Gana **20 $HCREDIT** por registros diarios y **3% de recompensas compuestas** du
 
 ### Comprar $HCREDIT con $HCASH
 
-Puedes comprar $HCREDIT con $HCASH. La tasa de cambio está sujeta a **fluctuaciones** y solo está enfocada en ayudarte a obtener tokens adicionales para completar tu saldo necesario para actividades específicas antes de que la economía se reinicie.
+Puedes comprar $HCREDIT con $HCASH. La tasa de cambio está sujeta a **fluctuaciones** y solo está enfocada en ayudarte a obtener tokens adicionales para completar tu saldo necesario para actividades específicas antes de que la economía se reinicie. (No disponible aún)
 
 ## Ganando $HCASH con mis tokens $HCREDIT
 Gasta tus tokens $HCREDIT en el juego de Generadores para ganar tokens $HCASH por hora, si quieres aprender sobre este juego lee esta guía completa sobre nuestro juego Tech Generators. [Generadores: Guía Completa](/docs/esp/01-guias-de-usuario/whitepaper-generadores.md).

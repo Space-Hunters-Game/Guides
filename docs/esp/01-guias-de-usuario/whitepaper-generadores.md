@@ -1,4 +1,4 @@
-![genbanner](../../../static/img/GeneratorsBanner.jpg)
+![genbanner](../../../static/img/techbanner001.jpg)
 [Volver al Índice](../../../index.md)
 
 # Juego: Tech Generators
@@ -30,11 +30,12 @@
 Este es un modo de juego **Free-to-Play** que recompensa a la comunidad por su interacción social, actividades diarias y también por invitar amigos. La actividad diaria de tus amigos referidos te otorga bonificaciones adicionales, hasta dos niveles de referencia y no es obligatorio tener ''referidos'' ni tampoco tu desempeño depende de ello.
 
 > ## Concepto y Objetivo 
-Este juego tiene como objetivo principal la adopción masiva de diferentes comunidades y recompensar el esfuerzo colectivo e individual de los gamers e influencers que buscan monetizar su contenido y brindamos a sus comunidades un incentivo para que apoyen y se involucren mas activamente. Esta recompensa es el token $HCREDIT que pueden acumular y convertir en $HCASH (nuestra criptomoneda) jugando al juego de Tech Generators, el cual paga cada 60 minutos una distribución perfectamente calculada por 10 años consecutivos convirtiéndose en un sistema de monetización para todos y sin requisitos absurdos además de un sistema deflacionario perfecto que te explicaremos mas abajo en este documento. Solo debes crear tu cuenta en nuestra app y comenzar a acumular tokens.
+SH es un proyecto innovador que combina elementos de Web2, Blockchain y Web3 para ofrecer una experiencia de juego inclusiva y sostenible. Con un modelo Play-to-Earn, los jugadores pueden ganar tokens ($HCREDIT y $HCASH) y poseer activos auténticos como NFT y recursos intercambiables. Diseñado para atraer tanto a gamers estratégicos y casuales, SH incluye modos de juego variados, sistemas de progresión y mecánicas de colaboración, fomentando el compromiso a largo plazo. Además, es accesible de forma gratuita con opciones de monetización opcionales y herramientas de entrada simples, como una mini-app de Telegram, eliminando barreras y conectando fácilmente a los usuarios con el mundo del proyecto.
+
 
 > ## Para iniciar:
 Antes que nada
-Solo tienes que hacer clic en **Check-in** una vez al dia para ganar $HCREDIT, además, enfriar generadores durante 45 minutos o 3 horas (180 min) te dará más $HCREDIT adicionales. Pueden leer nuestra guía completa sobre cómo farmear $HCREDIT aquí : [Guía de Farmeo de HCREDIT](/docs/esp/01-guias-de-usuario/hcreditguiacompleta.md)
+Solo tienes que hacer clic en **Check-in** una vez al dia para ganar $HCREDIT a demás de otros beneficios adicionales y puedes completar tareas diarias que te dará más $HCREDIT adicionales. Pueden leer nuestra guía completa sobre cómo farmear $HCREDIT aquí : [Guía de Farmeo de HCREDIT](/docs/esp/01-guias-de-usuario/hcreditguiacompleta.md)
 
 
 Gana suficientes $HCREDIT para comprar generadores en la tienda del juego. La disponibilidad varía según la demanda, ¡intenta conseguir algunos rápidamente!
@@ -42,8 +43,6 @@ Gana suficientes $HCREDIT para comprar generadores en la tienda del juego. La di
 Si no puedes ganar suficientes $HCREDIT para comprar un generador, puedes gastar tus tokens contratando Ingenieros en un generador específico con capacidad disponible.
 
 Los Ingenieros expiran después de 24 horas. No dejes de ganar $HCREDIT para poder contratar más Ingenieros y ponerlos a trabajar para ti generando ingresos pasivos por hora.
-
-Si posees generadores, tu único trabajo es activarlos haciendo clic cada hora en el botón "Start All". Todos los generadores comenzarán a trabajar con un solo clic.
 
 $HCREDIT es fundamental para mantener los ingresos fluyendo en este sencillo modo de juego.
 
@@ -70,25 +69,33 @@ Si buscas un recorrido directamente sobre la representación visual del juego en
 
 > Esta es la Vista completa del juego en su primera etapa: **Asignación de dueños de Generadores y contratación de Ingenieros**
 Luego tendremos mejoras de módulos, especializaciones etc...
-![generatorgameviewes](../../../static/img/genvistanew.png)
+![firstscreen](../../../static/img/firstscreen.PNG)
+
+- La barra de búsqueda se usa para encontrar un generador específico colocando el numero de serie. Este es un dato que debes tener de algún amigo o grupo donde colaboren entre todos por intereses en común.
 
 *Ahora te explicamos que es todo esto en detalles:*
 > ### 1- Ubicación de los Generadores
 Los generadores están ubicados en cada uno de esos espacios cuadrados, solo necesitas tocar uno para ver la información específica de ese generador.
 
+![generatorgameviewes](../../../static/img/NaveFull.PNG)
+
 > ### 2- Significado de los colores
-![genslots](../../../static/img/slotsupdated.png)
+![genslots](../../../static/img/genposition001.jpg)
 Los generadores tienen 4 estados de actividad:
 
-- El **Verde** significa que está **disponible** y necesita más ingenieros.
-- El **Azul** representa que tu eres **el dueño** de ese generador y por lo tanto solo tú puedes ver ese color.
+- El **Verde** significa que está **encendido** y necesita más ingenieros.
+- El **Verde con borde Rojo** significa que está **encendido** y no tiene espacio para más ingenieros.
 - El **Rojo** representa un generador **apagado**, es decir, su dueño no lo ha encendido u olvidó hacerlo.
-- El **Azul con borde rojo** es tu generador apagado, debes encenderlo para que se muestre **Azul**.
+- El **Rojo con borde verde** representa un generador **apagado** que tenia espacio disponible.
+- El **Azul** representa que tu eres **el dueño** de ese generador y que tiene espacio para mas ingenieros.
+- El **Azul con borde rojo** es tu generador encendido y sin espacio para mas ingenieros.
+- El **Azul oscuro con borde rojo** representa que tu eres **el dueño** de ese generador y que esta apagado y sin espacio, es decir olvidaste encenderlo y tiene ingenieros activos esperando por tu servicio.
+- El **Azul con borde verde** representa que tu eres **el dueño** de ese generador, que esta apagado y con espacio disponible para ingenieros, si lo enciendes tendras mas potencia gracias a los ingenieros.
 - El **Blanco** representa un generador que ya esta repleto de ingenieros y completamente funcional.
 - Sin colores significa que aún no tienen dueño esos generadores o no se han vendido.
 
 > ### 3- Estadísticas Generales
-![genslots](../../../static/img/communitystats.png)
+![genslots](../../../static/img/stats001.jpg)
 
 En esta imagen vemos las estadísticas generales que sería la suma de todos los participantes en tiempo real, es decir, el aporte de todos los jugadores representados en estos números.
 
@@ -97,16 +104,16 @@ En esta imagen vemos las estadísticas generales que sería la suma de todos los
 - El ícono del generador representa la cantidad de generadores trabajando en tiempo real.
 - El ícono de la herramienta representa la cantidad total de ingenieros activos entre todos los generadores del juego.
 - ''My Engineers'' representa tus ingenieros contratados en total entre todos los generadores donde los contrataste. Este número te ayuda a controlar si aumenta o disminuye tu participación.
-- ''Next Reward'' representa el tiempo restante, en forma regresiva, para la siguiente ronda de recompensas. Este cronómetro te muestra el tiempo entre pagos.
+
 
  **NOTA:** El botón rojo de arriba con una X cierra el juego si lo tocas, para regresar al juego ve a la ventana de perfil o de catálogo en HUB-App y toca el ícono del juego para abrirlo. Si aún o lees la guía de nuestra app la puedes [leer aquí](../../../docs/esp/01-guias-de-usuario/02-HUBappES.md).
 
 > ### 4- Balance y Ciclo de Reinicio
-![genslots](../../../static/img/balanceyreinicio.png)
+![genslots](../../../static/img/stats002.jpg)
 
 - En esta parte te mostramos el balance de los tokens $HCASH (el azul) y $HCREDIT (el verde).
 - El número en rojo dentro de la barra de balance de $HCREDIT significa el tiempo restante para que se reinicie la economía individual del token, creando así un ciclo perfectamente deflacionario y limpiando la inactividad en sel servidor, balanceando las estadísticas ajustándose a la participación de la comunidad activa.
-- La barra de búsqueda se usa para encontrar un generador específico colocando el numero de serie. Este es un dato que debes tener de algún amigo o grupo donde colaboren entre todos por intereses en común.
+- ''Next Reward'' representa el tiempo restante, en forma regresiva, para la siguiente ronda de recompensas. Este cronómetro te muestra el tiempo entre pagos.
 
 **NOTA:** Puedes encontrar todo sobre la economía del token de gobernanza $HCASH [Aquí](../../../docs/esp/01-guias-de-usuario/whitepaperesp.md), en la sección específica de **Tokenomic**.
 
@@ -114,20 +121,28 @@ En esta imagen vemos las estadísticas generales que sería la suma de todos los
 > ### 5- Ventana de información
 En esta ventana vemos la información de un generador nuestro al tocar el cuadrado azul tal como explicamos arriba anteriormente. Los datos que necesitamos comprender en este **BETA**  es:
 
-- El botón de encender el generador, lo tocamos y listo, verás como se pone en verde ''On'' esa palabra en rojo que dice ''Off'', significa que ya está activo el servicio.
-![genowner](../../../static/img/genowneron.png)
+- El botón de encender el generador inicialmente estará en rojo, es ese redondo que ven en la siguiente imagen, solo deben toccarlo y te notificará instantaneamente que esta encendido, si vuelves a tocar el cuadrado azul de tu generador verás que ese botón ahora es verde.
+- Esta ventana te muestra mas informacón como : El tipo de energía ( Hydrogen en este caso), el tiempo que le falta para volver a apagarse (cycle ends in y el tiempo), la potencia base que es el ícono azull y la potencia total que es el ícono verde ( la suma de tu potencia + la de los ingenieros + efectos adicionales)
+- Esta ventana contiene la cantidad de ingenieros que pueden trabajar en tu generador y la cantidad que hay de ese total, ejemplo '' 3/167 '' que significa que hay actualmente 3 ingenieros y soporta un total de 167, es decir que aún tienes espacio.
+- Cabe mencionar que encennder tu generador cuesta actualmente 10 $HCREDIT cada ronda.
+
+![genowner](../../../static/img/ownerscreen.PNG)
 
 Para los generadores de los que no eres dueño esta es la ventana que te muestra la opción de contratar ingenieros.
-Solo debes poner la cantidad que quieres contratar basándote en tu balance $HCREDIT disponible. 
+Solo debes deslizar la barrita azul hasta la cantidad que quieres contratar basándote en tu balance $HCREDIT disponible y el limite permitido en ese generador. 
 
 - Cada 1 Ingeniero pagas **100 $HCREDIT**, ahi debajo te dice **''You Pay''**, el monto que debes pagar y tocas en el botón **Aceptar** para asignarlos.
 - Ten en cuenta que si al dar click en aceptar, alguien ya tomó el espacio disponible tendrás que buscar otro generador disponible.
-![engineercont](../../../static/img/engineerscontract.png)
+- Las estadísticas ya las mencionamos anteriormente, adicional a eso puedes observar nuevos datos como: Boost que simboliza el bono adicional que ganarías contratando ingenieros en ese generador específicamente,  ''generator operative / inoperative'' significa si esta encendido o no, y ''your engineers'' es la cantidad de ingenieros que tienes tu contratados ahí.
+- También puedes ver arriba el nombre del dueño del generador y el codigo por si quieres invitar a tus amigos a unirse en ese específicamente, ellos solo tienen que copiar y pegar ese código en el buscador y se marcará con una X el generador que contiene ese código.
+
+
+![engineercont](../../../static/img/contractscreen.PNG)
 
 > # Ganar tokens: Primeros pasos
 *Para aprender como ganar tus primeros tokens te sugerimos leer* [HCREDIT: Guía Completa](/docs/esp/01-guias-de-usuario/hcreditguiacompleta.md) *para aprender a maximizar tus posibilidades y tu tiempo.*
 
-- Adicional a las estrategias mostradas en esa guía, puedes ganar mas HCREDIT con tareas diarias On-chain. Estas tareas actualmente se encuentran en desarrollo pero estarán disponibles pronto gracias a nuestros partners que nos proveen la opción de firmar transacciones con el gas proporcionado por ellos.
+- Adicional a las estrategias mostradas en esa guía, puedes ganar mas HCREDIT con tareas diarias On-chain y off-chain. Estas tareas actualmente se encuentran en desarrollo pero estarán disponibles pronto gracias a nuestros partners que nos proveen la opción de firmar transacciones con el gas proporcionado por ellos.
 
 - Si alguna de estas tareas no tienen el gas cubierto por nuestros socios en el futuro, aseguramos que serán ridículamente factibles y bien recompensadas. No dejes pasar por alto todos los detalle y posibilidades, planifica bien tu estrategia.
 
@@ -139,18 +154,20 @@ Solo debes poner la cantidad que quieres contratar basándote en tu balance $HCR
 Jugar es sencillo, ya tienes todo listo y te ganaste tus primeros tokens, ahora en pocas palabras te explico la mecánica de juego y estarás listo para jugar.
 
 ### Si no eres dueño de generador:
-- Ve al juego de generadores
+- Abre el HUB
+- Ve al primer botónn inferior, el catálogo.
+- Ve al juego de Tech Generators (ícono azul)
+- Toca donde dice Génesis Station
 - Busca un generador en verde
-- Tócalo y asigna tantos ingenieros como puedas, el límite que puedes poner es 10 en cada generador.
-- Dale click en aceptar y list, durante 24h estarás ganando tokens $HCASH que se pagan cada 60 minutos fraccionalmente.
+- Tócalo y asigna tantos ingenieros como puedas, el límite que puedes poner es 5 en cada generador.
+- Dale click en aceptar y listo, durante 24h estarás ganando tokens $HCASH que se pagan cada 60 minutos fraccionalmente.
 
 ### Si eres dueño de generador:
-- Ve a tu inventario
-- Toca el generador y toca en activar
-- Tu generador ya esta dentro del juego de generadores
+- Tu generador ya esta dentro del juego de generadores despues de abrir el pack
+- Después que abres el juego desde el catálogo tocas Génesis Station
 - Ve a tu generador marcado en azul
-- Tócalo y toca el botón **''Power-On''** para ponerlo a trabajar.
-- Cada 1h debes entrar al juego y tocar **''Power-On''** para mantenerlo trabajando, de lo contrario se apaga y no ganas tokens ni tus compañeros que contrataron ingenieros para tu generador tampoco.
+- Tócalo y toca el botón **''Power-On''** que sería el que esta en rojo, y con esto empieza a trabajar.
+- Cada cierto tiempo debes entrar al juego y tocar **''Power-On''** para mantenerlo trabajando, de lo contrario se apaga y no ganas tokens ni tus compañeros que contrataron ingenieros para tu generador tampoco. El tiempo restante para apagarse sale en la ventana de información que mencionamos anteriormente. Pudes continuar leyendo esta guía para detalles mas específicos.
 
 
 > # Todo sobre Generadores
@@ -160,19 +177,18 @@ Interioricemos mas sobre el tema de los generadores un poco mas a detalle:
 -  Puedes comprar generadores en la tienda de nuestra app ( **HUB app** ) 
 - Las **Cajas de Generadores** de la tienda proporcionan generadores aleatorios al abrirlas.
 - Existen 25 generadores diferentes y cada uno con sus propias características.
-- Los usuarios pueden tener 2 generadores máximo, pero con la membresía mensual [TechPass](#ventajas-del-techpass) pueden tener tantos como puedan adquirir.
+- Los usuarios pueden tener 1 generador máximo, pero con la membresía mensual [TechPass](#ventajas-del-techpass) pueden tener tantos como puedan adquirir.
 
 #### Dueño de Generador
 - Los propietarios de generadores no pueden contratar ingenieros para sus propios generadores.
-- Cada generador tiene un poder base que puede ser mejorado con la ayuda de ingenieros.
+- Cada generador tiene un poder base que puede ser mejorado con la ayuda de ingenieros, eventos y efectos adicionales por artículos del juego de uso temporal o permanente.
 - Puedes generar ingresos por hora sin ingenieros, la ganancia adquirida se divide 35/65 y al no haber ingenieros ese 65% se regresa al tesoro del juego. Recomendamos encontrar compañeros en la comunidad que te apoyen o unirte a las Guilds.
 - Los generadores son limitados, así que asegúrate de adquirirlos pronto. La disponibilidad va a depender de la cantidad de jugadores activos en promedio diario.
-- La tienda funciona automáticamente, es decir los items agotados como los generadores pueden estar disponibles en cualquier momento, recomendamos que visites frecuentemente la tienda si planeas adquirir alguno de primera mano aunque puedes comprar en el mercado secundario próximamente disponible desde HUB app.
 - Los dueños de generadores deben mantenerlo prendido para poder generar la potencia que les provee ganancias a ellos y los ingenieros contratados en ese generador.
 - Si el generador está apagado no genera ingresos.
-- Los generadores pueden ser mejorados con módulos.
+- Los generadores pueden ser mejorados con módulos, artículos de ingeniería equipables o artículos especiales.
 - **Poder Base**: Cada generador tiene un poder base que contribuye a la recompensa total.
-- **Poder Adicional**: El poder del generador aumenta con la asignación de ingenieros, mientras mas ingenieros mas aumenta su potencia.
+- **Poder Adicional**: El poder del generador aumenta con la asignación de ingenieros, mientras mas ingenieros mas aumenta su potenciay a su vez si los dueños de los ingenieros activan artículos bonificadores estos son acumulable en muchos casos potenciando aún mas la capacidad del generador.
 - Los propietarios de generadores pueden compartir su número de generador para que sus amigos lo encuentren y se apoyen entre sí.
 -El propietario del generador puede delegar el trabajo de encenderlo cada hora a un usuario específico si posee un [TechPass](#ventajas-del-techpass).
 
@@ -180,12 +196,12 @@ Interioricemos mas sobre el tema de los generadores un poco mas a detalle:
 - Los ingenieros se compran con $HCREDIT y permanecen asignados a un generador durante 24 horas. 
 - El conteo de 24h es individual para cada unidad (**unidad = 1 ingeniero** ), lo que significa que no se van todos de golpe sino en el mismo orden que fueron contratados a medida que transcurren las 24h.
 - Puedes asignar ingenieros a los generadores para aumentar su poder y tus recompensas.
-- Puedes asignar hasta 10 ingenieros por cada generador sin límite de generadores, es decir puedes poner 10 ingenieros en tantos generadores como te sea posible según tu balance $HCREDIT.
+- Puedes asignar hasta 5 ingenieros por cada generador sin límite de generadores, es decir puedes poner 10 ingenieros en tantos generadores como te sea posible según tu balance $HCREDIT.
 - Si tienes la membresía mensual [TechPass](#ventajas-del-techpass) puedes agregar hasta 20 ingenieros por generador.
 - Los ingenieros asignados no pueden ser removidos
-- Si asignas ingenieros a un generador encendido y el dueño no lo enciende cada 60 minutos, ese tiempo que se encuentra apagado no te genera ingresos, asegúrate de utilizar generadores de dueños confiables.
+- Si asignas ingenieros a un generador encendido y el dueño no lo enciende en sus rondas, ese tiempo que se encuentra apagado no te genera ingresos, asegúrate de utilizar generadores de dueños confiables.
 - Puedes encontrar en la comunidad amigos o compañeros que tengan generadores y sean confiables y activos para maximizar tus posibilidades.
-- La potencia proporcionada por 1 ingeniero es de 10 Khash
+- La potencia proporcionada por 1 ingeniero es de 10 Khash y puede ser potenciada con artículos temporales y permanentes.
 
 #### Proceso de Encendido
 - Los propietarios de generadores deberán mantenerlo encendido para que genere ganancias tanto para ellos como para los ingenieros ubicados en sus generadores, para esto deberán seguir un ciclo que consta de 3 tipos de activaciones:
@@ -202,12 +218,14 @@ Interioricemos mas sobre el tema de los generadores un poco mas a detalle:
 - Son artículos que se obtienen jugando, mediante la realización de tareas diarias, haciendo check-in y algunos son comprables en la tienda del juego
 - Son transferibles, comercializables y obviamente, usables
 - Estos artículos como bien su nombre lo indica, se consumirán tras su uso y nos brindarán un bono o efecto el cual dependerá del objeto en cuestión
+- Algunos efectos de estos artículos son acumulables.
 
 #### Recompensas
-- **Recompensa Total**: La recompensa total por hora es de 353 $HCASH Tokens. Esta se distribuye entre los generadores según su participación en el poder total combinado.
+- **Recompensa Total**: La recompensa total por hora es de 353 $HCASH Tokens aproximadamente. Esta se distribuye entre los generadores según su participación en el poder total combinado. Es decir, cada hora se extrae un bloque $HCASH y se reparte segun la cantidad de potencia proporcionada por cada grupo de generadores + Ingenieros, a mayor potencia mayor recompensa.
+
 - ##### **Distribución de Recompensas**:
   - **Propietario del Generador**: Recibe una porción fija del 35% de la recompensa total y si tiene [TechPass](#ventajas-del-techpass) obtiene un 15% bono adicional sobre el monto cobrado en esa ronda.
-  - **Ingenieros**: Los ingenieros obtienen el 65% fijo de la distribución por ronda entre los ingenieros participantes, y si el usuario tiene [TechPass](#ventajas-del-techpass) obtiene 5% adicional del monto generado en cada ronda. Adicional a esto, dependiendo el generador en que asignas los ingenieros puedes obtener entre 1% y 5% por ronda. Si tienes ingenieros asignados en diferentes generadores los cálculos de recompensas son individuales por cada generador.
+  - **Ingenieros**: Los ingenieros obtienen el 65% fijo de la distribución por ronda entre los ingenieros participantes, y si el usuario tiene [TechPass](#ventajas-del-techpass) obtiene 5% adicional del monto generado en cada ronda. Adicional a esto, dependiendo el generador en que asignas los ingenieros puedes obtener entre 1% y 5% por ronda si tienen TechPass. Si tienes ingenieros asignados en diferentes generadores los cálculos de recompensas son individuales por cada generador.
 
 > ## Ganar $HCREDIT
 Haz clic [aquí](/docs/esp/01-guias-de-usuario/hcreditguiacompleta.md) para leer todo sobre $HCREDIT.
@@ -220,6 +238,7 @@ Haz clic [aquí](/docs/esp/01-guias-de-usuario/hcreditguiacompleta.md) para leer
 4. **Constancia**: Se constante con las tareas que te generan $HCREDIT, no te conformes con solo agrear un par de ingenieros, recuerda que luego de 24h necesitarás contratar nuevos ingenieros para seguir generando ingresos.
 5. **Comunidad**: Encuentra compañeros leales o únete a **Guilds** donde puedes encontrar tanto generadores como ingenieros por parte de amigos activos.
 6. **Sigue las noticias**: Próximamente planeamos lanzar actualizaciones sobre mas opciones y experiencias en el desarrollo de este juego agregando nuevas funciones y opciones, sigue nuestros canales de anuncios en nuestros grupos oficiales, suscríbete a nuestros emails o infórmate en tu Guild para tener una mejor e inmediata reacción sobre las oportunidades que se aproximan.
+7. **Generadores Premium**: Busca generadores que sean Premium, investiga en la comunidad cuales dueños tienen TechPass ya que estos trabajan a mayor potencia que el resto durante la ultima activacion de 11H consecutivas.
 
 > ## Impacto y Equilibrio de la Economía
 El número de Generadores y la capacidad de contratar Ingenieros nunca será mayor al número de usuarios activos participantes. Esto asegura que el sistema sea equilibrado y justo para todos.
@@ -231,26 +250,27 @@ El ciclo de reinicio económico individual de este juego se asegura que nunca so
 Todo funciona automático y sin intervención manual por parte del equipo de desarrollo.
 
 > ## Ventajas del **TechPass**
+![engineercont](../../../static/img/techpsss.jpg)
+
 #### Descripción
 - El **TechPass** NO es obligatorio para jugar, todos los jugadores acceden a las mismas características de forma gratuita con la diferencia de mayor alcance o participación si eres un usuario suscrito al pase mensual. 
 - Este pase dura 30 días para evitar el compromiso innecesario de pagar algo caro por mucho tiempo como en otros juegos o proyectos. 
 - Este pase se enfoca en la accesibilidad para todos los usuarios que deseen involucrarse un poco mas que otros.
 - Es ridículamente económico y accesible a todos
 - Su duración de 30 días y bajo precio deja oportunidad para que todos prueben sus ventajas y decidan si vale la pena o no, en comparación a otros juegos con altos costos que no es accesible para todos.
-- El precio es de $2 representado en las monedas de pago que iremos agregando y eventualmente en $HCASH después del TGE.
+- El precio actualmente es de $2 representado en las monedas de pago que iremos agregando y eventualmente en $HCASH después del TGE.
 
 #### Ventajas
-- Los jugadores pueden poseer tantos generadores como puedan adquirir en su misma cuenta, mientas el máximo free es de 2.
-- Puedes asignar el doble de ingenieros que un usuario no suscrito. 
-- Recibes una notificación 10 minutos antes de que la tienda ponga disponible mas generadores.
+- Los jugadores pueden poseer tantos generadores como puedan adquirir en su misma cuenta, mientas el máximo free es de 1.
+- Puedes asignar 3 veces mas ingenieros que un usuario no suscrito. 
+- Los contadores de tiempo en la app corren en tiempo real sin refrescar la pantalla.
 - Recibes notificación 5 minutos antes de que tu generador se apague.
-- Aumenta la ganancia en el tiempo de reactivación largo del generador al 100% (pago completo).
+- Aumenta la ganancia en el tiempo de reactivación largo del generador de 25% a 100% (pago completo).
 - Puedes delegar un usuario para que te ayude a mantener tu generador encendido.
 - Los propietarios de generadores reciben 15% adicional en las ganancias por hora.
-- Los ingenieros que contratas cobran 5% adicional del pago individual (+5% del pago de cada ingeniero)
-- Los propietarios de generadores con [TechPass](#ventajas-del-techpass) tienen más visibilidad en general (Próximamente)
-- Los $HCREDITs generados son x2. [Guía $HCREDIT aquí](/docs/esp/01-guias-de-usuario/hcreditguiacompleta.md)
-- Si eres creador de contenido tendrás acceso a un panel especial para controlar tus estadísticas, mas sobre esto en la **Guía para Creadores de Contenido**. No necesitas ser un super influencer para comenzar como creador de contenido, con nuestras herramientas puedes comenzar incluso con 10 seguidores.
+- Los ingenieros que contratas cobran hasta 5% adicional del pago individual dependiendo el generador en que los contratas y un +5% adicional del pago de cada ingeniero.
+- Todos los $HCREDITs generados son x2, es decir que ganas el doble con cada tarea completada. [Guía $HCREDIT aquí](/docs/esp/01-guias-de-usuario/hcreditguiacompleta.md)
+
 
 > # Tokenomics
 Lee todo sobre la economía general del proyecto en el documento   - [Tokenomics](/docs/esp/01-guias-de-usuario/whitepaperesp.md/#tokenomics) de la guía Whitepaper de Space Hunters nuestro otro juego que es la semilla del funcionamiento económico general.
@@ -262,7 +282,13 @@ Free-to-Play, estrategias con $HCREDIT y una implementación de economía residu
 
 ¡Explora todas las opciones para maximizar tus recompensas y disfruta del juego al máximo!
 
-Para más información o asistencia, consulta la sección de ayuda en el juego o contacta a nuestro equipo de soporte.
+> ## Imágenes del juego
+![firstscreen](../../../static/img/firstscreen.PNG)
+![firstscreen](../../../static/img/NaveFull.PNG)
+![firstscreen](../../../static/img/contractscreen.PNG)
+![firstscreen](../../../static/img/ownerscreen.PNG)
+![firstscreen](../../../static/img/Inventoryscreen.PNG)
+![firstscreen](../../../static/img/techlauncher001.jpg)
 
 ***
 > Este sitio web aún está en desarrollo. Pronto estarán disponibles más guías.
