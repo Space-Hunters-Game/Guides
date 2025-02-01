@@ -1,133 +1,132 @@
 ![bannerdoble](../../../static/img/Bannerdoble.jpg)
 [Back to Index](../../../index.md)
-> # Hunter Credits Full Guide
-
-## About HCREDIT
-![hcreditpngbanner](../../../static/img/hcreditpngbanner.png)
-**$HCREDIT** is an off-chain reward token based on the **mass adoption model**. It can only be obtained through **social events**, tasks, or **partnership activities**. Think of it as our **monetization model**, where players can monetize their social networks, gaming channels, content creation and more with no limitations or ridiculous requirements.  This token is not tradable on any exchange and can only be used within the Hunter ecosystem. 
-
-This is an innovative reward system which convert your participation into a valuable tool to generate you revenues. We continue innovating and adding more use cases and ways to interact with the token and ecosystem, the following list are the current plans and the ones coming very soon:
-
-
+# Hunter Credits ($HCREDIT)
+## **Index**
+- [About $HCREDIT](#about-hcredit)
 - [Claim Process](#claim-process)
-- [Wallet & Username](#wallet--username)
+- [Wallet and Username](#wallet-and-username)
 - [Utility](#utility)
-- [Supply, distribution and burning](#supply-distribution-and-burning)
-- [Reward distribution](#reward-distribution)
-- [HCREDIT Flow](#hcredit-flow)
-- [How to earn?](#how-to-earn?)
-   - [Daily Check-in](#daily-check-in)
-   - [Referring Friends](#referring-friends)
-   - [On-Chain Transactions](#on-chain-transactions)
-   - [Space Hunters in your Telegram Name](#space-hunters-in-your-telegram-name)
-   - [Chat-to-Earn](#chat-to-earn)
-   - [Buy HCREDIT with HCASH](#buying-hcredit-with-hcash)
-- [Final step: Earn $HCASH  with $HCREDIT](#earning-hcash-with-my-hcredit-tokens)
+- [Supply, Distribution, and Burn](#supply-distribution-and-burn)
+- [How to Earn $HCREDIT Daily](#how-to-earn-hcredit-daily)
+- [Daily Login](#daily-login)
+- [Refer Friends](#refer-friends)
+- [Tasks](#tasks)
+- [Space Hunters in Your Telegram Name](#space-hunters-in-your-telegram-name)
+- [Chat-to-Earn](#chat-to-earn)
+- [Buy $HCREDIT with $HCASH](#buy-hcredit-with-hcash)
+---
+## **About $HCREDIT** <a name="about-hcredit"></a>
+$HCREDIT is an **off-chain** reward token based on the mass adoption model. It can only be obtained through social events, tasks in the **HUB App**, collaborative activities, and rarely in the game store for new users or in limited quantities. 
+This token is not exchangeable on any exchange and can only be used within the **Hunter** ecosystem to mine the main token **$HCASH** through the various games in our ecosystem.
+It is an innovative rewards system that turns your participation into a valuable tool for generating income. We continue to innovate and add more use cases and ways to interact with the token and the ecosystem.
 
-## Claim Process
+[🔼 Back to Top](#index)
 
-$HCREDIT is directly sent to the **game wallet**. If a user does **not provide a game wallet** or if the provided wallet address is **inaccurate**, the reward will **not be distributed** and will automatically be **burned**. There is always a **timeline** for this process, along with an **announcement** detailing the steps to follow.
+---
+## **Claim Process** <a name="claim-process"></a>
+$HCREDIT is sent directly to your in-game account. If a user earns tokens in an event and is not part of the ecosystem at the time of token distribution, the reward will not be distributed and will be automatically burned. 
+There is always a deadline for this process, along with an announcement detailing the steps to follow.
 
-## Wallet & Username
-**UPDATE:** Your game username is your wallet address in our ecosystem for $HCASH and $HCREDIT tokens, you can add your username right now using the command /username like this : **/username yankieldbc**. After TGE this details will be updated if required for deposits from external wallets.
+[🔼 Back to Top](#index)
 
-> You have 2 **free tries**, if you want to make another change you can do so after 24h but this option only available to [TechPass](/docs/eng/01-user-guides/generatorsenglish.md/#benefits-of-techpass) members.
+---
+## **Wallet and Username** <a name="wallet-and-username"></a>
+Your **Telegram** username and your "Nick" in our **HUB App** serve as your wallet address in our ecosystem. Your **nick name** is set the first time you open the app.
 
+[🔼 Back to Top](#index)
 
-## Utility
-
-The main utility is monetize your social support, content creation and effort over many social networks. We have many plans for $HCREDIT & the current ones under development include:
-
+---
+## **Utility** <a name="utility"></a>
+The main utility of $HCREDIT is to use it while playing and mining the primary token **$HCASH** consistently. It also allows you to monetize your social support, content creation, and effort across many social networks.
+### **Future Plans and Current Uses**
 - **Special Rewards**: Exclusive items for active players.
-- **Unique Rewards**: Rare or limited-time items.
-- **Limited Time Rewards**: Obtain items only during special events.
-- **Discount Coupon**: Use $HCREDIT to get discounts on in-game items.
-- **Airdrop Shares**: Receive additional tokens during airdrops.
-- **Tech: Generators**: Buy Generators, contract Engineers,upgrade your technology and engineers ability.
+- **Unique Rewards**: Rare or time-limited items.
+- **Time-Limited Rewards**: Obtain items only during special events.
+- **Technology: Generators**: Buy generators, hire engineers, upgrade your technology, and improve engineer skills.
+These are just a few examples of the many uses we have planned for $HCREDIT. We will continue to innovate, so don’t limit yourself to the current uses!
 
-*These are just  a few examples of the many uses we have planned for $HCREDIT. We will continue to innovate, do not limit  yourself to the current uses.*
+[🔼 Back to Top](#index)
 
+---
+## **Supply, Distribution, and Burn** <a name="supply-distribution-and-burn"></a>
+$HCREDIT is based on the mass adoption model with a perfect deflationary system:
+- **Total Supply**: Unlimited.
+- **Supply Allocation**: 100% Rewards for the Community.
+- **Burn Mechanism**:
+  - Every token spent is burned.
+  - $HCREDIT is not a retention token; after a 30-day period, all tokens are burned, resetting the $HCREDIT economy every 30 days.
+When $HCREDIT is distributed via **airdrop** or system activities, and a member does not have a game account at the time of distribution, the tokens are burned and cannot be claimed or refunded. We always announce deadlines, so it is the member's responsibility to stay informed or seek help before the deadline.
 
-## Supply, Distribution, and Burning
-$HCREDIT is build  on the **mass adoption model** with a **perfect deflationary system**:
+[🔼 Back to Top](#index)
 
-- **Total Supply**: Unlimited
-- **Supply Allocation**: 100% Community Rewards
-- **Burning Mechanism**: 
-  - Each token spent is **burned**. 
-  - **Unclaimed tokens** (after 15 days) are burned.
-  - $HCREDIT is **not a holding token**; after a **45-day period**, all tokens are burned, resetting the $HCREDIT economy **every 45 days**.
+---
+## **How to Earn $HCREDIT Daily** <a name="how-to-earn-hcredit-daily"></a>
+$HCREDIT can be earned in the following ways:
+- **TechPass**: Purchase the monthly pass to receive various rewards and benefits, including doubling your $HCREDIT earnings.
+- **Hold $HCASH**: We will soon launch an innovative **Staking** system with $HCASH tokens to earn more $HCREDIT and interest in $HCASH, making it a mixed-reward model.
+- **Achievements**: Completing achievements may grant rewards, some of which include $HCREDIT. (Note: Not all achievements provide $HCREDIT).
+- **Interactions with the Project or Partners**: Participate in selected events and activities to earn rewards.
+- **Daily Tasks**: Complete tasks in the daily section, i.e., tasks you can complete every day to earn free tokens for playing.
+- **Social Tasks**: Complete tasks in the social section. These are one-time tasks where supporting the project benefits everyone, and you also earn rewards for your support.
+> **Note**: Currently, by being active with daily tasks, you can earn over **150,000 $HCREDIT** per month with **Tech Pass**.
 
-When $HCREDIT is distributed via **airdrop or system activities**, and a member has **no game account** at the time of distribution, the tokens are **burned** and cannot be reclaimed or refunded. We always announce **timelines**, so it is the member's **responsibility** to stay informed or ask for help before the end date.
+[🔼 Back to Top](#index)
 
-If $HCREDIT is earned through **normal player-system interaction**, it is automatically **credited**.
+---
+## **Daily Login** <a name="daily-login"></a>
+Earn $HCREDIT through daily logins and multiply your daily reward over a 28-day cycle. This means:
+- **Day 1**: You will earn **100 $HCREDIT**.
+- **Day 2 onwards**: The consistency effect begins, allowing you to generate over **4,000 $HCREDIT** in a month with just 1 click per day.
+> **Important**: If you miss a day, the cycle resets.
 
-## **Reward Distribution:** 
-Each event or activity will have a **max cap**, **reward pool**, or **reward per points**. The allocation for pools and max caps will be based on the **leaderboard** and distribution for social participation is based on Mass Adoption concept with no earning limits.
+[🔼 Back to Top](#index)
 
-## $HCREDIT Flow
-This is a simple design which explain in short the flow concept:
+---
+## **Refer Friends** <a name="refer-friends"></a>
+- **1,000 $HCREDIT** for your friend and **500 $HCREDIT** for you.
+- Additionally, you will earn **4 $HCREDIT** each day when your friends register, and **1 $HCREDIT** each day if your friends refer others who register.
 
-![hcreditflow](../../../static/img/hcreditflow.png)
+[🔼 Back to Top](#index)
 
-## How to Earn Daily $HCREDIT
-
-$HCREDIT can be earned from the following ways:
-
-- [TechPass](/docs/eng/01-user-guides/generatorsenglish.md/#benefits-of-techpass): Purchase the monthly pass to receive various rewards and benefits but also x2 HCREDIT earnings.
-- **Holding $HCASH**: Say good bye to old Staking systems, we are going to launch an innovative Staking system with $HCASH tokens to earn more $HCREDIT.
-- **Achievements**: Completing achievements can earn rewards, some of which include $HCREDIT. (Note: Not all achievements provide $HCREDIT.)
-- **Interactions with the Project or Partners**: Participate in selected events and activities to gain rewards.
-
-## **Daily Check-in** 
-Earn **20 $HCREDIT** for daily check-ins and **3% compounded check-in rewards** over a 30-day cycle if you check in for 29 consecutive days. This means on day 1 you will earn 20 $HCREDIT, and starting from day 2, the compound effect will begin. If you miss a day, the cycle will reset.
-
-## **Referring Friends**
- **300 $HCREDIT** for your friend and **100 $HCREDIT** for you. Additionally, you’ll earn **4 $HCREDIT** every day when your friends check-in, and **1 $HCREDIT**every day if your friends refer others who check-in.
-
-## Tasks
+---
+## **Tasks** <a name="tasks"></a>
 - **Social Tasks**: Complete social tasks to earn $HCREDIT. The amount varies depending on the event.
--  **Limited Daily Tasks**: Complete limited tasks which reset daily to maximize your earnings.
+- **Limited Daily Tasks**: Complete limited tasks that reset daily to maximize your earnings.
 
-## On-Chain Transactions
-> Earn $HCREDIT by **cooling overheated engines**. You can choose from the following options:
+[🔼 Back to Top](#index)
 
-- Every **45 minutes**: Earn **5 $HCREDIT** (On-Chain).
-- Every **3 hours**: Earn **10 $HCREDIT** (On-Chain).
+---
+## **Space Hunters in Your Telegram Name** <a name="space-hunters-in-your-telegram-name"></a>
+This program is called **Name the Fav**. Members who add "SpaceHunters", "Space Hunters", "Space Hunter", or "SpaceHunter" to their Telegram name will be rewarded daily, with increasing rewards over a 28-day cycle:
+- **Scaled Payout**:
+  - Day 1: **20 $HCREDIT**.
+  - Day 28: **260 $HCREDIT**.
+  - **Total**: **2,500 $HCREDIT** paid.
+> **Note**: If you have Tech Pass, you earn double.
+We plan to add more features to this program in the future.
 
-*On-chain gas may be covered by blockchain partners, additional rewards may be offered from partners and dual-farming may be available in some cases.*
+[🔼 Back to Top](#index)
 
-## ''Space Hunters'' in your Telegram name
-**This program is named:** *Name the Fav*, members who add "SpaceHunters," "Space Hunters," "Space Hunter," or "SpaceHunter" to their Telegram name will be rewarded daily, with increasing rewards over a 28-day cycle with a scaling payment from 20 $HCREDIT first day and 260 on the 28th day for a total of 2500 $HCREDITs paid. We plan to add some other features to this program in the future.
+---
+## **Chat-to-Earn** <a name="chat-to-earn"></a>
+**Farming While Chatting**: This concept has evolved into a system driven by **Chat Hashrate**, which automatically assigns a power rate to your words, determining how powerful they are, and pays you based on the combination of different linked ambassador chats and official groups.
+In short, earn additional tokens just by chatting. Do not attempt to cheat the system; it is designed to be fair and detect exploitation attempts. Intentional abuse attempts may result in your permanent inclusion on a blacklist for this program.
 
-![bannerdoble](../../../static/img/chattoearn.jpg)
-## Chat-to-Earn 2.0
-**Farming While Chatting:** This concept evolved into a Chat Hashrate-Powered system which auto assign a power rate to your words determining how powerful they are and pay you based on the combination of the different linked ambassador chats and official groups. In short, earn extra tokens just by chatting. Do not try to defeat the system, it is designed to be fair and detect your exploit attempts, intentional abuse attempts may result you in a **permanent blacklist** for this program.
+[🔼 Back to Top](#index)
 
-![bannerdoble](../../../static/img/alchemybanner.jpg)
-## Chat-to-Earn v2.1
-#### Alchemy Mini-Game
-Combining chat-engaement and HUB App experience we created an immersive, chat-based game where players collect mystical elements, craft powerful runes, and compete with others to rise on the leaderboard. Engage in a world of alchemy, rare treasures, and thrilling discoveries, with opportunities to trade, level up, and earn rewards along the way.
+---
+## **Buy $HCREDIT with $HCASH** <a name="buy-hcredit-with-hcash"></a>
+You can buy $HCREDIT with $HCASH. The exchange rate is subject to fluctuations and is only focused on helping you obtain additional tokens to complete your balance for specific activities before the economy resets.
+> **Note**: This functionality is not yet available.
 
-[Read more here...](/)
+[Back to Index](../../../index.md)
 
-## Earning $HCASH with my $HCREDIT tokens
-Spend your $HCREDIT tokens playing in Tech: Generators game to earn $HCASH every hour, Read full guide [Generators Guide](/docs/eng/01-user-guides/generatorsenglish.md).
-
-***
-> This document will get updated while we progress on development, last update October 05/2024
-***
-
-## ✅ Social Media
-Follow us on our social media
-
-[![Telegram](https://img.shields.io/badge/Telegram-BOT-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)
+---
+---
+[![Telegram](https://img.shields.io/badge/Telegram-Game_App-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)
 [![Telegram](https://img.shields.io/badge/Telegram-Announcements-26A5E4?style=plastic&logo=telegram)](https://t.me/spacehuntersnews)
 [![Telegram EN](https://img.shields.io/badge/Telegram-Chat%20ENG-2CA5E0?style=plastic&logo=telegram)](https://t.me/spacehunterss)
 [![Telegram EN](https://img.shields.io/badge/Telegram-Chat%20ESP-2CA5E0?style=plastic&logo=telegram)](https://t.me/shspanish)
-[![Discord](https://img.shields.io/badge/Discord-Space%20Hunters-7289DA?style=plastic&logo=discord)](https://discord.gg/wpmzyJM9xb)
-[![AtomicHub](https://img.shields.io/badge/AtomicHub-Space%20Hunters-EE474C?style=plastic&logo=atomichub)](https://wax.atomichub.io/explorer/collection/wax-mainnet/spacehunterz)
-[![PlayToEarn](https://img.shields.io/badge/PlayToEarn-Space%20Hunters-34C759?style=plastic&logo=playtoearn)](https://playtoearn.com/blockchaingame/space-hunters-the-reborn?rel=search)
-[![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-NFTSpaceHunters-03C9A9?style=plastic&logo=coinmarketcap)](https://coinmarketcap.com/community/profile/nftspacehunters/)
-
-[Back to Index](../../../index.md)
+[![X Generators](https://img.shields.io/badge/Twitter-Tech%20Gen-F50303?style=plastic&logo=twitter)](https://x.com/generatorsgame)
+[![X ChatAdv](https://img.shields.io/badge/Twitter-Chat%20Adventure-F50303?style=plastic&logo=twitter)](https://x.com/chatadventure)
+[![X SH](https://img.shields.io/badge/Twitter-Space%20Hunters-F50303?style=plastic&logo=twitter)](https://x.com/nftspacehunters)
