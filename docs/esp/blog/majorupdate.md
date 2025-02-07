@@ -127,7 +127,7 @@ El inventario es un componente crucial de tu experiencia en el juego, ya que alb
 
 ### **La Gacha Machine** 
 
-![alt text](../../../static/img/img/gacha.png)
+![alt text](../../../static/img/gacha.png)
 
 La **Gacha Machine** es una mecánica emocionante que te permite obtener ítems consumibles gratis para usar en **Tech: Generators**. La encuentras en el menú desplegable al hacer clic en tu foto de perfil.
 
