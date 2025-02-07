@@ -102,7 +102,7 @@ El **TechPass** no es necesario para jugar; todos los jugadores tienen acceso a 
 ---
 
 ### **Ventajas** <a name="ventajas"></a>
-- Los jugadores pueden poseer tantos generadores como puedan adquirir en su cuenta, mientras que el máximo gratuito es **2**.
+- Los jugadores pueden poseer tantos generadores como puedan adquirir en su cuenta, mientras que el máximo gratuito es **1**.
 - Puedes asignar **3 veces más ingenieros** que un usuario no suscrito.
 - Recibes una notificación **5 minutos antes de que tu generador se apague**.
 - Aumenta las ganancias durante el tiempo de reactivación prolongado del generador de **25% a 100%** (pago completo).
