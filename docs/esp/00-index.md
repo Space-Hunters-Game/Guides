@@ -7,9 +7,9 @@
 * 📌 [English](../../index.md)
 
 ### 🔄 Update 2/7/2025 
-- 🔧 [Detalles de la Actualización](/docs/esp/blog/majorupdate.md)
+- 🔧 [Detalles de la Actualización](../../docs/esp/blog/majorupdate.md)
 
-### 💰 Econimía
+### 💰 Economía
 - 📌 [$HCASH](anuncios/HCASH_Summary_ES.md)
 - 📌 [$HCREDIT](01-guias-de-usuario/hcreditguiacompleta.md)
 
