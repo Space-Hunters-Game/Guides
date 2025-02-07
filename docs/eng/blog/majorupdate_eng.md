@@ -130,16 +130,19 @@ The **Gacha Machine** is an exciting mechanic that allows you to obtain free con
 - **Probabilities:** 80% success and 20% failure.
 - **Free tickets:** You can obtain tickets by completing daily tasks, participating in groups and guilds, chatting, and buying in the shop (with an 80% probability of receiving a ticket per purchase).
 ### **Use of Consumable Items**  
-Before using consumable items, it is important to know the correct process to apply them properly:  
-1. **Access the workshop:**  
+Before using consumable items, it is important to know the correct process to apply them properly:
+  
+**Access the workshop:**  
    - Below the ship map, you will find a button called **"Engineers"**.  
    - By tapping it, you will enter the workshop section (Alpha), where you will see two tabs:  
     Inventario:** Shows the available consumables for use.  
-    Supplies:** A mini-shop within the game where you can buy more supplies without closing the game.  
-2. **Consumables application:**  
+    Supplies:** A mini-shop within the game where you can buy more supplies without closing the game. 
+     
+**Consumables application:**  
    - To use an item with a **direct** effect (applied to a specific generator), you must first select the generator at the top of the screen.  
     Important:** If you do not have engineers hired in generators, the consumable **will not take effect** and will be lost. Make sure to hire engineers before applying them.  
-3. **Types of effects:**  
+
+**Types of effects:**  
    - Some items have **global** effects, affecting **all** generators or engineers.  
    - Others have **direct** effects, impacting only a specific generator.  
    - Certain items are designed to **counteract negative effects** and will only work if the engineers or generators are under the influence of such an anomaly.  
