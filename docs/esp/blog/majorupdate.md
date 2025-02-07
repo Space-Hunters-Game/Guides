@@ -37,7 +37,7 @@
 ### **La Tienda del HUB** 
 La tienda dentro del HUB es un espacio centralizado donde puedes encontrar ítems de todos los juegos y expansiones de nuestro ecosistema. Aunque por ahora solo jugamos **Tech: Generators**, es importante destacar que esta tienda está diseñada para crecer junto con el ecosistema.
 
-![alt text](/static/img/tiendahub.png)
+![alt text](../../../static/img/tiendahub.png)
 
 #### **Mejoras realizadas:**
 - **Nueva vista mejorada:** Los ítems ahora se muestran más grandes, dándoles mayor protagonismo. Esto facilita la identificación visual y mejora la experiencia de navegación.
@@ -112,7 +112,7 @@ Hemos ajustado el ciclo de quema del **HCREDIT** para optimizar su uso y dinamis
 ### **El Inventario** 
 El inventario es un componente crucial de tu experiencia en el juego, ya que alberga todos tus ítems de forma centralizada. Hemos realizado varias mejoras para optimizar su funcionalidad.
 
-![alt text](/static/img/invpicture.png)
+![alt text](../../../static/img/invpicture.png)
 
 #### **Novedades:**
 - **Vista mejorada:** Al igual que en la tienda, los ítems ahora se muestran más grandes y claros.
@@ -127,7 +127,7 @@ El inventario es un componente crucial de tu experiencia en el juego, ya que alb
 
 ### **La Gacha Machine** 
 
-![alt text](/static/img/gacha.png)
+![alt text](../../../static/img/img/gacha.png)
 
 La **Gacha Machine** es una mecánica emocionante que te permite obtener ítems consumibles gratis para usar en **Tech: Generators**. La encuentras en el menú desplegable al hacer clic en tu foto de perfil.
 
@@ -230,7 +230,7 @@ El **Marketplace HUB** es un mercado centralizado donde puedes comprar y vender 
 
 #### **Cómo vender un ítem:**
 
-![alt text](/static/img/sell.png)
+![alt text](../../../static/img/sell.png)
 
 1. Ve a tu **Inventario**.
 2. Selecciona el ítem que deseas vender.
@@ -244,10 +244,10 @@ El **Marketplace HUB** es un mercado centralizado donde puedes comprar y vender 
 Para vender Elementos en el Marketplace, primero debes decidir la cantidad que quieres vender. Si quieres vender por unidad, puedes hacerlo, o puedes agrupar 100 elementos iguales en un nuevo ítem llamado "Pot" o "Box", que representa las 100 unidades. Esto lo puedes hacer desde el inventario tocando el botón **"Action"** y luego seleccionando **"Bulk"**. Si deseas revertir el proceso, sigue los mismos pasos, pero en lugar de seleccionar **"Bulk"**, elige **"Split"** para dividir el ítem nuevamente en sus unidades individuales. En resumen, puedes vender de uno en uno o de 100 en 100.
 
 > Action :
-![alt text](/static/img/element1.png)
+![alt text](../../../static/img/element1.png)
 
 > Bulk:
-![alt text](/static/img/bullk.png)
+![alt text](../../../static/img/bullk.png)
 
 Todas las ofertas del mercado están ordenadas por precio de menor a mayor automáticamente.
 
@@ -332,7 +332,7 @@ Para explicarlo en forma simple, el **65%** que se divide entre los ingenieros u
 
 #### **Mecánica de las Anomalías**
 
-![alt text](/static/img/anomalia.png)
+![alt text](../../../static/img/anomalia.png)
 
 El sistema notificará en el chat principal cuando una anomalía esté próxima a ocurrir, alertando a los jugadores sobre su posible impacto. En el juego, un mini radar mostrará el nombre de la anomalía y los tipos de generadores que serán afectados, ya sea de manera positiva o negativa.
 
@@ -357,7 +357,7 @@ El algoritmo que estamos desarrollando para las anomalías trabaja con muchos da
 
 #### **Mejoras de Generadores:**
 
-![alt text](/static/img/upgrade-engineer.png)
+![alt text](../../../static/img/upgrade-engineer.png)
 
 Para mejorar los generadores, debes entrar en la opción de **Upgrade** debajo del mapa de la nave y seguir estos pasos:
 1. Selecciona el generador que deseas mejorar.
@@ -383,7 +383,7 @@ También puedes expandir la capacidad de ingenieros que trabajan en tu generador
 
 #### **Delegación de Generadores:**
 
-![alt text](/static/img/delegate.png)
+![alt text](../../../static/img/delegate.png)
 
 Esta actualización introduce una nueva mecánica de trabajo compartido, la cual llamamos **"Delegación"**. En términos simples, se trata de asignar a un jugador el rol de Operador y que este se encargue de operar tu generador, es decir, encenderlo durante el tiempo establecido en el contrato y mientras lo hace, obtiene un porcentaje de las ganancias que genera tu generador.
 
