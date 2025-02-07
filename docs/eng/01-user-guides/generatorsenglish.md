@@ -102,7 +102,7 @@ The **TechPass** is NOT required to play— all players have access to almost th
 ---
 
 ### **Advantages** <a name="advantages"></a>
-- Players can own as many generators as they can acquire on their account, while the free maximum is **2**.
+- Players can own as many generators as they can acquire on their account, while the free maximum is **1**.
 - You can assign **3 times more engineers** than an unsubscribed user.
 - You receive a notification **5 minutes before your generator shuts down**.
 - Increases profit during the long generator reactivation time from **25% to 100%** (full payment).

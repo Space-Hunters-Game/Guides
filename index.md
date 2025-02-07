@@ -6,6 +6,9 @@
 
 * 📌 [Español](docs/esp/00-index.md)
 
+### 🔄 Update 2/7/2025 
+- 🔧 [Update Details](/docs/eng/blog/majorupdate_eng.md)
+
 ### 💰 Tokenomic
 - 📌 [$HCASH](/docs/eng/announcements/HCASH_Summary_EN.md)
 - 📌 [$HCREDIT](/docs/eng/announcements/HCASH_Summary_EN.md)
