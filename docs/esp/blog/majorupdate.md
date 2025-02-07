@@ -294,6 +294,21 @@ A continuación, te doy datos sobre las actividades que de momento consumen ener
 
 De momento, estas son todas las acciones que consumen energía, super simple y básico para ir introduciendo esta mecánica en el ecosistema.
 
+>En este momento, la energía no se recarga de forma pasiva . Esta característica estará disponible únicamente en "Zonas Seguras" en futuras actualizaciones de Chat-Adventure.
+
+#### **Por ahora, podrás recuperar puntos de energía utilizando:**
+
+**Consumibles:** Artículos de un solo uso que restauran energía al instante.
+**Artículos reutilizables:** Equipos o herramientas que ofrecen beneficios continuos para recuperar energía.
+**Dónde conseguir estos artículos:**
+- **Tienda:** Adquiere consumibles y artículos reutilizables con recursos o moneda del juego.
+- **Eventos y Logros:** Obtén recompensas exclusivas al participar en eventos especiales o completar desafíos.
+- **Mercado de Jugadores:** Compra o intercambia artículos con otros jugadores a través del mercado.
+Próximas Actualizaciones
+
+Estamos trabajando para expandir las opciones disponibles para gestionar tu energía.
+
+
 #### **La Experiencia:**
 La experiencia es básica y necesaria para desbloquear muchas cosas del proyecto, específicamente alcanzar el rango de confianza para retiros, que sería el nivel 15. Las actividades que proveerán experiencia en esta primera actualización son:
 - **Las tareas diarias:** Otorgan 1 punto de experiencia cada vez que completas una tarea. Si tienes Tech Pass, obtienes 5 puntos.

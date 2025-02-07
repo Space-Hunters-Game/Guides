@@ -281,6 +281,21 @@ Here are data on the activities that currently consume energy:
 - **Hiring Engineers:** 1 energy point. Not per engineer, but per action. That is, if you hire 5 engineers together, that counts as 1 action. If you later go and hire 2 more, that counts as another action.
 - **Turning on the Generator in cycle 11:** Consumes 2 energy points, but if you have Tech Pass, it will only be 1 energy point. This consumption occurs only in cycle 11.
 For now, these are all the actions that consume energy, super simple and basic to introduce this mechanic into the ecosystem.
+
+> At this time, energy does not recharge passively. This feature will only be available in "Safe Zones" in future updates of Chat-Adventure.
+
+#### **For now, you can recover energy points by using:**
+- **Consumables:** Single-use items that instantly restore energy.
+- **Reusable Items:** Equipment or tools that provide ongoing energy restoration benefits.
+
+#### **Where to Obtain These Items:**
+- **In-Game Shop:** Purchase consumables and reusable items using in-game resources or currency.
+- **Events and Achievements:** Earn exclusive rewards by participating in special events or completing challenges.
+- **Player Market:** Buy or trade items with other players through the marketplace.
+
+#### **Upcoming Updates**
+We are working on expanding the options available for managing your energy.
+
 #### **Experience:**
 Experience is basic and necessary to unlock many things in the project, specifically reaching the trust level for withdrawals, which would be level 15. The activities that will provide experience in this first update are:
 - **Daily tasks:** Grant 1 experience point each time you complete a task. If you have Tech Pass, you get 5 points.
