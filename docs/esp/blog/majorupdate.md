@@ -22,6 +22,7 @@
 8. [Mecánicas del Marketplace](#mecánicas-del-marketplace)
 9. [Wallets](#wallets)
 10. [Energía y Experiencia](#energía-y-experiencia)
+      - [Efecto Fatiga (Solo items Tech)](#qué-es-el-efecto-fatiga)
 11. [Tech: Generators](#tech-generators)
     - [Ganancias de los Ingenieros](#ganancias-de-los-ingenieros)
     - [Anomalías](#anomalías)
@@ -59,7 +60,7 @@ Otros artículos destacados:
 - **Cycle Reinitializer:** Reinicia el ciclo actual del generador al primero. Ideal para optimizar la producción de energía.  
 - **Auto-PowerUp x1/x3:** Enciende automáticamente tu generador 5 minutos después de apagarse. Se consume directamente desde el inventario.  
 - **Crew Permit:** Aumenta la capacidad de ingenieros del generador en 12.  
-- **SparkBox:** Restaura instantáneamente el 50% de tu energía. Perfecto para emergencias.  
+- **SparkBox:** Restaura instantáneamente el 50% de tu energía. Perfecto para emergencias. (Disponibilidad temporal)  
 - **Parts Pack:** Contiene 3 piezas de mejora para generadores.  
 - **Crazy Potion Pack:** Contiene 2 pociones aleatorias para aumentar energía o habilidades de aprendizaje.  
 
@@ -125,11 +126,11 @@ El inventario es un componente crucial de tu experiencia en el juego, ya que alb
 
 ---
 
-### **La Gacha Machine** 
+### **El Gacha Machine** 
 
 ![alt text](../../../static/img/gacha.png)
 
-La **Gacha Machine** es una mecánica emocionante que te permite obtener ítems consumibles gratis para usar en **Tech: Generators**. La encuentras en el menú desplegable al hacer clic en tu foto de perfil.
+El **Gacha Machine** es una mecánica emocionante que te permite obtener ítems consumibles gratis para usar en **Tech: Generators**. La encuentras en el menú desplegable al hacer clic en tu foto de perfil.
 
 #### **Características principales:**
 - **Probabilidades:** 80% de éxito y 20% de fallo.
@@ -148,6 +149,18 @@ Antes de utilizar los ítems consumibles, es importante conocer el proceso adecu
 2. **Aplicación de consumibles:**  
    - Para usar un ítem con efecto **directo** (aplicado a un generador específico), primero debes seleccionar el generador en la parte superior de la pantalla.  
    - **Importante:** Si no tienes ingenieros contratados en generadores, el consumible **no surtirá efecto** y se perderá. Asegúrate de contratar ingenieros antes de aplicarlos.  
+   - **Efecto Fatiga** Si utilizas mas de un consumible sobre un mismo generador el primer consumible tendra su efecto 100% valido, pero aplicar mas efectos de forma acumulativa tendráun efeccto de fatiga exponencial. Lo mismo con los consumibles globales que afectan a todos tus ingenieros en general.
+  
+### **¿Qué es el Efecto Fatiga?**
+El Efecto Fatiga es una regla que limita la eficacia de los consumibles cuando se usan varios al mismo tiempo. Funciona así:
+
+- El primer consumible que uses tiene su efecto completo (100%).
+- Cada consumible adicional que apliques tendrá un efecto reducido debido a la fatiga acumulativa.
+- Esta reducción sigue una fórmula exponencial: cada consumible adicional pierde un 30% de eficiencia respecto al anterior.
+- Esto significa que mientras más consumibles uses al mismo tiempo, menos impacto tendrán los últimos.
+
+> *Puedes usar los consumibles de forma ilimitada pero tendrá un efecto fatiga para evitar el abuso de la mecánica.*
+
 
 3. **Tipos de efectos:**  
    - Algunos ítems tienen efectos **globales**, afectando a **todos** los generadores o ingenieros.  
@@ -228,6 +241,9 @@ El **Black Market** es una nueva mecánica diseñada para ofrecer una alternativ
 ### **Marketplace HUB** 
 El **Marketplace HUB** es un mercado centralizado donde puedes comprar y vender todos los ítems de todos los juegos de nuestro ecosistema. Para facilitar la experiencia, hemos implementado filtros que te permiten navegar y encontrar lo que necesitas rápidamente.
 
+#### **Restricción de Mercado**
+Usuarios con nivel inferior al 15 no podrán usar el Marketplace. Esta regla se aplica para evitar que se cree una granja de multicuentas intercambiandose los tokens sin alcanzar el nivel requerido para otras acciones como el retiro. Las multicuentas estan permitidas pero la explotación no, por lo que priorizamos la seguridad del ecosistema ante todo.
+
 #### **Cómo vender un ítem:**
 
 ![alt text](../../../static/img/sell.png)
@@ -289,8 +305,10 @@ No todas las acciones del ecosistema consumirán energía, pero muchas de ellas 
 
 A continuación, te doy datos sobre las actividades que de momento consumen energía:
 - **Las expediciones de Chat-Adventure:** 8 puntos de energía.
-- **Contratar Ingenieros:** 1 punto de energía. No es por cada ingeniero, sino por cada acción. Es decir, si contratas 5 ingenieros juntos, eso cuenta como 1 acción. Si luego vas y contratas 2 en otro, cuenta como otra acción.
+- **Contratar Ingenieros:** 2 punto de energía. No es por cada ingeniero, sino por cada acción. Es decir, si contratas 5 ingenieros juntos, eso cuenta como 1 acción. Si luego vas y contratas 2 en otro, cuenta como otra acción.
 - **Encender el Generador en el ciclo 11:** Consume 2 puntos de energía, pero si tienes Tech Pass, será solo 1 punto de energía. Este consumo es únicamente en el ciclo 11.
+- **Las Tareas diarias:** 5 puntos de energía, estas tareaas dan experiencia, $HCREDIT y Tech Tickets que te permiten a demás ganar $HCAASH.
+
 
 De momento, estas son todas las acciones que consumen energía, super simple y básico para ir introduciendo esta mecánica en el ecosistema.
 
@@ -311,7 +329,7 @@ Estamos trabajando para expandir las opciones disponibles para gestionar tu ener
 
 #### **La Experiencia:**
 La experiencia es básica y necesaria para desbloquear muchas cosas del proyecto, específicamente alcanzar el rango de confianza para retiros, que sería el nivel 15. Las actividades que proveerán experiencia en esta primera actualización son:
-- **Las tareas diarias:** Otorgan 1 punto de experiencia cada vez que completas una tarea. Si tienes Tech Pass, obtienes 5 puntos.
+- **Las tareas diarias:** Otorgan 5 punto de experiencia cada vez que completas una tarea. Si tienes Tech Pass, obtienes 10 puntos.
 - **Si tienes Tech Pass, cada compra en la tienda te da un punto de experiencia.**
 - **Contratar ingenieros:** 2 puntos y con Tech Pass, 8 puntos de experiencia.
 - **Encender el generador:** Otorga 5 puntos de experiencia y con Tech Pass, 10 puntos. Igual que la energía, esto ocurre al llegar al ciclo 11 únicamente.

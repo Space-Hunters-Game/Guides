@@ -22,6 +22,7 @@ Welcome to a new update of our gaming ecosystem! On this occasion, we have worke
 8. [Marketplace Mechanics](#marketplace-mechanics)
 9. [Wallets](#wallets)
 10. [Energy and Experience](#energy-and-experience)
+    - [Fatigue Effect (Tech Items) ](#what-is-the-fatigue-effect)
 11. [Tech: Generators](#tech-generators)
     - [Engineers' Earnings](#engineers-earnings)
     - [Anomalies](#anomalies)
@@ -140,7 +141,20 @@ Before using consumable items, it is important to know the correct process to ap
 
 2. **Consumables application:**  
    - To use an item with a **direct** effect (applied to a specific generator), you must first select the generator at the top of the screen.  
-      - **Important:** If you do not have engineers hired in generators, the consumable **will not take effect** and will be lost. Make sure to hire engineers before applying them.  
+      - **Important:** If you do not have engineers hired in generators, the consumable **will not take effect** and will be lost. Make sure to hire engineers before applying them.
+      - **Fatigue Effect** If you use more than one consumable on the same generator, the first consumable will have its full 100% effect. However, applying more effects cumulatively will trigger an exponential fatigue effect. The same applies to global consumables that affect all your engineers in general.
+
+  ### **What is the Fatigue Effect?**
+The Fatigue Effect is a rule that limits the effectiveness of consumables when multiple are used simultaneously. It works as follows:
+
+- The first consumable you use has its full effect (100%).
+- Each additional consumable you apply will have a reduced effect due to accumulated fatigue.
+- This reduction follows an exponential formula: each additional consumable loses 30% efficiency compared to the previous one.
+- This means that the more consumables you use at the same time, the less impact the later ones will have.
+
+> *You can use consumables indefinitely, but the Fatigue Effect prevents abuse of the mechanic.*
+
+
 
 3. **Types of effects:**  
    - Some items have **global** effects, affecting **all** generators or engineers.  
@@ -252,6 +266,9 @@ All market offers are automatically sorted by price from lowest to highest.
 ### **Marketplace Mechanics** 
 This Marketplace is unique and was specifically designed to protect your assets. Below, we explain the rules that ensure fair and balanced trading.
 
+#### **Marketplace Restriction**
+Users below level 15 will not be able to use the Marketplace.
+
 #### **Rules for protection against "price dumping":**
 1. **Minimum price limit:** You cannot set a price lower than **10% of the Floor Price** of the same item.
 2. **Protection against the official shop:** If the item is available in the shop, you cannot set a price lower than **50% of the shop price**.
@@ -278,9 +295,10 @@ Energy and experience are two new features that we have activated in this update
 Not all actions in the ecosystem will consume energy, but many of them do to complement balance and eliminate exploitation in any possible aspect, but also promote a solid foundation of work distribution among different activities. It is important that you understand how to efficiently distribute your energy to optimize your performance.
 Here are data on the activities that currently consume energy:
 - **Chat-Adventure expeditions:** 8 energy points.
-- **Hiring Engineers:** 1 energy point. Not per engineer, but per action. That is, if you hire 5 engineers together, that counts as 1 action. If you later go and hire 2 more, that counts as another action.
+- **Hiring Engineers:** 2 energy point. Not per engineer, but per action. That is, if you hire 5 engineers together, that counts as 1 action. If you later go and hire 2 more, that counts as another action.
 - **Turning on the Generator in cycle 11:** Consumes 2 energy points, but if you have Tech Pass, it will only be 1 energy point. This consumption occurs only in cycle 11.
 For now, these are all the actions that consume energy, super simple and basic to introduce this mechanic into the ecosystem.
+- **Daily Tasks:** 5 energy points. These tasks grant experience, $HCREDIT, and Tech Tickets, which also allow you to earn $HCAASH.
 
 > At this time, energy does not recharge passively. This feature will only be available in "Safe Zones" in future updates of Chat-Adventure.
 
@@ -298,7 +316,7 @@ We are working on expanding the options available for managing your energy.
 
 #### **Experience:**
 Experience is basic and necessary to unlock many things in the project, specifically reaching the trust level for withdrawals, which would be level 15. The activities that will provide experience in this first update are:
-- **Daily tasks:** Grant 1 experience point each time you complete a task. If you have Tech Pass, you get 5 points.
+- **Daily Tasks:** Grant 5 experience points each time you complete a task. If you have a Tech Pass, you get 10 points.
 - **If you have Tech Pass, each purchase in the shop gives you an experience point.**
 - **Hiring engineers:** 2 points and with Tech Pass, 8 experience points.
 - **Turning on the generator:** Grants 5 experience points and with Tech Pass, 10 points. Same as energy, this happens only when reaching cycle 11.
