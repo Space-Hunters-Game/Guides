@@ -15,6 +15,7 @@ Welcome to a new update of our gaming ecosystem! On this occasion, we have worke
 4. [The Inventory](#the-inventory)
 5. [The Gacha Machine](#the-gacha-machine)
    -  [Use of Consumables](#use-of-consumable-items)
+   - [Fatigue Effect (Tech Items) ](#what-is-the-fatigue-effect)
    -  [List of Consumables](#list-of-available-consumables)
 6. [Black Market](#black-market)
 7. [HUB Marketplace](#hub-marketplace)
@@ -22,7 +23,6 @@ Welcome to a new update of our gaming ecosystem! On this occasion, we have worke
 8. [Marketplace Mechanics](#marketplace-mechanics)
 9. [Wallets](#wallets)
 10. [Energy and Experience](#energy-and-experience)
-    - [Fatigue Effect (Tech Items) ](#what-is-the-fatigue-effect)
 11. [Tech: Generators](#tech-generators)
     - [Engineers' Earnings](#engineers-earnings)
     - [Anomalies](#anomalies)
@@ -144,7 +144,8 @@ Before using consumable items, it is important to know the correct process to ap
       - **Important:** If you do not have engineers hired in generators, the consumable **will not take effect** and will be lost. Make sure to hire engineers before applying them.
       - **Fatigue Effect** If you use more than one consumable on the same generator, the first consumable will have its full 100% effect. However, applying more effects cumulatively will trigger an exponential fatigue effect. The same applies to global consumables that affect all your engineers in general.
 
-  ### **What is the Fatigue Effect?**
+
+### **What is the Fatigue Effect?**
 The Fatigue Effect is a rule that limits the effectiveness of consumables when multiple are used simultaneously. It works as follows:
 
 - The first consumable you use has its full effect (100%).
