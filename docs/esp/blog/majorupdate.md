@@ -15,6 +15,7 @@
 4. [El Inventario](#el-inventario)
 5. [La Gacha Machine](#la-gacha-machine)
    -  [Uso de los Consumibles](#uso-de-ítems-consumibles)
+    - [Efecto Fatiga](#el-efecto-fatiga)
    -  [Lista de Consumibles](#lista-de-consumibles-disponibles)
 6. [Black Market](#black-market)
 7. [Marketplace HUB](#marketplace-hub)
@@ -22,7 +23,6 @@
 8. [Mecánicas del Marketplace](#mecánicas-del-marketplace)
 9. [Wallets](#wallets)
 10. [Energía y Experiencia](#energía-y-experiencia)
-      - [Efecto Fatiga (Solo items Tech)](#qué-es-el-efecto-fatiga)
 11. [Tech: Generators](#tech-generators)
     - [Ganancias de los Ingenieros](#ganancias-de-los-ingenieros)
     - [Anomalías](#anomalías)
@@ -151,7 +151,7 @@ Antes de utilizar los ítems consumibles, es importante conocer el proceso adecu
    - **Importante:** Si no tienes ingenieros contratados en generadores, el consumible **no surtirá efecto** y se perderá. Asegúrate de contratar ingenieros antes de aplicarlos.  
    - **Efecto Fatiga** Si utilizas mas de un consumible sobre un mismo generador el primer consumible tendra su efecto 100% valido, pero aplicar mas efectos de forma acumulativa tendráun efeccto de fatiga exponencial. Lo mismo con los consumibles globales que afectan a todos tus ingenieros en general.
   
-### **¿Qué es el Efecto Fatiga?**
+## **El Efecto Fatiga**
 El Efecto Fatiga es una regla que limita la eficacia de los consumibles cuando se usan varios al mismo tiempo. Funciona así:
 
 - El primer consumible que uses tiene su efecto completo (100%).
