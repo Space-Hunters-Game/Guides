@@ -55,7 +55,7 @@ Other highlighted items:
 - **Energy Disruptor:** Instantly turns off a generator, interrupting its operation and resetting its current cycle.  
 - **Cycle Reinitializer:** Resets the current generator cycle to the first one. Ideal for optimizing energy production.  
 - **Auto-PowerUp x1/x3:** Automatically turns on your generator 5 minutes after it turns off. It is consumed directly from the inventory.  
-- **Crew Permit:** Increases the generator's engineer capacity by 12.  
+- **Crew Permit:** Increases the generator's engineer capacity by 12. This item increases his base cost by 4% for every 30 sold.  
 - **SparkBox:** Instantly restores 50% of your energy. Perfect for emergencies.  
 - **Parts Pack:** Contains 3 generator upgrade parts.  
 - **Crazy Potion Pack:** Contains 2 random potions to increase energy or learning abilities.  
