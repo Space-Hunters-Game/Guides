@@ -11,7 +11,7 @@
 
 ### 💰 Tokenomic
 - 📌 [$HCASH](/docs/eng/announcements/HCASH_Summary_EN.md)
-- 📌 [$HCREDIT](/docs/eng/announcements/HCASH_Summary_EN.md)
+- 📌 [$HCREDIT](/docs/eng/01-user-guides/hcreditguide.md)
 
 ### 📃 Whitepapers
 - 📌 The Reborn (Soon)
