@@ -6,8 +6,9 @@
 
 * 📌 [English](../../index.md)
 
-### 🔄 Update 2/7/2025 
-- 🔧 [Detalles de la Actualización](../../docs/esp/blog/majorupdate.md)
+### 🔄 Lista de Actualizaciones 
+- 🔧 [#1 Actualización 02/7/2025](../../docs/esp/blog/majorupdate.md)
+- 🔧 [#2 Actualización 03/26/2025](../../docs/esp/blog/update2_es.md)
 
 ### 💰 Economía
 - 📌 [$HCASH](anuncios/HCASH_Summary_ES.md)
@@ -15,9 +16,9 @@
 
 ### 📃 Documentación
 - 📌 El Renacer (Soon)
-- 📌 [Tec: Generadores](01-guias-de-usuario/whitepaper-generadores.md)
-- 📌 Juego de Alquimia (soon)
-
+- 📌 [Tech: Generators (Alpha)](01-guias-de-usuario/whitepaper-generadores.md)
+- 📌 Chat-Adventure (soon)
+- 📌 Novarians Conflict (soon)
 ---
 ---
 

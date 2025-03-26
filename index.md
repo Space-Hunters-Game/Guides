@@ -6,8 +6,10 @@
 
 * 📌 [Español](docs/esp/00-index.md)
 
-### 🔄 Update 2/7/2025 
-- 🔧 [Update Details](/docs/eng/blog/majorupdate_eng.md)
+### 🔄 Updates List 
+- 🔧 [#1 Update 2/7/2025 ](/docs/eng/blog/majorupdate_eng.md)
+- 🔧 [#2 Update 3/26/2025 ](/docs/eng/blog/update2.md)
+
 
 ### 💰 Tokenomic
 - 📌 [$HCASH](/docs/eng/announcements/HCASH_Summary_EN.md)
@@ -15,8 +17,9 @@
 
 ### 📃 Whitepapers
 - 📌 The Reborn (Soon)
-- 📌 [Tech: Generators](/docs/eng/01-user-guides/generatorsenglish.md)
-- 📌 Alchemy Chat-Game (soon)
+- 📌 [Tech: Generators (Alpha)](/docs/eng/01-user-guides/generatorsenglish.md)
+- 📌 Chat-Adventure (soon)
+- 📌 Novarians Conflict (soon)
   
 
 ---
