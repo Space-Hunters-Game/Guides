@@ -34,7 +34,9 @@ Este índice proporciona la visión general necesaria para que los nuevos usuari
 - [Integración de Nuevas Piel](#integración-de-nuevas-piel)
 - [Partes Doradas](#partes-doradas)
 - [Nuevos Artículos de la Tienda](#nuevos-artículos-de-la-tienda)
-
+- [NFT Derechos de Propiedad](#nft-derechos-de-propiedad)
+- [Pase de Acceso](#pase-de-acceso)
+- [Econimía Intelligente](#economía-inteligente)
 ---
 
 ## Conceptos Clave
@@ -241,7 +243,7 @@ Un modelo que te permite bloquear tokens $HCASH con rangos de tiempo y cantidad 
 
 ## El Super Pase
 Diseñado especialmente para Propietarios de Generadores, disponible en la sección de membresía de la tienda:
-- **Precio:** $4 en tokens $HCASH (25 tokens al precio de lanzamiento)
+- **Precio:** 25 en tokens $HCASH (25 tokens al precio de lanzamiento)
 - **Duración:** 7 Días
 - **Etiqueta Exclusiva:** “Super Generador” con etiqueta dorada
 - **Impulso de Hashrate:** +22% de Hashrate base de forma permanente
@@ -258,7 +260,7 @@ Ingenieros de alta calidad contratados a través del programa de Pre-Contratos:
 - **+25% de Aumento en los Ingresos**
 - **+2 Hash de Eficiencia Base**
 - **Buffs de Consumibles:** Afectados por consumibles de clase buff
-- **Reducción del Impacto de Anomalías:** 40% de reducción de los efectos negativos de las anomalías
+- **Reducción del Impacto de Anomalías:** 40% de reducción de los efectos negativos de las anomalías sobre ingenieros.
 - **Sin Extensiones de Contrato:** No se pueden extender los contratos usando consumibles de extensión de tiempo
 
 [🔼 Regresar al Índice](#)
@@ -271,8 +273,8 @@ Permite a los ingenieros reservar contratos en un generador seleccionado.
 - **Reserva Máxima:** 1 día (el día siguiente)
 - **Funcionamiento:** Los ingenieros de Pre-Contrato comienzan a trabajar a las 00:00 UTC y terminan 24 horas después.
 - **Especifico del Generador:** Las reservas se hacen para un generador específico.
-- **Cuota de Reserva:** $0.16 en tokens $HCASH por reserva, contribuyendo al tesoro económico.
-- **Bloqueo Temporal:** $1 en $HCASH por ingeniero queda bloqueado durante 24 horas y se reembolsa después.
+- **Cuota de Reserva:** 1 $HCASH por reserva, contribuyendo al tesoro económico.
+- **Bloqueo Temporal:** 6.25 $HCASH por ingeniero queda bloqueado durante 24 horas y se reembolsa después.
 - **Uso de HCREDIT:** 100 $HCREDIT por ingeniero se consumen en el momento de la reserva para garantizar el cumplimiento.
 - **Capacidad Adicional:** Los Pre-Contratos no ocupan la capacidad base del generador.
 - **Contratación Flexible:** Puedes contratar ingenieros regulares junto con Pre-Contratos, permitiendo hasta 40 ingenieros por generador.
@@ -299,6 +301,47 @@ Las Partes Doradas se introducirán con el lanzamiento del nuevo servidor.
 
 ## Nuevos Artículos de la Tienda
 Se agregarán más ítems para jugadores e inversores.
+
+## NFT Derechos de Propiedad
+Próximamente, podrás mintear tu perfil de Space Hunters en la blockchain en forma de NFT. Esta nueva ventaja no solo añadirá una capa de seguridad descentralizada a tu cuenta, sino que también te permitirá transferir la propiedad junto con sus bienes e incluso comercializarla. Los detalles sobre el proceso y su implementación se revelarán junto con la actualización correspondiente.
+
+---
+
+## Pase de Acceso
+Este pase te otorga acceso a misiones diarias especiales con recompensas extraordinarias en $HCREDIT. Las misiones están clasificadas por rangos y para desbloquearlas es necesario cumplir ciertos requisitos. Puedes completar una misión al día, pero si no la finalizas antes del reinicio diario, expirará. Las misiones se asignan automáticamente después del check-in.
+
+> El Access Pass tendrá un costo de 4 $HCASH y una duración de una semana.
+
+### Ejemplo de Misiones:
+
+**🔹 Misiones de Rango C:**
+
+> Requiere Nivel 4 y una racha mínima de 7 días de check-in.
+
+Desbloquea 11 misiones diferentes (1 al día), con recompensas entre 150 y 300 $HCREDIT, además de una pequeña posibilidad de obtener una misión especial de 500, 750 o 2000 $HCREDIT.
+
+**🔹 Misiones de Rango B:**
+
+> Requiere Nivel 12 y una racha mínima de 15 días de check-in.
+
+Desbloquea 23 misiones diferentes (1 al día), incluyendo las de rango C, con nuevas recompensas de hasta 4000 $HCREDIT y mejores probabilidades de conseguir premios mayores.
+
+A medida que avancemos en el desarrollo del proyecto, también añadiremos rangos superiores como A, S y SS, con misiones aún más desafiantes y recompensas más atractivas.
+
+---
+
+## Economía Inteligente
+**El sistema de precios** se ajustará en función de la propia economía de $HCASH, sin depender de modelos descontinuados como **Oracle**. En lugar de vincular los precios al **valor de $USDT** en la blockchain, utilizaremos un enfoque basado en la **oferta, demanda y el flujo de transacciones** dentro del ecosistema.
+
+> Este modelo permite una regulación más estable y orgánica de los costos, evitando la inflación agresiva y la volatilidad extrema que afectan a los sistemas anclados a monedas externas. En esencia:
+
+**"1 $HCASH = 1 $HCASH".**
+
+No necesitamos compararlo con $USDT para ajustar precios, ya que ese método es defectuoso y genera ciclos de inflación descontrolada seguidos de caídas abruptas. Con este enfoque, garantizamos una economía sostenible y equilibrada dentro del proyecto.
+
+Nuestro algoritmo utilizará datos del flujo de pagos, oferta, demanda, transaciones, fees y otros factores para determinar el precio mas justo de tanto los articuloss de la tienda como otras características que iremos integrando. Con este formato no importara lo que ocurra en blockchain porque siempre estaremos mirando lo que sucede dentro de nuestro ecosistema.
+
+---
 
 ## ¿Qué viene Next?
 Estamos trabajando en los detalles. Antes de anunciar los próximos programas económicos, iniciativas Play-to-Earn y beneficios para los Titulares, primero lanzaremos el token $HCASH y completaremos la migración del servidor. ¡Permanece atento para más actualizaciones!
