@@ -34,6 +34,9 @@ This index provide the needed overview for new users to understand the game mech
 - [Golden Parts](#golden-parts)
 - [New Store Items](#new-store-items)
 - [What’s Next?](#whats-next)
+- [NFT Property Rights](#nft-property-rights)
+- [Access Pass](#access-pass)
+- [Smart Economy](#smart-economy)
 
 ---
 
@@ -242,7 +245,7 @@ A model that allows you to lock $HCASH tokens with flexible time and amount rang
 
 ## The Super Pass
 Specially designed for Generator Owners, available in the membership section of the store:
-- **Price:** $4 in $HCASH tokens (25 tokens at launch price)
+- **Price:** 25 $HCASH tokens (25 tokens at launch price)
 - **Duration:** 7 Days
 - **Exclusive Tag:** “Super Generator” golden tag
 - **Hashrate Boost:** +22% Base Hashrate permanently
@@ -272,8 +275,8 @@ Allows engineers to reserve contracts on a selected generator.
 - **Max Reservation:** 1 day (the following day)
 - **Operation:** Pre-Contract engineers start working at 00:00 UTC and finish 24 hours later.
 - **Generator-Specific:** Reservations are made for a specific generator.
-- **Reservation Fee:** $0.16 worth in $HCASH tokens per reservation, contributing to the economic treasury.
-- **Temporary Lock:** $1 worth in $HCASH per engineer is locked for 24 hours and refunded afterward.
+- **Reservation Fee:** 1 $HCASH tokens per reservation, contributing to the economic treasury.
+- **Temporary Lock:** 6.25 $HCASH per engineer is locked for 24 hours and refunded afterward.
 - **HCREDIT Usage:** 100 $HCREDIT per engineer is consumed at the time of reservation to guarantee fulfillment.
 - **Additional Capacity:** Pre-Contracts do not occupy the base generator capacity.
 - **Flexible Hiring:** You can hire regular engineers alongside Pre-Contracts, enabling up to 40 engineers per generator.
@@ -300,6 +303,49 @@ Golden Parts will be introduced with the new server launch.
 
 ## New Store Items
 Additional items will be available for both players and investors.
+
+---
+
+## NFT Property Rights
+Coming soon, you will be able to mint your Space Hunters profile on the blockchain as an NFT. This new feature will not only add a layer of decentralized security to your account but will also allow you to transfer ownership along with its assets and even trade it. Details about the process and implementation will be revealed with the corresponding update.
+
+---
+
+## Access Pass
+This pass grants access to special daily missions with extraordinary $HCREDIT rewards. Missions are classified by ranks, and unlocking them requires meeting specific requirements. You can complete **one mission per day**, but if you don’t finish it before the daily reset, it will expire. Missions are assigned automatically after check-in.
+
+> The Access Pass will cost **4 $HCASH** and will last for one week.
+
+### Mission Examples:
+
+**🔹 Rank C Missions:**
+
+> Requires **Level 4** and a minimum **7-day check-in streak**.
+
+Unlocks **11 different missions** (1 per day), with rewards ranging from **150 to 300 $HCREDIT**, and a small chance to find a special mission worth **500, 750, or 2000 $HCREDIT**.
+
+**🔹 Rank B Missions:**
+
+> Requires **Level 12** and a minimum **15-day check-in streak**.
+
+Unlocks **23 different missions** (1 per day), including **Rank C missions**, with new rewards up to **4000 $HCREDIT** and improved chances of obtaining higher-tier prizes.
+
+As we continue developing the project, we will also introduce **higher ranks** such as **A, S, and SS**, with even more challenging missions and greater rewards.
+
+---
+
+## Smart Economy
+**The pricing system** will be adjusted based on the internal economy of **$HCASH**, without relying on outdated models like **Oracle**. Instead of linking prices to the **$USDT value** on the blockchain, we will use an approach based on **supply, demand, and transaction flow** within our ecosystem.
+
+> This model allows for a more stable and organic cost regulation, avoiding aggressive inflation and extreme volatility that affect systems tied to external currencies. In essence:
+
+**"1 $HCASH = 1 $HCASH".**
+
+There is no need to compare it to **$USDT** to adjust prices, as that method is flawed and leads to uncontrolled inflation cycles followed by abrupt crashes. With this approach, we ensure a **sustainable and balanced economy** within the project.
+
+Our algorithm will analyze **payment flow, supply, demand, transactions, fees,** and other factors to determine the fairest price for both store items and upcoming features. With this system, external blockchain fluctuations won’t matter, as we will always be focused on what happens inside our ecosystem.
+
+---
 
 ## What’s Next?
 We are working on the details. Before announcing the upcoming economic programs, Play-to-Earn initiatives, and Holder benefits, we will first launch the $HCASH token and complete the server migration. Stay tuned for further updates!
