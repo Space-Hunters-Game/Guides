@@ -23,7 +23,9 @@ Este índice proporciona la visión general necesaria para que los nuevos usuari
 9. [Máquina Gacha](#máquina-gacha)
 10. [Listado del Token y Estrategia de Liquidez Próximos](#listado-del-token-y-estrategia-de-liquidez-próximos)
 11. [Actualizaciones y Mantenimiento Recientes](#actualizaciones-y-mantenimiento-recientes)
+
 ---
+
 ## Nueva Actualización 03/26/2025
 - [Programa H-Vault](#programa-h-vault)
 - [El Super Pase](#el-super-pase)
@@ -37,6 +39,7 @@ Este índice proporciona la visión general necesaria para que los nuevos usuari
 - [NFT Derechos de Propiedad](#nft-derechos-de-propiedad)
 - [Pase de Acceso](#pase-de-acceso)
 - [Econimía Intelligente](#economía-inteligente)
+
 ---
 
 ## Conceptos Clave
