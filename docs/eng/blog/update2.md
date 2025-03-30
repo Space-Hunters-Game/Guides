@@ -37,6 +37,11 @@ This index provide the needed overview for new users to understand the game mech
 - [NFT Property Rights](#nft-property-rights)
 - [Access Pass](#access-pass)
 - [Smart Economy](#smart-economy)
+- [Reputation TAG](#reputation-tag)
+- [Anomalies 2nd Patch](#anomalies---2nd-patch)
+- [Favorites List](#favorites-list)
+- [Community Task Posting](#community-task-posting)
+- [Chat-Adventure](#upcoming-game-chat-adventure)
 
 ---
 
@@ -311,6 +316,8 @@ Coming soon, you will be able to mint your Space Hunters profile on the blockcha
 
 ---
 
+[🔼 Back to Index](#)
+
 ## Access Pass
 This pass grants access to special daily missions with extraordinary $HCREDIT rewards. Missions are classified by ranks, and unlocking them requires meeting specific requirements. You can complete **one mission per day**, but if you don’t finish it before the daily reset, it will expire. Missions are assigned automatically after check-in.
 
@@ -332,6 +339,8 @@ Unlocks **23 different missions** (1 per day), including **Rank C missions**, wi
 
 As we continue developing the project, we will also introduce **higher ranks** such as **A, S, and SS**, with even more challenging missions and greater rewards.
 
+[🔼 Back to Index](#)
+
 ---
 
 ## Smart Economy
@@ -344,6 +353,62 @@ As we continue developing the project, we will also introduce **higher ranks** s
 There is no need to compare it to **$USDT** to adjust prices, as that method is flawed and leads to uncontrolled inflation cycles followed by abrupt crashes. With this approach, we ensure a **sustainable and balanced economy** within the project.
 
 Our algorithm will analyze **payment flow, supply, demand, transactions, fees,** and other factors to determine the fairest price for both store items and upcoming features. With this system, external blockchain fluctuations won’t matter, as we will always be focused on what happens inside our ecosystem.
+
+[🔼 Back to Index](#)
+
+---
+
+## Reputation Tag
+Generator owners will receive a **reputation tag** based on their uptime, ranging from **0% to 100%**, with a **color-coded visual indicator** to signal risk levels for engineers. As an engineer, you will be able to assess how much you are risking your earnings in a particular generator. 
+
+These stats will be calculated based on the **last 7 days of activity**. If you are a **new owner**, your tag will display **"NEW"** until 7 days have passed. Each generator has its **own unique reputation**, even if owned by the same person.
+
+### Reputation Colors:
+- **0% - 69%** → 🔴 **Red**  
+- **70% - 89%** → 🟠 **Orange**  
+- **90% - 100%** → 🟢 **Green**  
+- **"NEW"** → 🟡 **Gold**  
+
+[🔼 Back to Index](#)
+
+---
+
+## Anomalies - 2nd Patch
+As everyone noticed, **just before maintenance, we adjusted anomalies**, and they can now impact your generator **up to 100%**.  
+
+In this upcoming update (currently in development), anomalies will **not only affect generators but also engineers**. **Engineer protection items are already dropped**, but **Gacha will no longer release them this season**, which may last several months. However, you can still **trade them**, find them in the **market**, or get them from the **store**, where we will introduce a **new protection pack** that might just save you.
+
+Additionally, we plan to introduce **new Side Effects** and **more dynamic mechanics** in the **final Alpha-stage patch of Tech Generator**.
+
+[🔼 Back to Index](#)
+
+---
+
+## Favorites List
+Add generators to your **favorites list** for **quick access** to their information.  
+🔒 **Only available for Tech Pass subscribers.**
+
+[🔼 Back to Index](#)
+
+---
+
+## Community Task Posting
+The **community** will be able to **add tasks** to the **To-Do List section** using **$HCASH** as a currency to promote their **content, businesses, projects,** and much more.
+
+[🔼 Back to Index](#)
+
+---
+
+## Upcoming Game: Chat-Adventure
+We are actively working on our **next game**, an **adventure game** that we have **high hopes for** and that many of you have been eagerly waiting to play:  
+
+🎮 **Chat-Adventure**  
+
+We speculate that this will become a **global sensation** for **RPG lovers** who **do not have high-end gaming technology** but still want a great experience.  
+
+All you need is your **mobile phone and Telegram** to play!
+
+[🔼 Back to Index](#)
 
 ---
 

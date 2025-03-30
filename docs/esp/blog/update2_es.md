@@ -39,6 +39,11 @@ Este índice proporciona la visión general necesaria para que los nuevos usuari
 - [NFT Derechos de Propiedad](#nft-derechos-de-propiedad)
 - [Pase de Acceso](#pase-de-acceso)
 - [Econimía Intelligente](#economía-inteligente)
+- [Etiqueta de Reputación](#etiqueta-de-reputación)  
+- [Anomalías - 2do Parche](#anomalías---2do-parche)  
+- [Lista de Favoritos](#lista-de-favoritos)  
+- [Publicación de Tareas (Comunidad)](#publicación-de-tareas-comunidad)  
+- [Próximo Juego: Chat-Adventure](#próximo-juego-chat-adventure)  
 
 ---
 
@@ -308,6 +313,8 @@ Se agregarán más ítems para jugadores e inversores.
 ## NFT Derechos de Propiedad
 Próximamente, podrás mintear tu perfil de Space Hunters en la blockchain en forma de NFT. Esta nueva ventaja no solo añadirá una capa de seguridad descentralizada a tu cuenta, sino que también te permitirá transferir la propiedad junto con sus bienes e incluso comercializarla. Los detalles sobre el proceso y su implementación se revelarán junto con la actualización correspondiente.
 
+[🔼 Subir al Índice](#)
+
 ---
 
 ## Pase de Acceso
@@ -331,6 +338,8 @@ Desbloquea 23 misiones diferentes (1 al día), incluyendo las de rango C, con nu
 
 A medida que avancemos en el desarrollo del proyecto, también añadiremos rangos superiores como A, S y SS, con misiones aún más desafiantes y recompensas más atractivas.
 
+[🔼 Subir al Índice](#)
+
 ---
 
 ## Economía Inteligente
@@ -343,6 +352,58 @@ A medida que avancemos en el desarrollo del proyecto, también añadiremos rango
 No necesitamos compararlo con $USDT para ajustar precios, ya que ese método es defectuoso y genera ciclos de inflación descontrolada seguidos de caídas abruptas. Con este enfoque, garantizamos una economía sostenible y equilibrada dentro del proyecto.
 
 Nuestro algoritmo utilizará datos del flujo de pagos, oferta, demanda, transaciones, fees y otros factores para determinar el precio mas justo de tanto los articuloss de la tienda como otras características que iremos integrando. Con este formato no importara lo que ocurra en blockchain porque siempre estaremos mirando lo que sucede dentro de nuestro ecosistema.
+
+[🔼 Subir al Índice](#)
+
+---
+
+## Reputation Tag
+Los dueños de generadores recibirán una **etiqueta de reputación** basada en su tiempo de actividad, que va desde **0% hasta 100%**, con un **indicador visual de color** para señalar los niveles de riesgo para los ingenieros. Como ingeniero, podrás evaluar **qué tanto arriesgas tus ganancias** en un generador específico.  
+
+Estas estadísticas se calcularán con base en los **últimos 7 días de actividad**. Si eres un **nuevo dueño**, tu etiqueta mostrará **"NEW"** hasta que pasen 7 días. **Cada generador tiene su propia reputación**, incluso si pertenece al mismo dueño.
+
+### Colores de Reputación:
+- **0% - 69%** → 🔴 **Rojo**  
+- **70% - 89%** → 🟠 **Naranja**  
+- **90% - 100%** → 🟢 **Verde**  
+- **"NEW"** → 🟡 **Dorado**  
+
+[🔼 Subir al Índice](#)
+
+---
+
+## Anomalías - 2do Parche
+Como muchos notaron, **justo antes del mantenimiento ajustamos las anomalías**, y ahora pueden afectar tu generador **hasta un 100%**.  
+
+En esta nueva actualización (actualmente en desarrollo), las anomalías **no solo afectarán a los generadores, sino también a los ingenieros**. **Los ítems de protección para ingenieros ya han sido droppeados**, pero **el Gacha ya no los soltará en esta temporada**, que podría durar varios meses. Sin embargo, aún puedes **comerciarlos**, encontrarlos en el **mercado** o adquirirlos en la **tienda**, donde lanzaremos un **nuevo pack de protección** que podría salvarte.  
+
+Además, planeamos agregar **nuevos Efectos Colaterales** y **más dinamismo** en el **último parche de Tech Generator en su etapa Alpha**.
+
+[🔼 Subir al Índice](#)
+
+---
+
+## Lista de Favoritos
+Añade generadores a tu **lista de favoritos** para **acceder rápidamente** a su información.  
+🔒 **Solo disponible para suscriptores de Tech Pass.**
+
+---
+
+## Publicación de Tareas (Comunidad)
+La **comunidad** podrá **agregar tareas** a la **sección To-Do List** usando **$HCASH** como divisa para promocionar sus **contenidos, negocios, proyectos** y mucho más.
+
+[🔼 Subir al Índice](#)
+
+---
+
+## Próximo Juego: Chat-Adventure
+Estamos trabajando en nuestro **próximo juego**, una **aventura** en la que tenemos **mucha fe** y que muchos de ustedes están esperando con ansias:  
+
+🎮 **Chat-Adventure**  
+
+Creemos que será una **sensación mundial** para los **amantes de los RPG** que **no disponen de tecnología gamer de alta gama**, pero que aún desean una gran experiencia.  
+
+¡Todo lo que necesitas es tu **celular y Telegram** para jugar!
 
 ---
 
