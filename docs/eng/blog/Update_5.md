@@ -17,34 +17,33 @@ In this update, we’ll be brief. We will summarize and highlight the new featur
 ---
 
 ## What's New?
-1. New Game Server (AWS)
-2. HUB App Upgrades
-   - UI/UX
-   - Catalogue UI/UX
-   - Designs
-   - Language
-   - Username + Referral Code
-   - Store
-   - Consumables UX
-   - Engineer UX
-   - Internal Transfers
-   - Social Connect
 
-3. Tech Generators
-   - Pool Balancing
-   - Cycle Patch
-   - EXP Adjustment
-   - Golden Parts
-   - Tech Pass
-   - Anomalies
+1. [New Game Server (AWS)](#new-game-server-aws)
+2. [HUB App Upgrades](#hub-app-upgrades)
+   - [UI/UX](#hub-app-upgrades)
+   - [Catalogue UI/UX](#catalogue-uiux)
+   - [Designs](#designs-uiux)
+   - [Languages](#languages)
+   - [Username + Referral Code](#username--referral-code)
+   - [Store](#store)
+   - [Consumables UX](#consumables-ux)
+   - [Engineer UX](#engineer-ux)
+   - [Internal Transfers](#internal-transfer)
+   - [Social Connect](#social-connect)
+3. [Tech Generators](#tech-generators)
+   - [Pool Balancing](#pool-balancing)
+   - [Cycle Patch](#cycle-patch)
+   - [EXP Adjustment](#experience-adjustment)
+   - [Golden Parts](#golden--parts)
+   - [Tech Pass](#new-tech-pass-available)
+   - [Anomalies](#anomalies)
+4. [Black Market](#blackk-market)
+5. [Rewards & Bonuses](#rewards--bonus)
+   - [Discount & Gift Codes](#disscount--gift-codes)
+   - [Deposit Bonus](#deposit-bonus--referral-bonus)
+6. [HCREDIT Cards](#hcredit-cards)
+7. [New Easy-Commands](#new-easy-commands)
 
-4. Black Market  
-5. Rewards & Bonuses
-   - Discount & Gift Codes
-   - Deposit Bonus
-
-6. HCREDIT Cards  
-7. New Easy-Commands
 
 ---
 
@@ -95,14 +94,15 @@ Over 300 in-game items and icons were redesigned for a more polished experience.
 
 ### Languages
 
-![languagespic](image-2.png)
+![languagespic](/static/img/llanguageshub.png)
 
 We’ve added partial support for 24 languages in the mini app, nearly completing full translation. This improves user experience significantly.
 
 ### Username & Referral Code
 
-![usernameedit](image-3.png)  
-![refedit](image-4.png)
+![usernameedit](/static/img/editpen.png)  
+
+![refedit](/static/img/editpenref.png)
 
 Now you can edit your HUB username (10 HCASH fee) and your referral code (0.5 HCASH fee) directly in your profile.
 
@@ -110,7 +110,7 @@ Now you can edit your HUB username (10 HCASH fee) and your referral code (0.5 HC
 
 ### Store
 
-![storepic](image-5.png)
+![storepic](/static/img/storesample.png)
 
 The store now displays all items in $HCASH. Prices are currently fixed but will become dynamic based on supply and demand soon.
 
@@ -124,7 +124,7 @@ Buff consumables can now be applied 1 by 1 or in sets of 3. The "Apply All" butt
 
 ### Engineer UX
 
-![engux](image-6.png)
+![engux](/static/img/tallerdata.png)
 
 In the Engineer Workshop, you can now see how many engineers are assigned and their total power per generator without leaving the view.
 
@@ -158,7 +158,7 @@ We’re returning to our original roadmap, with some balance and quality-of-life
 
 ### Pool Balancing
 
-![pool70](image-7.png)
+![pool70](/static/img/poolbalancs.png)
 
 Reward distribution changed:
 - From 35% Owners / 65% Engineers  
@@ -216,7 +216,7 @@ The limit of 100 items per sale has been removed. You can now sell any quantity 
 
 ### Discount & Gift Codes
 
-![GiftCodes](image-1.png)
+![GiftCodes](/static/img/giftcode0.png)
 
 Influencers and community members will receive codes for discounts and gift rewards via the Gifts menu. More scalable features are coming.
 
@@ -224,7 +224,7 @@ Influencers and community members will receive codes for discounts and gift rewa
 
 ### Deposit Bonus & Referral Bonus
 
-![Depositbanner](image.png)
+![Depositbanner](/static/img/depositoffer.png)
 
 - 5% bonus for Tech Pass users depositing HCASH
 - 2% extra if your referrals deposit HCASH  
@@ -250,21 +250,27 @@ With $HCREDIT burning every 30 days, we've introduced **HCREDIT Cards**:
 A set of helpful Telegram bot commands now available:
 
 - **/kboard**: Re-activate your lost quick-access buttons  
+
 ![kboard](/static/img/image-9.png)
 
-- **Inventory**: Access item list via buttons  
+- **Inventory**: Access item list via buttons 
+
 ![inventorybot](/static/img/inventorybot.png)
 
-- **/user username**: View a player profile  
+- **/user username**: View a player profile 
+
 ![usercommand](/static/img/usercommand.png)
 
 - **/top_grep**: Top 20 generators with best reputation  
+
 ![topreputation](/static/img/topreputation.png)
 
 - **/gview_code**: View generator data by code  
+
 ![gviewc](/static/img/gviewc.png)
 
 - **/gfind code**: Search generators by tag/type/owner  
+
 ![commandsgbot](/static/img/commandsbot00.jpg)
 
 ---

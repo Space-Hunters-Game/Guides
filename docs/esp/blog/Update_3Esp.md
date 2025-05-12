@@ -93,14 +93,15 @@ Más de 300 íconos y objetos rediseñados para una experiencia visual más atra
 
 ### Idiomas
 
-![languagespic](image-2.png)
+![languagespic](/static/img/llanguageshub.png)
 
 Agregamos 24 idiomas parcialmente a la app. Esto mejora mucho la experiencia de los jugadores no hispanohablantes.
 
 ### Edición de Nombre y Código de Referido
 
-![usernameedit](image-3.png)  
-![refedit](image-4.png)
+![usernameedit](/static/img/editpen.png)  
+
+![refedit](/static/img/editpenref.png)
 
 - Cambiar nombre de usuario: 10 HCASH  
 - Cambiar código de referido: 0.5 HCASH  
@@ -109,7 +110,7 @@ Agregamos 24 idiomas parcialmente a la app. Esto mejora mucho la experiencia de 
 
 ### Tienda
 
-![storepic](image-5.png)
+![storepic](/static/img/storesample.png)
 
 La tienda usa solo $HCASH. Los precios son fijos, pero en la próxima actualización serán dinámicos según oferta y demanda.
 
@@ -123,7 +124,7 @@ Los "Buffs" ahora se aplican de 1 en 1 o en grupos de 3. Se eliminó el botón "
 
 ### UX de Ingenieros
 
-![engux](image-6.png)
+![engux](/static/img/tallerdata.png)
 
 Desde el Taller puedes ver cuántos ingenieros tiene cada generador y su potencia total, sin salir al mapa.
 
@@ -157,7 +158,7 @@ Volvemos a las raíces del plan original, con ajustes clave.
 
 ### Rebalanceo de Recompensas
 
-![pool70](image-7.png)
+![pool70](/static/img/poolbalancs.png)
 
 Antes: 35% Dueño / 65% Ingenieros  
 Ahora: 70% Dueño / 30% Ingenieros
@@ -214,7 +215,7 @@ Ya no necesitas tener mínimo 100 unidades. Ahora puedes vender cualquier cantid
 
 ### Códigos de Regalo y Descuento
 
-![GiftCodes](image-1.png)
+![GiftCodes](/static/img/giftcode0.png)
 
 Sistema de recompensas para creadores de contenido y comunidad. Los códigos se canjean en el menú de regalos. Más funciones en camino.
 
@@ -222,7 +223,7 @@ Sistema de recompensas para creadores de contenido y comunidad. Los códigos se 
 
 ### Bonos por Depósito y Referido
 
-![Depositbanner](image.png)
+![Depositbanner](/static/img/depositoffer.png)
 
 - 5% de bono para usuarios con Tech Pass que depositen HCASH  
 - 2% extra por cada referido con Tech Pass que deposite  
@@ -247,22 +248,28 @@ El $HCREDIT se quema cada 30 días, así que ahora puedes convertirlos en **Tarj
 
 Nuevos comandos en el bot:
 
-- **/kboard**: Reactiva el teclado rápido  
+- **/kboard**: Reactiva el teclado rápido 
+
 ![kboard](/static/img/image-9.png)
 
 - **Inventory**: Muestra todos tus ítems  
+
 ![inventorybot](/static/img/inventorybot.png)
 
 - **/user username**: Muestra el perfil del jugador  
+
 ![usercommand](/static/img/usercommand.png)
 
-- **/top_grep**: Muestra el top de generadores con mejor reputación  
+- **/top_grep**: Muestra el top de generadores con mejor reputación 
+
 ![topreputation](/static/img/topreputation.png)
 
 - **/gview_code**: Muestra datos de un generador específico  
+
 ![gviewc](/static/img/gviewc.png)
 
 - **/gfind code**: Encuentra generadores por tipo, clase o dueño  
+
 ![commandsgbot](/static/img/commandsbot00.jpg)
 
 ---
