@@ -60,15 +60,15 @@ Además de la migración, hicimos una **refactorización completa del código** 
 
 La experiencia en la mini app se mejoró visual y funcionalmente.
 
-![ship0080](/static/img/ship0080.png)
+![ship0080](../../../static/img/ship0080.png)
 
 - Rediseño visual completo. Mejor experiencia y base para futuras mecánicas.
 
-![genpopup](/static/img/genpopup001.png)
+![genpopup](../../../static/img/genpopup001.png)
 
 - Datos de generadores ahora mejor organizados y representados.
 
-![stats99](/static/img/stats99.png)
+![stats99](../../../static/img/stats99.png)
 
 - Ahora puedes ver el total de ingenieros contratados y activos, consumibles activos en toda la nave y nuevas estadísticas.
 
@@ -78,30 +78,30 @@ Se ajustó la cantidad máxima de paquetes que se pueden abrir simultáneamente.
 
 ### Catálogo de Juegos
 
-![catalog3](/static/img/SH001.png)
+![catalog3](../../../static/img/SH001.png)
 
 El nuevo catálogo es visual, minimalista e informativo. Muestra portada del juego, resumen y gameplay. Se irá ampliando con guías.
 
-![GenD](/static/img/UIUX.jpg)
+![GenD](../../../static/img/UIUX.jpg)
 
 ### Rediseño Visual
 
 Más de 300 íconos y objetos rediseñados para una experiencia visual más atractiva.
 
-![GenD](/static/img/Gens%20D.png)  
-![GenD](/static/img/Gen%20D.png)
+![GenD](../../../static/img/Gens%20D.png)  
+![GenD](../../../static/img/Gen%20D.png)
 
 ### Idiomas
 
-![languagespic](/static/img/llanguageshub.png)
+![languagespic](../../../static/img/llanguageshub.png)
 
 Agregamos 24 idiomas parcialmente a la app. Esto mejora mucho la experiencia de los jugadores no hispanohablantes.
 
 ### Edición de Nombre y Código de Referido
 
-![usernameedit](/static/img/editpen.png)  
+![usernameedit](../../../static/img/editpen.png)  
 
-![refedit](/static/img/editpenref.png)
+![refedit](../../../static/img/editpenref.png)
 
 - Cambiar nombre de usuario: 10 HCASH  
 - Cambiar código de referido: 0.5 HCASH  
@@ -110,7 +110,7 @@ Agregamos 24 idiomas parcialmente a la app. Esto mejora mucho la experiencia de 
 
 ### Tienda
 
-![storepic](/static/img/storesample.png)
+![storepic](../../../static/img/storesample.png)
 
 La tienda usa solo $HCASH. Los precios son fijos, pero en la próxima actualización serán dinámicos según oferta y demanda.
 
@@ -124,7 +124,7 @@ Los "Buffs" ahora se aplican de 1 en 1 o en grupos de 3. Se eliminó el botón "
 
 ### UX de Ingenieros
 
-![engux](/static/img/tallerdata.png)
+![engux](../../../static/img/tallerdata.png)
 
 Desde el Taller puedes ver cuántos ingenieros tiene cada generador y su potencia total, sin salir al mapa.
 
@@ -132,7 +132,7 @@ Desde el Taller puedes ver cuántos ingenieros tiene cada generador y su potenci
 
 ### Transferencias Internas
 
-![transfer](/static/img/image-8.png)
+![transfer](../../../static/img/image-8.png)
 
 Ahora puedes transferir $HCASH a otros usuarios:
 - Requiere nivel 15 para enviar
@@ -144,7 +144,7 @@ Ahora puedes transferir $HCASH a otros usuarios:
 
 ### Conexión Social
 
-![socialconnect](/docs/eng/blog/image-8.png)
+![socialconnect](../../../static/img/socialconnecct.png)
 
 Conecta tu cuenta de X (Twitter) para validar tareas sociales automáticamente y ganar $HCREDIT pasivo al mencionar el juego.
 
@@ -158,7 +158,7 @@ Volvemos a las raíces del plan original, con ajustes clave.
 
 ### Rebalanceo de Recompensas
 
-![pool70](/static/img/poolbalancs.png)
+![pool70](../../../static/img/poolbalancs.png)
 
 Antes: 35% Dueño / 65% Ingenieros  
 Ahora: 70% Dueño / 30% Ingenieros
@@ -193,7 +193,7 @@ El evento **Golden Hash Core** se reanudará por las 24h restantes. Esta parte d
 
 ### Nuevo Tech Pass
 
-![newpass](/static/img/New%20Tech%20Pass!.jpg)
+![newpass](../../../static/img/New%20Tech%20Pass!.jpg)
 
 Disponible en duraciones de 3, 7, 15 y 30 días. Comprar varios extiende la duración automáticamente.
 
@@ -215,7 +215,7 @@ Ya no necesitas tener mínimo 100 unidades. Ahora puedes vender cualquier cantid
 
 ### Códigos de Regalo y Descuento
 
-![GiftCodes](/static/img/giftcode0.png)
+![GiftCodes](../../../static/img/giftcode0.png)
 
 Sistema de recompensas para creadores de contenido y comunidad. Los códigos se canjean en el menú de regalos. Más funciones en camino.
 
@@ -223,7 +223,7 @@ Sistema de recompensas para creadores de contenido y comunidad. Los códigos se 
 
 ### Bonos por Depósito y Referido
 
-![Depositbanner](/static/img/depositoffer.png)
+![Depositbanner](../../../static/img/depositoffer.png)
 
 - 5% de bono para usuarios con Tech Pass que depositen HCASH  
 - 2% extra por cada referido con Tech Pass que deposite  
@@ -234,7 +234,7 @@ Esto impulsa el crecimiento de nuevos usuarios.
 
 # Tarjetas de HCREDIT
 
-![creditcards](/static/img/new%20credit%20%20sys.jpg)
+![creditcards](../../../static/img/new%20credit%20%20sys.jpg)
 
 El $HCREDIT se quema cada 30 días, así que ahora puedes convertirlos en **Tarjetas**:
 - De 100 o 500 HCREDIT
@@ -250,27 +250,27 @@ Nuevos comandos en el bot:
 
 - **/kboard**: Reactiva el teclado rápido 
 
-![kboard](/static/img/image-9.png)
+![kboard](../../../static/img/image-9.png)
 
 - **Inventory**: Muestra todos tus ítems  
 
-![inventorybot](/static/img/inventorybot.png)
+![inventorybot](../../../static/img/inventorybot.png)
 
 - **/user username**: Muestra el perfil del jugador  
 
-![usercommand](/static/img/usercommand.png)
+![usercommand](../../../static/img/usercommand.png)
 
 - **/top_grep**: Muestra el top de generadores con mejor reputación 
 
-![topreputation](/static/img/topreputation.png)
+![topreputation](../../../static/img/topreputation.png)
 
 - **/gview_code**: Muestra datos de un generador específico  
 
-![gviewc](/static/img/gviewc.png)
+![gviewc](../../../static/img/gviewc.png)
 
 - **/gfind code**: Encuentra generadores por tipo, clase o dueño  
 
-![commandsgbot](/static/img/commandsbot00.jpg)
+![commandsgbot](../../../static/img/commandsbot00.jpg)
 
 ---
 

@@ -32,18 +32,18 @@ In this update, we’ll be brief. We will summarize and highlight the new featur
    - [Social Connect](#social-connect)
 3. [Tech Generators](#tech-generators)
    - [Pool Balancing](#pool-balancing)
+   - [Contract Cooldown](#contract-cooldown)
    - [Cycle Patch](#cycle-patch)
    - [EXP Adjustment](#experience-adjustment)
-   - [Golden Parts](#golden--parts)
+   - [Golden Parts](#golden-parts)
    - [Tech Pass](#new-tech-pass-available)
    - [Anomalies](#anomalies)
-4. [Black Market](#blackk-market)
-5. [Rewards & Bonuses](#rewards--bonus)
-   - [Discount & Gift Codes](#disscount--gift-codes)
+4. [Black Market](#black-market)
+5. [Rewards & Bonuses](#rewards--bonuses)
+   - [Discount & Gift Codes](#discount--gift-codes)
    - [Deposit Bonus](#deposit-bonus--referral-bonus)
 6. [HCREDIT Cards](#hcredit-cards)
 7. [New Easy-Commands](#new-easy-commands)
-
 
 ---
 
@@ -51,25 +51,26 @@ In this update, we’ll be brief. We will summarize and highlight the new featur
 
 As many of you know, Space Hunters has been migrated to a new AWS server. It took time, but we successfully improved game performance and, most importantly, player security.
 
-We also took the opportunity to push features that will be released soon. From now on, we won’t need to stop development due to server limitations, as all services are centralized now.
+We also used this opportunity to advance features that will be released soon. From now on, we won’t need to stop development due to server limitations, as all services are centralized.
 
-This wasn’t just a basic migration, but a full code refactor to improve structure and scalability. After several testing phases, we’re ready to open again, though many new features are still in progress.
+This wasn’t just a basic migration, but a full code refactor to improve structure and scalability. After several testing phases, we’re ready to reopen, even if many new features are still in progress.
 
 ---
 
 # HUB App Upgrades
 
-The user experience has been greatly improved in the mini app as well.
+The user experience has been greatly improved in the mini app.
 
-![ship0080](/static/img/ship0080.png)
+
+![ship0080](../../../static/img/ship0080.png)
 
 - Complete visual and code redesign. Better UX and room for new mechanics.
 
-![genpopup](/static/img/genpopup001.png)
+![genpopup](../../../static/img/genpopup001.png)
 
 - Improved data organization and generator characteristic display.
 
-![stats99](/static/img/stats99.png)
+![stats99](../../../static/img/stats99.png)
 
 - You can now see how many engineers are hired and active, as well as global consumable usage and upcoming stats.
 
@@ -79,30 +80,30 @@ We now limit how many packs can be opened simultaneously, depending on the item 
 
 ### Catalogue UI/UX
 
-![catalog3](/static/img/SH001.png)
+![catalog3](../../../static/img/SH001.png)
 
 The new catalogue shows the game’s cover as a preview. Inside, you can see gameplay screenshots and a game summary. More content will be added soon.
 
-![GenD](/static/img/UIUX.jpg)
+![GenD](../../../static/img/UIUX.jpg)
 
 ### Design UI/UX
 
 Over 300 in-game items and icons were redesigned for a more polished experience.
 
-![GenD](/static/img/Gens%20D.png)  
-![GenD](/static/img/Gen%20D.png)
+![GenD](../../../static/img/Gens%20D.png)  
+![GenD](../../../static/img/Gen%20D.png)
 
 ### Languages
 
-![languagespic](/static/img/llanguageshub.png)
+![languagespic](../../../static/img/llanguageshub.png)
 
 We’ve added partial support for 24 languages in the mini app, nearly completing full translation. This improves user experience significantly.
 
 ### Username & Referral Code
 
-![usernameedit](/static/img/editpen.png)  
+![usernameedit](../../../static/img/editpen.png)  
 
-![refedit](/static/img/editpenref.png)
+![refedit](../../../static/img/editpenref.png)
 
 Now you can edit your HUB username (10 HCASH fee) and your referral code (0.5 HCASH fee) directly in your profile.
 
@@ -110,7 +111,7 @@ Now you can edit your HUB username (10 HCASH fee) and your referral code (0.5 HC
 
 ### Store
 
-![storepic](/static/img/storesample.png)
+![storepic](../../../static/img/storesample.png)
 
 The store now displays all items in $HCASH. Prices are currently fixed but will become dynamic based on supply and demand soon.
 
@@ -124,7 +125,7 @@ Buff consumables can now be applied 1 by 1 or in sets of 3. The "Apply All" butt
 
 ### Engineer UX
 
-![engux](/static/img/tallerdata.png)
+![engux](../../../static/img/tallerdata.png)
 
 In the Engineer Workshop, you can now see how many engineers are assigned and their total power per generator without leaving the view.
 
@@ -132,7 +133,7 @@ In the Engineer Workshop, you can now see how many engineers are assigned and th
 
 ### Internal Transfer
 
-![transfer](/static/img/image-8.png)
+![transfer](../../../static/img/image-8.png)
 
 You can now transfer HCASH to other accounts:
 - Level 15 required to send
@@ -144,7 +145,7 @@ You can now transfer HCASH to other accounts:
 
 ### Social Connect
 
-![socialconnect](image-8.png)
+![socialconnect](../../../static/img/socialconnecct.png)
 
 Link your X account to auto-complete social tasks and receive passive $HCREDIT every time you mention the game.
 
@@ -158,7 +159,7 @@ We’re returning to our original roadmap, with some balance and quality-of-life
 
 ### Pool Balancing
 
-![pool70](/static/img/poolbalancs.png)
+![pool70](../../../static/img/poolbalancs.png)
 
 Reward distribution changed:
 - From 35% Owners / 65% Engineers  
@@ -194,7 +195,7 @@ The **Golden Hash Core** event will resume for the 24h that were left before mai
 
 ### New Tech Pass Available
 
-![newpass](/static/img/New%20Tech%20Pass!.jpg)
+![newpass](../../../static/img/New%20Tech%20Pass!.jpg)
 
 Available in 3-day, 7-day, 15-day, and 30-day versions. Buying multiples extends the expiry.
 
@@ -216,7 +217,7 @@ The limit of 100 items per sale has been removed. You can now sell any quantity 
 
 ### Discount & Gift Codes
 
-![GiftCodes](/static/img/giftcode0.png)
+![GiftCodes](../../../static/img/giftcode0.png)
 
 Influencers and community members will receive codes for discounts and gift rewards via the Gifts menu. More scalable features are coming.
 
@@ -224,7 +225,7 @@ Influencers and community members will receive codes for discounts and gift rewa
 
 ### Deposit Bonus & Referral Bonus
 
-![Depositbanner](/static/img/depositoffer.png)
+![Depositbanner](../../../static/img/depositoffer.png)
 
 - 5% bonus for Tech Pass users depositing HCASH
 - 2% extra if your referrals deposit HCASH  
@@ -234,7 +235,7 @@ This system supports new users and investors as we expand the reward ecosystem.
 
 # HCREDIT Cards
 
-![creditcards](/static/img/new%20credit%20%20sys.jpg)
+![creditcards](../../../static/img/new%20credit%20%20sys.jpg)
 
 With $HCREDIT burning every 30 days, we've introduced **HCREDIT Cards**:
 - Convert 100 or 500 $HCREDIT into cards
@@ -251,27 +252,27 @@ A set of helpful Telegram bot commands now available:
 
 - **/kboard**: Re-activate your lost quick-access buttons  
 
-![kboard](/static/img/image-9.png)
+![kboard](../../../static/img/image-9.png)
 
 - **Inventory**: Access item list via buttons 
 
-![inventorybot](/static/img/inventorybot.png)
+![inventorybot](../../../static/img/inventorybot.png)
 
 - **/user username**: View a player profile 
 
-![usercommand](/static/img/usercommand.png)
+![usercommand](../../../static/img/usercommand.png)
 
 - **/top_grep**: Top 20 generators with best reputation  
 
-![topreputation](/static/img/topreputation.png)
+![topreputation](../../../static/img/topreputation.png)
 
 - **/gview_code**: View generator data by code  
 
-![gviewc](/static/img/gviewc.png)
+![gviewc](../../../static/img/gviewc.png)
 
 - **/gfind code**: Search generators by tag/type/owner  
 
-![commandsgbot](/static/img/commandsbot00.jpg)
+![commandsgbot](../../../static/img/commandsbot00.jpg)
 
 ---
 
