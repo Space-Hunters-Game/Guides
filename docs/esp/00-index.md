@@ -9,6 +9,7 @@
 ### 🔄 Lista de Actualizaciones 
 - 🔧 [#1 Actualización 02/7/2025](../../docs/esp/blog/majorupdate.md)
 - 🔧 [#2 Actualización 03/26/2025](../../docs/esp/blog/update2_es.md)
+- 🔧 [#3 Mantenimiento y Update 05/12/2025](../../docs/esp/blog/Update_3Esp.md)
 
 ### 💰 Economía
 - 📌 [$HCASH](anuncios/HCASH_Summary_ES.md)
