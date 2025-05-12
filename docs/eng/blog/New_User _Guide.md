@@ -1,27 +1,31 @@
-![hunterhub2](/static/img/BannerN0.jpg)
+![Space Hunters: Reborn](../../../static/img/newguidebanner.jpg)
+[Back to Home](../../../index.md)
+💠
+### 🚀 **New User Guide**
 
->  👽 *Welcome to our ecosystem documentation*
+# Welcome Hunter!
 
-💬 **Select Language**
+Space Hunters is a blockchain-based ecosystem that brings together immersive games, strategic management, and an interconnected economy. Players explore a galactic universe, managing resources, completing tasks, and participating in a community-driven experience.
 
-* 📌 [Español](docs/esp/00-index.md)
+---
+> Check latest updates from [main page](../../../index.md) in the Updates List
 
-### 🔄 Updates List 
-- 🔧 [#1 Update 02/7/2025 ](/docs/eng/blog/majorupdate_eng.md)
-- 🔧 [#2 Update 03/26/2025 ](/docs/eng/blog/update2.md)
-- 🔧 [#3 Maintenance & Update 05/12/2025 ](/docs/eng/blog/Update_5.md)
+---
+
+> Read the [Tech Geenerators](../../../docs/eng/01-user-guides/generatorsenglish.md) game Whitepaper.
+
+---
+
+## How to start?
 
 
-### 💰 Tokenomic
-- 📌 [$HCASH](/docs/eng/announcements/HCASH_Summary_EN.md)
-- 📌 [$HCREDIT](/docs/eng/01-user-guides/hcreditguide.md)
+---
 
-### 📃 Whitepapers
-- 📌 The Reborn (Soon)
-- 📌 [Tech: Generators (Alpha)](/docs/eng/01-user-guides/generatorsenglish.md)
-- 📌 Chat-Adventure (soon)
-- 📌 Novarians Conflict (soon)
-  
+[🔼 Back to Index](#)
+
+---
+
+[Back to Home](../../../index.md)
 
 ---
 ---
