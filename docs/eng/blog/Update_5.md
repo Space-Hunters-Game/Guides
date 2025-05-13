@@ -227,8 +227,8 @@ Influencers and community members will receive codes for discounts and gift rewa
 
 ![Depositbanner](../../../static/img/depositoffer.png)
 
-- 5% bonus for Tech Pass users depositing HCASH
-- 2% extra if your referrals deposit HCASH  
+- 3% bonus for every HCASH deposit
+- 2% extra from your referrals deposits  
 This system supports new users and investors as we expand the reward ecosystem.
 
 ---
