@@ -225,8 +225,8 @@ Sistema de recompensas para creadores de contenido y comunidad. Los códigos se 
 
 ![Depositbanner](../../../static/img/depositoffer.png)
 
-- 5% de bono para usuarios con Tech Pass que depositen HCASH  
-- 2% extra por cada referido con Tech Pass que deposite  
+- 3% de bono de tus depósitos en HCASH  
+- 2% extra de tus referido cuando depositan HCASH  
 
 Esto impulsa el crecimiento de nuevos usuarios.
 
