@@ -4,11 +4,11 @@
 
 🌍 **Languages**
 
-* ✅  English
-* 🌐 [Spanish](/docs/esp/es.md)
-* 🌐 [Russian](/docs/ru/ru.md)
-* 🌐 [Chinese](/docs/zh/zh.md)
-* 🌐 [Hindi](/docs/hi/hi.md)
+* ✅ English
+* 🌐 [Spanish](../esp/es.md)
+* 🌐 [Russian](../ru/ru.md)
+* 🌐 [Chinese](../zh/zh.md)
+* 🌐 [Hindi](../hi/hi.md)
 
 ---
 
@@ -71,7 +71,7 @@
 Space Hunters is an ecosystem of interconnected games unified by a single player profile and a globalized economy. This ecosystem includes both in-game and blockchain-based economies, both working together to power the overall economic model.
 
 ---
-### 🪙 Tokens Used:
+### 🪙 Tokens Uses:
 - **$HCASH →** Main currency, earned by playing, through player-to-player trading, or via DEX.
 - **$HCREDIT →** Secondary token, non-tradeable, functions as an operational tool and intermediary between player performance and the main token $HCASH.
 

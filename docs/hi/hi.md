@@ -2,11 +2,11 @@
 
 >  👽 *Documentación oficial de Space Hunters*
 
-🌍 **Idioma**s
-* 🌐 [English](/docs/eng/en.md)
-* 🌐 [Spanish](/docs/esp/es.md)
-* 🌐 [Russian](/docs/ru/ru.md)
-* 🌐 [Chinese](/docs/zh/zh.md)
+🌍 **Languages**
+* 🌐 [English](../eng/en.md)
+* 🌐 [Spanish](../esp/es.md)
+* 🌐 [Russian](../ru/ru.md)
+* 🌐 [Chinese](../zh/zh.md)
 * ✅ Hindi
 
 ---

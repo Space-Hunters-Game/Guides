@@ -3,11 +3,11 @@
 >  👽 *Documentación oficial de Space Hunters*
 
 🌍 **Idioma**s
-* 🌐 [English](/docs/eng/en.md)
+* 🌐 [English](../eng/en.md)
 * ✅ Español
-* 🌐 [Russian](/docs/ru/ru.md)
-* 🌐 [Chinese](/docs/zh/zh.md)
-* 🌐 [Hindi](/docs/hi/hi.md)
+* 🌐 [Russian](../ru/ru.md)
+* 🌐 [Chinese](../zh/zh.md)
+* 🌐 [Hindi](../hi/hi.md)
 ---
 
 # 📚 Índice
