@@ -28,13 +28,13 @@
         - Puntos de Méritos (Próximamente)
         - Proveedores de Liquidez (Próximamente)
         - [Evento Mensual](#️-evento-mensual)
-        - [Chat-to-Earn](#-nivel-de-energia)
-        - [Tech Tickets](#
-        - [Ads por Energía](#)
-        - [Descuentos semanales](#)
-        - [Logros](#)
-        - [Código de Creador](#)
-        - [Código de Regalo](#)
+        - [Chat-to-Earn](#️-chat-to-earn--e2e)
+        - [Tech Tickets](#-tech-tickets)
+        - [Ads por Energía](#-ads-por-energía)
+        - [Descuentos semanales](#️-descuentos-y-promo-semanal)
+        - [Logros](#-logros)
+        - [Código de Creador](#-código-de-creador)
+        - [Código de Regalo](#-código-de-regalo)
     - [Mercado in-Game](#️-mercado-in-game)
     - [Sistema de Pools](#)
         - [Pools de Tokens](#)
@@ -209,6 +209,39 @@ LLos Tech  Tickets se usan en el **Gacha Machine**, es una mecánica emocionante
 - **Probabilidades:** 80% de éxito y 20% de fallo.
 - **Tickets gratuitos:** Puedes obtener tickets completando tareas diarias, participando en grupos y gremios, chateando, y comprando en la tienda.
 - **Ticket Pack**: Puedes conseguir hasta 500 tickets dentro de estos packs y estan a la venta en la tienda individualmente o dentro de otros paquetes combinados (Bundles).
+
+
+---
+### 🗨️ Chat-to-Earn  (E2E)💵
+Chat to Earn es un  modelo basico de monetización que permite a los jugadores ganar HCREDIT por participar en el chat, básicamente ganar recompensas automaticamente por hacer lo  que hacen diariamente, chatear y pasarla bien.
+- Ganan HCREDIT cada vez que envian un mensaje
+- Ganan  Elementos basado en probabilidades cuando chatean
+- Ganan Tech Tickets basado en probabilidades cuando chatean
+
+---
+### 📹 Ads por Energía
+Adicional a los incentivos que ya conocemos, agregamos en las "Tareas Diarias" un par de botones que permiten ver anuncios en formato video de 15s o 30s, Banner vertical o incluso solamente visitar un sitio web algun canal de  telegral y a cambio obtienes energía gratis e instantanea. Los pagos de los ads pueden cambiar a tokens, items etc... si juegas free esta es una gran ventaja, y si juegas invirtiendo estas opciones mejoran  tu rendimiento.
+
+---
+### 🛍️ Descuentos y Promo Semanal
+Cada semana la tienda del juego  tiene promociones, si es una importante se anuncia y si es  una commún o frecuente el jugador debe estar a tento y pasear por la tienda cada rato. Esta  estrategia crea aleatoriedad a la suerte y permite que cualquiera pueda beneficiarse.
+
+---
+### 🎁 Código de Creador
+Si eres creador de contenido y ya publicaste algo sobre Space Hunters , puedes obtener un código de creador que te permite ganar el 2% de todas las compras en la tienda con HCASH, reallizadas por tus amigos o seguidores  que usen este código durante su validez.
+- Código de creador vállido por 30 días
+- Ofrece 10% de descuento al que lo usa
+- Regala 2% del HCASH al creador
+- El usuario que usa el código no lo puede cambiar hasta que expire.
+
+---
+### 🎁 Código de Regalo
+Este código lo otorga el equipo de desarrollo por eventos exclusivos.
+
+---
+### 🏆 Logros
+Todos los jugadorees tienen acceso a completar una larga lista de logros que les ayuda a obtener un gran impulso en los primeros niveles. Visita la app y la sección de logros para mas detalles, son mas de 60 logros actualmente.
+
 
 🔼 [**Subir al Inicio**](#)
 
