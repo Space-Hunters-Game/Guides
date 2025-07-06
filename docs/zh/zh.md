@@ -4,11 +4,11 @@
 
 🌍 **Languages**
 
-* 🌐 [English](/docs/eng/en.md)
-* 🌐 [Spanish](/docs/esp/es.md)
-* 🌐 [Russian](/docs/ru/ru.md)
+* 🌐 [English](../eng/en.md)
+* 🌐 [Spanish](../esp/es.md)
+* 🌐 [Russian](../ru/ru.md)
 * ✅ Chinese
-* 🌐 [Hindi](/docs/hi/hi.md)
+* 🌐 [Hindi](../hi.md)
 
 ---
 

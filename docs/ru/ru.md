@@ -1,16 +1,13 @@
-
-
 ![hunterhubesp](../../static/img/shuniverse.png)
 
 > 👽 *Official Space Hunters Documentation*
 
 🌍 **Languages**
-
-* 🌐 [English](/docs/eng/en.md)
-* 🌐 [Spanish](/docs/esp/es.md)
-* ✅  Russian
-* 🌐 [Chinese](/docs/zh/zh.md)
-* 🌐 [Hindi](/docs/hi/hi.md)
+* 🌐 [English](../eng/en.md)
+* 🌐 [Spanish](../esp/es.md)
+* ✅ Russian
+* 🌐 [Chinese](../zh/zh.md)
+* 🌐 [Hindi](../hi/hi.md)
 
 ---
 # 📚 Содержание
