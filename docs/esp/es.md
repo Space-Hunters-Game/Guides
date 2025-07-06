@@ -1,10 +1,13 @@
-![hunterhubesp](../..//static/img/GameGuideSH.png)
+![hunterhubesp](../../static/img/shuniverse.png)
 
 >  👽 *Documentación oficial de Space Hunters*
 
 🌍 **Idioma**s
-* 🌐 [English](../../index.md)
+* 🌐 [English](/docs/eng/en.md)
 * ✅ Español
+* 🌐 [Russian](/docs/ru/ru.md)
+* 🌐 [Chinese](/docs/zh/zh.md)
+* 🌐 [Hindi](/docs/hi/hi.md)
 ---
 
 # 📚 Índice
@@ -159,7 +162,7 @@ Este sistema de referidos no tiene deficiencias, premia exelentemente a los juga
 
 - **Obtienes una Caja de regalo con** 5000 HCREDIT (con Tech Pass es 10,000) y 1 Tech Ticket. Se abre a los 7 check-ins echo por  tu amigo.
 
-- Tu amigo obtiene una caja de regalo con 5000 HCREDIT (10,000 si tiene Tech Pass) + Tech Ticket + Elementos + 2 Pociones de Energía!
+- Tu amigo obtiene una caja de regalo con 10,000 HCREDIT (20,000 si tiene Tech Pass) + Tech Ticket + Elementos + 2 Pociones de 50% de Energía cada una+ **TECH PASS por 7 Días** (equivalente a 19 HCASH)!
 
 - **2% HCASH bonus** en todos los depósitos de tus amigos! Si, te regalamos 2% de lo que ellos depositen en el juego.
 
@@ -198,11 +201,13 @@ Este incentivo es un evento que contiene una pool de varios millones de HCREDIT 
 
 > ⛏ Cada compra en la tienda con HCASH = 25 Puntos
 
+> 👀 Cada ADS visto = 2 Puntos
+
 > ❤️ Comentar + RT + Like en Twitter(X)  = 50 Puntos
 
 > 🐈 Cada nuevo referido = 200 Puntos ( si completa los 7+ check-ins )📌
 
->  👍 Más Punto = Mejor Posición en el Rank 🎨
+> 👍 Más Punto = Mejor Posición en el Rank 🎨
 ---
 ### 📜 Tech Tickets
 LLos Tech  Tickets se usan en el **Gacha Machine**, es una mecánica emocionante que te permite obtener ítems consumibles gratis para usar en nuestros juegos. La encuentras en el menú desplegable al hacer clic en tu foto de perfil.
@@ -277,10 +282,61 @@ El mercado de Space Hunters es muy diferente a lo básico que ya conoces de otro
 ---
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-Game_App-26A5E4?style=plastic&logo=telegram)](https://t.me/SpaceHuntersBot)
-[![Telegram](https://img.shields.io/badge/Telegram-Announcements-26A5E4?style=plastic&logo=telegram)](https://t.me/spacehuntersnews)
-[![Telegram EN](https://img.shields.io/badge/Telegram-Chat%20ENG-2CA5E0?style=plastic&logo=telegram)](https://t.me/spacehunterss)
-[![Telegram EN](https://img.shields.io/badge/Telegram-Chat%20ESP-2CA5E0?style=plastic&logo=telegram)](https://t.me/shspanish)
-[![X Generators](https://img.shields.io/badge/Twitter-Tech%20Gen-F50303?style=plastic&logo=twitter)](https://x.com/generatorsgame)
-[![X ChatAdv](https://img.shields.io/badge/Twitter-Chat%20Adventure-F50303?style=plastic&logo=twitter)](https://x.com/chatadventure)
-[![X SH](https://img.shields.io/badge/Twitter-Space%20Hunters-F50303?style=plastic&logo=twitter)](https://x.com/nftspacehunters)
+# 🌌 Connect With Us
+
+<details>
+<summary><b>🎮 DEX & Game</b></summary>
+<p align="center">
+  <a href="https://app.tonco.io/#/swap?from=TON&to=HCASH&amount=1">
+    <img src="https://img.shields.io/badge/Buy_HCASH-Swap-FFAA00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNMjgyLjMgNDY3LjdjMTMuNSAxMy41IDM1LjUgMTMuNSAxOS4xIDBsMTI2LjEtMTI2LjFjOS00LjcgOS0xMi40IDAtMTcuMUwyOTcuMyAxMTQuNWMtOS00LjctOS0xMi40IDAtMTcuMWwxMjYuMS0xMjYuMWMxMy41LTEzLjUgMzUuNS0xMy41IDE5LjEgMGwyOC4zIDI4LjNjNC43IDQuNyA0LjcgMTIuNCAwIDE3LjFMMzQ3LjYgMjI0LjhjLTQuNyA0LjctMTIuNCA0LjctMTcuMSAwTDI4Mi4zIDExNC41Yy00LjctNC43LTEyLjQtNC43LTE3LjEgMEwyMzcuMCA4NS4yYy00LjctNC43LTQuNy0xMi40IDAtMTcuMWwxMjYuMS0xMjYuMWMxMy41LTEzLjUgMTMuNS0zNS41IDAtMTkuMUwyMzMuNSA2NS4xYy0xMy41LTEzLjUtMzUuNS0xMy41LTE5LjEgMEwxMDQuNCAxNzQuNWMtNC43IDQuNy00LjcgMTIuNCAwIDE3LjFMMjE0LjcgMjg0LjhjNC43IDQuNyAxMi40IDQuNyAxNy4xIDBMMjU4LjkgMjU2YzQuNy00LjcgNC43LTEyLjQgMC0xNy4xTDIzNy4wIDQyOC45Yy00LjctNC43LTQuNy0xMi40IDAtMTcuMUwyODIuMg0NjcuN3oiLz48L3N2Zz4=" alt="Buy HCASH">
+  </a>
+  <a href="https://t.me/SpaceHuntersBot">
+    <img src="https://img.shields.io/badge/Game_App-0088CC?style=for-the-badge&logo=telegram" alt="Game App">
+  </a>
+</p>
+</details>
+
+<details>
+<summary><b>📰 News Channels</b></summary>
+<p align="center">
+  <a href="https://t.me/spacehuntersnews">
+    <img src="https://img.shields.io/badge/SpaceHunters-News-00AABB?style=for-the-badge&logo=telegram" alt="SpaceHunters News">
+  </a>
+  <a href="https://t.me/techgenerators">
+    <img src="https://img.shields.io/badge/Tech_Generator-News-00CC99?style=for-the-badge&logo=telegram" alt="Tech Generator">
+  </a>
+  <a href="https://t.me/thechatadventure">
+    <img src="https://img.shields.io/badge/Chat_Adventure-News-0066CC?style=for-the-badge&logo=telegram" alt="Chat Adventure">
+  </a>
+</p>
+</details>
+
+<details>
+<summary><b>💬 Community Chats</b></summary>
+<p align="center">
+  <a href="https://t.me/spacehunterss">
+    <img src="https://img.shields.io/badge/Chat_EN-33AA55?style=for-the-badge&logo=telegram" alt="Chat EN">
+  </a>
+  <a href="https://t.me/shspanish">
+    <img src="https://img.shields.io/badge/Chat_ES-FF5733?style=for-the-badge&logo=telegram" alt="Chat ES">
+  </a>
+  <a href="https://t.me/spacehuntersrus">
+    <img src="https://img.shields.io/badge/Chat_RU-9933CC?style=for-the-badge&logo=telegram" alt="Chat RU">
+  </a>
+</p>
+</details>
+
+<details>
+<summary><b>🐦 Social Media (X)</b></summary>
+<p align="center">
+  <a href="https://x.com/generatorsgame">
+    <img src="https://img.shields.io/badge/Tech_Gen-1DA1F2?style=for-the-badge&logo=x" alt="Tech Gen">
+  </a>
+  <a href="https://x.com/chatadventure">
+    <img src="https://img.shields.io/badge/Chat_Adventure-1DA1F2?style=for-the-badge&logo=x" alt="Chat Adventure">
+  </a>
+  <a href="https://x.com/nftspacehunters">
+    <img src="https://img.shields.io/badge/Space_Hunters-1DA1F2?style=for-the-badge&logo=x" alt="Space Hunters">
+  </a>
+</p>
+</details>
